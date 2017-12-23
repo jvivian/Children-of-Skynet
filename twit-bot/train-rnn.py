@@ -164,7 +164,7 @@ def generate_text_from_seed(model, opts, num_chars=400):
 
 def echo(message, filename):
     """
-    Wrapper for echo to get both stdout and output to file
+    Wrapper for click.echo to get both stdout and output to file
 
     :param str message:
     :param str filename:
@@ -207,7 +207,7 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, gru, set_
     echo('-- Network Settings -- ', filename=log)
     echo(''.join(['{}\t{}\n'.format(x, y) for x, y in sorted(locals().iteritems())]), filename=log)
 
-    # Create object to hold options and settings
+    # Object to hold options and settings
     opts = rexpando(locals())
 
     # Read input text
