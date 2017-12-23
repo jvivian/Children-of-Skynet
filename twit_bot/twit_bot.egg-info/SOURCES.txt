@@ -1,6 +1,0 @@
-twit_bot.egg-info/PKG-INFO
-twit_bot.egg-info/SOURCES.txt
-twit_bot.egg-info/dependency_links.txt
-twit_bot.egg-info/entry_points.txt
-twit_bot.egg-info/requires.txt
-twit_bot.egg-info/top_level.txt

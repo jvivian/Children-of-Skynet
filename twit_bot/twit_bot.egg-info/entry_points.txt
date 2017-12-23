@@ -1,4 +1,0 @@
-
-        [console_scripts]
-        train-rnn=train_rnn:train
-    
