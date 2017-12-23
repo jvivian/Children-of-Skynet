@@ -187,7 +187,7 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, gru, set_
     """
     Train a recurrent neural network (RNN) on a provided TEXT
 
-    Example: `python train-rnn.py data/sanitized-tweets.txt`
+    Example: `train-rnn data/sanitized-tweets.txt`
     """
     click.clear()
 

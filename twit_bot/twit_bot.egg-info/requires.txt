@@ -1,0 +1,6 @@
+Click
+rnaseq-lib
+pandas
+keras
+tensorflow
+numpy
