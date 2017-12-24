@@ -117,7 +117,6 @@ def str_to_vec(sentence, opts):
     :return: Vectorized input
     :rtype: np.array
     """
-    assert len(sentence) == opts.maxlen
     x_pred = np.zeros((1, opts.maxlen, opts.len_chars))
     for t, char in enumerate(sentence):
         x_pred[0, t, opts.char_indices[char]] = 1.
@@ -146,11 +145,11 @@ def generate_text_from_seed(model, opts, num_chars=400):
     """
     seed = generate_seed(opts)
     echo('\n-- Text Generation --\nSeed: {}'.format(seed), filename=opts.log)
-    sentence = seed
+    sentence = '' + seed
 
     for i in xrange(num_chars):
         # Convert text seed to input
-        x_pred = str_to_vec(seed, opts)
+        x_pred = str_to_vec(sentence, opts)
 
         # Make prediction with model
         preds = model.predict(x_pred, verbose=0)[0]
@@ -219,6 +218,7 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, gru, set_
 
     # Create training set
     x, y = create_training_set(opts)
+    echo('Created {} training samples from text'.format(len(y)))
 
     # Create model
     model = create_model(opts)
