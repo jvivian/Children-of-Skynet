@@ -224,7 +224,7 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, gru, set_
     model = create_model(opts)
 
     # Define logger for training callbacks
-    logger = CSVLogger('data/model-history.tsv', append=True, separator='\t')
+    logger = CSVLogger(os.path.join(out_dir, 'model-history.tsv'), append=True, separator='\t')
 
     # Train model
     for i in xrange(epochs):
