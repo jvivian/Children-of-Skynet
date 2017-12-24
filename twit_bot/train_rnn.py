@@ -117,6 +117,7 @@ def str_to_vec(sentence, opts):
     :return: Vectorized input
     :rtype: np.array
     """
+    assert len(sentence) == opts.maxlen
     x_pred = np.zeros((1, opts.maxlen, opts.len_chars))
     for t, char in enumerate(sentence):
         x_pred[0, t, opts.char_indices[char]] = 1.
