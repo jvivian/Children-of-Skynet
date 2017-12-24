@@ -218,7 +218,7 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, gru, set_
 
     # Create training set
     x, y = create_training_set(opts)
-    echo('Created {} training samples from text'.format(len(y)))
+    echo('Created {} training samples from text'.format(len(y)), filename=log)
 
     # Create model
     model = create_model(opts)
