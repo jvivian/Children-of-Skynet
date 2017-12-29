@@ -81,14 +81,18 @@ def create_model(opts):
     # Create a sequential model
     model = Sequential()
 
-    # Add first layer with input_shape and a Dropout layer
-    model.add(layer(opts.units, input_shape=(opts.maxlen, opts.len_chars)))
-    model.add(Dropout(0.2))
-
-    # If num_layers > 1, add more
-    for i in xrange(opts.num_layers - 1):
-        model.add(layer(opts.units))
+    if opts.num_layers == 1:
+        model.add(layer(opts.units, input_shape=(opts.maxlen, opts.len_chars)))
         model.add(Dropout(opts.dropout))
+
+    # Multiple RNN layers require a return_sequences=True to join together
+    else:
+        model.add(layer(opts.units, return_sequences=True,
+                        input_shape=(opts.maxlen, opts.len_chars)))
+        model.add(Dropout(opts.dropout))
+        for i in xrange(opts.num_layers - 1):
+            model.add(layer(opts.units, return_sequences=True))
+            model.add(Dropout(opts.dropout))
 
     # Add final Dense layer
     model.add(Dense(opts.len_chars, activation='softmax'))
