@@ -98,7 +98,7 @@ def create_model(opts):
     # If num_layers > 1, add more
     for i in xrange(opts.num_layers - 1):
         model.add(layer(opts.units))
-        model.add(Dropout(0.2))
+        model.add(Dropout(opts.dropout))
 
     # Add final Dense layer
     model.add(Dense(opts.len_chars, activation='softmax'))
@@ -180,7 +180,8 @@ def echo(message, filename):
 @click.option('--epochs', default=20, help='Number of epochs to train for')
 @click.option('--batch-size', default=128, help='Batch size when training')
 @click.option('--num-layers', default=1, help='Number of LSTM/GRU layers to add')
-@click.option('--units', default=256, help='Number of memory units in GRU/LSTM')
+@click.option('--units', default=256, help='Number of memory units in RNN layer')
+@click.option('--dropout', default=0.2, help='Dropout value added after RNN layers (between 0 and 1)')
 @click.option('--gru', is_flag=True, help='Use GRU layers instead of LSTM layers')
 @click.option('--set-gpu', is_flag=True, help='Sets CUDA to use available GPU')
 def train(text, maxlen, stride, epochs, batch_size, num_layers, units, gru, set_gpu):
