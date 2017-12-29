@@ -187,7 +187,7 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, 
     # Create directories for model
     if not os.path.exists('models'):
         os.mkdir('models')
-    dir_name = '{maxlen}-{stride}-{epochs}-{batch_size}-{num_layers}-{units}-{gru}'.format(**locals())
+    dir_name = '{maxlen}-{stride}-{epochs}-{batch_size}-{num_layers}-{units}-{dropout}-{gru}'.format(**locals())
     out_dir = os.path.join('models', dir_name)
     os.mkdir(out_dir)
 
