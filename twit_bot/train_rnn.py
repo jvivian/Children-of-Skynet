@@ -81,6 +81,7 @@ def create_model(opts):
     # Create a sequential model
     model = Sequential()
 
+    # Add layers based on configuration
     if opts.num_layers == 1:
         model.add(layer(opts.units, input_shape=(opts.maxlen, opts.len_chars)))
         model.add(Dropout(opts.dropout))
@@ -94,7 +95,7 @@ def create_model(opts):
             model.add(layer(opts.units, return_sequences=True))
             model.add(Dropout(opts.dropout))
 
-        # Add final layer without return_sequences = True
+        # Add final RNN layer without `return_sequences=True` or model will fail in during `.fit()`
         model.add(layer(opts.units))
         model.add(Dropout(opts.dropout))
 
@@ -235,8 +236,10 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, 
         # Generate text
         generate_text_from_seed(model, opts)
 
+    # Calculate runtime
     runtime = timeit.default_timer() - start
     echo('Training runtime: {}'.format(runtime), filename=opts.log)
+
     # Save model
     model_out = os.path.join(out_dir, 'model.hdf5')
     model.save(model_out)
