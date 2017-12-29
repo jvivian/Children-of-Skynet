@@ -1,9 +1,6 @@
 from __future__ import print_function
 
 import os
-import re
-import subprocess
-import sys
 
 import click
 import numpy as np
@@ -16,25 +13,16 @@ from keras.models import Sequential
 from rnaseq_lib.utils import rexpando
 
 
-def cuda_gpu_config():
+def tf_gpu_growth():
     """
-    Checks if a GPU is free and assigns it as an available device for CUDA
+    Establishes a tensorflow session with smarter GPU memory allocation
     """
-    if "CUDA_HOME" in os.environ:
-        utilization = re.findall(r"Utilization.*?Gpu.*?(\d+).*?Memory.*?(\d+)",
-                                 subprocess.check_output(["nvidia-smi", "-q"]),
-                                 flags=re.MULTILINE | re.DOTALL)
-        print("GPU Utilization", utilization)
-
-        if ('0', '0') in utilization:
-            print("Using GPU Device:", utilization.index(('0', '0')))
-            os.environ["CUDA_VISIBLE_DEVICES"] = str(utilization.index(('0', '0')))
-            os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"  # To ensure the index matches
-        else:
-            print("All GPUs in Use")
-            sys.exit()
-    else:
-        print("Running using CPU, NOT GPU")
+    import tensorflow as tf
+    from keras import backend as K
+    config = tf.ConfigProto()
+    config.gpu_options.allow_growth = True
+    session = tf.Session(config=config)
+    K.set_session(session)
 
 
 def char_maps(text):
@@ -183,8 +171,8 @@ def echo(message, filename):
 @click.option('--units', default=256, help='Number of memory units in RNN layer')
 @click.option('--dropout', default=0.2, help='Dropout value added after RNN layers (between 0 and 1)')
 @click.option('--gru', is_flag=True, help='Use GRU layers instead of LSTM layers')
-@click.option('--set-gpu', is_flag=True, help='Sets CUDA to use available GPU')
-def train(text, maxlen, stride, epochs, batch_size, num_layers, units, gru, set_gpu):
+@click.option('--gpu-growth', is_flag=True, help='Sets Tensorflow to only use as much memory as needed.')
+def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, gru, gpu_growth):
     """
     Train a recurrent neural network (RNN) on a provided TEXT
 
@@ -193,8 +181,8 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, gru, set_
     click.clear()
 
     # Set GPU
-    if set_gpu:
-        cuda_gpu_config()
+    if gpu_growth:
+        tf_gpu_growth()
 
     # Create directories for model
     if not os.path.exists('models'):
