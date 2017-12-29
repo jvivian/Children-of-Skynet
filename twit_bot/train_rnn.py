@@ -1,6 +1,7 @@
 from __future__ import print_function
 
 import os
+import timeit
 
 import click
 import numpy as np
@@ -10,8 +11,8 @@ from keras.layers import Dropout
 from keras.layers import GRU
 from keras.layers import LSTM
 from keras.models import Sequential
-from rnaseq_lib.utils import rexpando
 from rnaseq_lib.utils import mkdir_p
+from rnaseq_lib.utils import rexpando
 
 
 def tf_gpu_growth():
@@ -216,6 +217,7 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, 
     logger = CSVLogger(os.path.join(out_dir, 'model-history.tsv'), append=True, separator='\t')
 
     # Train model
+    start = timeit.default_timer()
     for i in xrange(epochs):
         echo('\nEpoch: {}'.format(i + 1), filename=opts.log)
 
@@ -225,6 +227,8 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, 
         # Generate text
         generate_text_from_seed(model, opts)
 
+    runtime = timeit.default_timer() - start
+    echo('Training runtime: {}'.format(runtime))
     # Save model
     model_out = os.path.join(out_dir, 'model.hdf5')
     model.save(model_out)
