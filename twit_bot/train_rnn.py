@@ -11,6 +11,7 @@ from keras.layers import GRU
 from keras.layers import LSTM
 from keras.models import Sequential
 from rnaseq_lib.utils import rexpando
+from rnaseq_lib.utils import mkdir_p
 
 
 def tf_gpu_growth():
@@ -185,11 +186,10 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, 
         tf_gpu_growth()
 
     # Create directories for model
-    if not os.path.exists('models'):
-        os.mkdir('models')
-    dir_name = '{maxlen}-{stride}-{epochs}-{batch_size}-{num_layers}-{units}-{dropout}-{gru}'.format(**locals())
-    out_dir = os.path.join('models', dir_name)
-    os.mkdir(out_dir)
+    text_name, ext = os.path.splitext(text)
+    run_name = '{maxlen}-{stride}-{epochs}-{batch_size}-{num_layers}-{units}-{dropout}-{gru}'.format(**locals())
+    out_dir = os.path.join('models', text_name, run_name)
+    mkdir_p(out_dir)
 
     # Print options
     log = os.path.join(out_dir, 'log.txt')
