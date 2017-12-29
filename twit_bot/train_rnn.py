@@ -90,9 +90,13 @@ def create_model(opts):
         model.add(layer(opts.units, return_sequences=True,
                         input_shape=(opts.maxlen, opts.len_chars)))
         model.add(Dropout(opts.dropout))
-        for i in xrange(opts.num_layers - 1):
+        for i in xrange(opts.num_layers - 2):
             model.add(layer(opts.units, return_sequences=True))
             model.add(Dropout(opts.dropout))
+
+        # Add final layer without return_sequences = True
+        model.add(layer(opts.units))
+        model.add(Dropout(opts.dropout))
 
     # Add final Dense layer
     model.add(Dense(opts.len_chars, activation='softmax'))
