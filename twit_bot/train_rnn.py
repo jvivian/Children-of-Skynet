@@ -232,7 +232,7 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, 
         generate_text_from_seed(model, opts)
 
     runtime = timeit.default_timer() - start
-    echo('Training runtime: {}'.format(runtime))
+    echo('Training runtime: {}'.format(runtime), filename=opts.log)
     # Save model
     model_out = os.path.join(out_dir, 'model.hdf5')
     model.save(model_out)
