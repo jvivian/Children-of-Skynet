@@ -1,0 +1,138 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.2
+epochs	20
+gpu_growth	True
+gru	False
+log	models/sanitized-tweets/40-3-20-128-1-256-0.2-False/log.txt
+maxlen	40
+num_layers	1
+out_dir	models/sanitized-tweets/40-3-20-128-1-256-0.2-False
+run_name	40-3-20-128-1-256-0.2-False
+stride	3
+text	data/sanitized-tweets.txt
+text_name	sanitized-tweets
+units	256
+
+Created 1102158 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: ke the deal dummies! @fraz scotcher: @tr
+Generated: ke the deal dummies! @fraz scotcher: @trumpthank you are the beater and the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the 
+
+Epoch: 2
+
+-- Text Generation --
+Seed: e of the people. thank you! to the peopl
+Generated: e of the people. thank you! to the people and the real charity and the problem to see you and the president thank you for a spend of the republican president thank you for a spend of the republican president thank you for a spend of the republican president thank you for a spend of the republican president thank you for a spend of the republican president thank you for a spend of the republican president thank you for a spend of the rep
+
+Epoch: 3
+
+-- Text Generation --
+Seed: media by poll: trump surges among gop ho
+Generated: media by poll: trump surges among gop how to be the problem and the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people o
+
+Epoch: 4
+
+-- Text Generation --
+Seed: great. @auctioneerjared: @realdonaldtrum
+Generated: great. @auctioneerjared: @realdonaldtrump i will be interviewed on @foxandfriends in the debate to the debate to the president of the deal in the debate to the president of the deal in the debate to the president of the deal in the debate to the president of the deal in the debate to the president of the deal in the debate to the president of the deal in the debate to the president of the deal in the debate to the president of the deal 
+
+Epoch: 5
+
+-- Text Generation --
+Seed: donaldtrump keep the momentum going mr. 
+Generated: donaldtrump keep the momentum going mr. trump is a great president. @barackobama s a special person to the money s american president. @barackobama s a special person to the money s american president. @barackobama s a special person to the money s american president. @barackobama s a special person to the money s american president. @barackobama s a special person to the money s american president. @barackobama s a special person to th
+
+Epoch: 6
+
+-- Text Generation --
+Seed:  american icon-and will definitely get m
+Generated:  american icon-and will definitely get me to start the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the t
+
+Epoch: 7
+
+-- Text Generation --
+Seed: llary just said that she will not use th
+Generated: llary just said that she will not use the world s cont. @newsmax media is a great people who can t wait to see the president of the world to the world to change the world s cont. @newsmax media is a great people who can t wait to see the president of the world to the world to change the world s cont. @newsmax media is a great people who can t wait to see the president of the world to the world to change the world s cont. @newsmax media 
+
+Epoch: 8
+
+-- Text Generation --
+Seed: ons against their lightweight boss. the 
+Generated: ons against their lightweight boss. the republican problem with the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of
+
+Epoch: 9
+
+-- Text Generation --
+Seed: obama investment triumph--the 500billion
+Generated: obama investment triumph--the 500billion and the president of the debate to the president of the debate to the most in the world is a great people and the president of the debate to the president of the debate to the most in the world is a great people and the president of the debate to the president of the debate to the most in the world is a great people and the president of the debate to the president of the debate to the most in the
+
+Epoch: 10
+
+-- Text Generation --
+Seed:  always remember that if you do not prom
+Generated:  always remember that if you do not promise the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best 
+
+Epoch: 11
+
+-- Text Generation --
+Seed: e cyclical so be resilient be patient be
+Generated: e cyclical so be resilient be patient because they are a great the people of the state of the people of the state of the people of the state of the people of the state of the people of the state of the people of the state of the people of the state of the people of the state of the people of the state of the people of the state of the people of the state of the people of the state of the people of the state of the people of the state of
+
+Epoch: 12
+
+-- Text Generation --
+Seed: brady would have won if he was throwing 
+Generated: brady would have won if he was throwing the best the big cont. the man thanks. @johnson @realdonaldtrump i will be interviewed on @foxandfriends at 7:00 a.m. the best the best thing in the world s and the problem with the president of the montas and the best the big cont. the man thanks. @johnson @realdonaldtrump i will be interviewed on @foxandfriends at 7:00 a.m. the best the best thing in the world s and the problem with the presiden
+
+Epoch: 13
+
+-- Text Generation --
+Seed: heppe: @realdonaldtrump i have on the sh
+Generated: heppe: @realdonaldtrump i have on the show is a great country and the most interesting to see the most interesting to see the most interesting to see the most interesting to see the most interesting to see the most interesting to see the most interesting to see the most interesting to see the most interesting to see the most interesting to see the most interesting to see the most interesting to see the most interesting to see the most i
+
+Epoch: 14
+
+-- Text Generation --
+Seed:  ratings are way down! enough already. r
+Generated:  ratings are way down! enough already. really be the best thing in the world s a big problems to the president of the debate of the fact that the money to be a great people and the president of the debate of the debate of the debate of the debate of the debate of the debate of the debate of the debate of the debate of the debate of the debate of the debate of the debate of the debate of the debate of the debate of the debate of the deba
+
+Epoch: 15
+
+-- Text Generation --
+Seed: l fix this rigged system and only answer
+Generated: l fix this rigged system and only answer to the world s all the world s a total and all of the debate in the world is a great country and a great country and a great country is a great country and a great country and a great country is a great country and a great country and a great country is a great country and a great country and a great country is a great country and a great country and a great country is a great country and a great
+
+Epoch: 16
+
+-- Text Generation --
+Seed: ivers via @tvgrapevine. via @nolanews by
+Generated: ivers via @tvgrapevine. via @nolanews by @realdonaldtrump thanks. @johnmarker: @realdonaldtrump @realdonaldtrump @realdonaldtrump is a great president of the debate to the best senate s and the best senate s and the best senate s and the best senate s and the best senate s and the best senate s and the best senate s and the best senate s and the best senate s and the best senate s and the best senate s and the best senate s and the best
+
+Epoch: 17
+
+-- Text Generation --
+Seed: yshow this morning-- miss usa pageant wi
+Generated: yshow this morning-- miss usa pageant with the world is the best thing in the world thank you to the president of the most in the world thank you to the president of the most in the world thank you to the president of the most in the world thank you to the president of the most in the world thank you to the president of the most in the world thank you to the president of the most in the world thank you to the president of the most in th
+
+Epoch: 18
+
+-- Text Generation --
+Seed: ave listened to donald trump. so true! @
+Generated: ave listened to donald trump. so true! @johnsonson: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtru
+
+Epoch: 19
+
+-- Text Generation --
+Seed:  and commitment! i had to fire general f
+Generated:  and commitment! i had to fire general for the world s cont. i will be interviewed on @foxandfriends at 7:00 a.m. enjoy! @johnnypaline: @realdonaldtrump @realdonaldtrump i will be interviewed on @foxandfriends at 7:00 a.m. enjoy! @johnnypaline: @realdonaldtrump @realdonaldtrump i will be interviewed on @foxandfriends at 7:00 a.m. enjoy! @johnnypaline: @realdonaldtrump @realdonaldtrump i will be interviewed on @foxandfriends at 7:00 a.m.
+
+Epoch: 20
+
+-- Text Generation --
+Seed: 0. my rallies are not covered properly b
+Generated: 0. my rallies are not covered properly by the most in the world to the world s all times and the president of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the peop
+Training runtime: 11097.3037882

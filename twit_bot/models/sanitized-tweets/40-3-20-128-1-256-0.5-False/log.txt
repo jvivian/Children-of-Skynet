@@ -1,0 +1,139 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.5
+epochs	20
+gpu_growth	True
+gru	False
+log	models/sanitized-tweets/40-3-20-128-1-256-0.5-False/log.txt
+maxlen	40
+model_out	models/sanitized-tweets/40-3-20-128-1-256-0.5-False/model.hdf5
+num_layers	1
+out_dir	models/sanitized-tweets/40-3-20-128-1-256-0.5-False
+run_name	40-3-20-128-1-256-0.5-False
+stride	3
+text	data/sanitized-tweets.txt
+text_name	sanitized-tweets
+units	256
+
+Created 1102158 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: ws i dont respect him. boring & failing 
+Generated: ws i dont respect him. boring & failing the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the really the 
+
+Epoch: 2
+
+-- Text Generation --
+Seed:  crimes. 33000 e-mails deleted? ...what 
+Generated:  crimes. 33000 e-mails deleted? ...what the mest and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the
+
+Epoch: 3
+
+-- Text Generation --
+Seed: hment and special interests are absolute
+Generated: hment and special interests are absolutely the country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a 
+
+Epoch: 4
+
+-- Text Generation --
+Seed:  @60minutes thats exactly what i thought
+Generated:  @60minutes thats exactly what i thought the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the
+
+Epoch: 5
+
+-- Text Generation --
+Seed: please be our next president!!!!! we wil
+Generated: please be our next president!!!!! we will be the best and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and the trump tower and th
+
+Epoch: 6
+
+-- Text Generation --
+Seed: anyone and that s the kind of president 
+Generated: anyone and that s the kind of president of the trump to the president of the trump to the president of the trump to the president of the trump to the president of the trump to the president of the trump to the president of the trump to the president of the trump to the president of the trump to the president of the trump to the president of the trump to the president of the trump to the president of the trump to the president of the tru
+
+Epoch: 7
+
+-- Text Generation --
+Seed:  learn like golf. ... a great person ins
+Generated:  learn like golf. ... a great person instilled the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the
+
+Epoch: 8
+
+-- Text Generation --
+Seed: d cameron why do you give scotland so mu
+Generated: d cameron why do you give scotland so much better than the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the mone
+
+Epoch: 9
+
+-- Text Generation --
+Seed: ial race carson tries to beat his mom wi
+Generated: ial race carson tries to beat his mom will be a great state that the american president of the senate state the trump to the security and the trump to the security and the trump to the security and the trump to the security and the trump to the security and the trump to the security and the trump to the security and the trump to the security and the trump to the security and the trump to the security and the trump to the security and th
+
+Epoch: 10
+
+-- Text Generation --
+Seed: e her. @efswagner thanks. @thephilliesgi
+Generated: e her. @efswagner thanks. @thephilliesgine: @realdonaldtrump @realdonaldtrump i will be a great state of the trump tower to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the 
+
+Epoch: 11
+
+-- Text Generation --
+Seed: redsox win big yesterday. good for bosto
+Generated: redsox win big yesterday. good for boston s the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the truth and the 
+
+Epoch: 12
+
+-- Text Generation --
+Seed: d in watergate. dummy i m asking a quest
+Generated: d in watergate. dummy i m asking a question to the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man and the man a
+
+Epoch: 13
+
+-- Text Generation --
+Seed: hner message for house gop the worst thi
+Generated: hner message for house gop the worst thing the trump tower to the president the world is a great state of the world is a great state of the world is a great state of the world is a great state of the world is a great state of the world is a great state of the world is a great state of the world is a great state of the world is a great state of the world is a great state of the world is a great state of the world is a great state of the 
+
+Epoch: 14
+
+-- Text Generation --
+Seed: t watched as china took full control. a-
+Generated: t watched as china took full control. a-rod to see the trump tower than the money thanks. @markerichaller: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonal
+
+Epoch: 15
+
+-- Text Generation --
+Seed: is an american capitalist who actually c
+Generated: is an american capitalist who actually can t wait to see the state of the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the money to the mo
+
+Epoch: 16
+
+-- Text Generation --
+Seed: bers are down big. because he was born i
+Generated: bers are down big. because he was born in the world thanks. @markerich: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonald
+
+Epoch: 17
+
+-- Text Generation --
+Seed: tough week was had by@mittromney but he 
+Generated: tough week was had by@mittromney but he s a great state of the world to see the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the tru
+
+Epoch: 18
+
+-- Text Generation --
+Seed: ted cruz is incensed that i want to refo
+Generated: ted cruz is incensed that i want to reform the world to see the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than the trump tower than th
+
+Epoch: 19
+
+-- Text Generation --
+Seed:  free marine in mexican prison. via @dai
+Generated:  free marine in mexican prison. via @dainyman thanks. @markerichard: @realdonaldtrump @realdonaldtrump i will be the best and the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to the trump to th
+
+Epoch: 20
+
+-- Text Generation --
+Seed: ! this is a movement! #rncincle. you can
+Generated: ! this is a movement! #rncincle. you can t wait to see the money to the most and the president of the more than the most and the president of the more than the most and the president of the more than the most and the president of the more than the most and the president of the more than the most and the president of the more than the most and the president of the more than the most and the president of the more than the most and the pre
+Training runtime: 10523.419271

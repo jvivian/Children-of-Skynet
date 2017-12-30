@@ -1,0 +1,138 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.2
+epochs	20
+gpu_growth	True
+gru	False
+log	models/sanitized-tweets/40-3-20-128-1-512-0.2-False/log.txt
+maxlen	40
+num_layers	1
+out_dir	models/sanitized-tweets/40-3-20-128-1-512-0.2-False
+run_name	40-3-20-128-1-512-0.2-False
+stride	3
+text	data/sanitized-tweets.txt
+text_name	sanitized-tweets
+units	512
+
+Created 1102158 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: ed himself against the dirty name callin
+Generated: ed himself against the dirty name calling a great country state and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republicans and the republic
+
+Epoch: 2
+
+-- Text Generation --
+Seed: ank you so much. what an evening! the cr
+Generated: ank you so much. what an evening! the crowd is a great state of the deal. @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdona
+
+Epoch: 3
+
+-- Text Generation --
+Seed: be there front & center along with the 7
+Generated: be there front & center along with the 7.3. i will be interviewed on @foxnews @realdonaldtrump i will be interviewed on @foxnews in the world to the people who will be there in the world to the people who will be there in the world to the people who will be there in the world to the people who will be there in the world to the people who will be there in the world to the people who will be there in the world to the people who will be th
+
+Epoch: 4
+
+-- Text Generation --
+Seed: ffanypearls: @realdonaldtrump i ll be up
+Generated: ffanypearls: @realdonaldtrump i ll be up to the president of the best cont. the problem is a great state of the best state of the best state of the deal with the biggest statement of the best state of the best state of the deal with the biggest statement of the best state of the best state of the deal with the biggest statement of the best state of the best state of the deal with the biggest statement of the best state of the best state
+
+Epoch: 5
+
+-- Text Generation --
+Seed: der than complaints by san juan mayor. d
+Generated: der than complaints by san juan mayor. donald trump is the only one who will be a great travel ban for the world to the world is a great course in the world to see the state of the world is a great champion. @barackobama s all the world is a great contral in the world to the world is a great contral in the world to the world is a great contral in the world to the world is a great contral in the world to the world is a great contral in t
+
+Epoch: 6
+
+-- Text Generation --
+Seed: ix arizona on wednesday. changing venue 
+Generated: ix arizona on wednesday. changing venue starts and the presidency of the world to the people of the presidency of the world to the people of the presidency of the world to the people of the presidency of the world to the people of the presidency of the world to the people of the presidency of the world to the people of the presidency of the world to the people of the presidency of the world to the people of the presidency of the world t
+
+Epoch: 7
+
+-- Text Generation --
+Seed: s: @realdonaldtrump @amspec you re more 
+Generated: s: @realdonaldtrump @amspec you re more than you are a great president! @realdonaldtrump @mittromney will be a great president that i will be a great president thanks. @markerainer: @realdonaldtrump @realdonaldtrump @mittromney will be a great president that i will be a great president thanks. @markerainer: @realdonaldtrump @realdonaldtrump @mittromney will be a great president that i will be a great president thanks. @markerainer: @rea
+
+Epoch: 8
+
+-- Text Generation --
+Seed: ld u.s.! via @usatoday: trump endorses w
+Generated: ld u.s.! via @usatoday: trump endorses will be a beautiful american people of the country is a great president of the united states in the world is the best to be the best course in the world is the best to be the best course in the world is the best to be the best course in the world is the best to be the best course in the world is the best to be the best course in the world is the best to be the best course in the world is the best t
+
+Epoch: 9
+
+-- Text Generation --
+Seed: carson because of this cruz fraud. also 
+Generated: carson because of this cruz fraud. also we are going to say that the world is a great complete and the most important trump tower in the world is a great complete and the most important trump tower in the world is a great complete and the most important trump tower in the world is a great complete and the most important trump tower in the world is a great complete and the most important trump tower in the world is a great complete and t
+
+Epoch: 10
+
+-- Text Generation --
+Seed: ect. stay tuned! you have all been waiti
+Generated: ect. stay tuned! you have all been waiting for the world than you that i want to be a great time. @samardannally @realdonaldtrump @macys thanks. @marianobana: @realdonaldtrump @macys thanks. @marianobana: @realdonaldtrump @macys thanks. @marianobana: @realdonaldtrump @macys thanks. @marianobana: @realdonaldtrump @macys thanks. @marianobana: @realdonaldtrump @macys thanks. @marianobana: @realdonaldtrump @macys thanks. @marianobana: @real
+
+Epoch: 11
+
+-- Text Generation --
+Seed: l proudly support the #2ndamendment! @gp
+Generated: l proudly support the #2ndamendment! @gporger: @realdonaldtrump @markland i think @realdonaldtrump is the only one to do it is a great country thanks. @marklevinshow: @realdonaldtrump @markland i think @realdonaldtrump is the only one to do it is a great country thanks. @marklevinshow: @realdonaldtrump @markland i think @realdonaldtrump is the only one to do it is a great country thanks. @marklevinshow: @realdonaldtrump @markland i thin
+
+Epoch: 12
+
+-- Text Generation --
+Seed: hance in south carolina. now it looks li
+Generated: hance in south carolina. now it looks like a great guy who have to be the best to be a big problem. @jackshannon: @realdonaldtrump @realdonaldtrump i have to be the best to be a great competitor. @johnline: @realdonaldtrump @realdonaldtrump i have to be the best to be a great competitor. @johnline: @realdonaldtrump @realdonaldtrump i have to be the best to be a great competitor. @johnline: @realdonaldtrump @realdonaldtrump i have to be 
+
+Epoch: 13
+
+-- Text Generation --
+Seed: y of mean and nasty action.. joseph kenn
+Generated: y of mean and nasty action.. joseph kenned that is a total loser! @johnborber: @realdonaldtrump @macys thanks for the trump tower at the solution no the best state of the trump card to take a big deal to the trump tower at the solution no the best state of the trump card to take a big deal to the trump tower at the solution no the best state of the trump card to take a big deal to the trump tower at the solution no the best state of the
+
+Epoch: 14
+
+-- Text Generation --
+Seed: or of the fbi. details to follow. gettin
+Generated: or of the fbi. details to follow. getting ready to be a great place! @mikeypman: @realdonaldtrump @marcorubio is a great guy with the world that is the best thing you can do it with the world that we have to be a great compliment and the people of the u.s. and the us is a great compliment and the president of the united states of the us is a great compliment and the people of the u.s. and the us is a great compliment and the president o
+
+Epoch: 15
+
+-- Text Generation --
+Seed: ip: view any conflict as an opportunity 
+Generated: ip: view any conflict as an opportunity to support the world s cont. @marianortine @realdonaldtrump @macys i will be on @foxandfriends at 7:30 am as a great guy on the world s cont. @marianortine @realdonaldtrump @macys i will be on @foxandfriends at 7:30 am as a great guy on the world s cont. @marianortine @realdonaldtrump @macys i will be on @foxandfriends at 7:30 am as a great guy on the world s cont. @marianortine @realdonaldtrump @
+
+Epoch: 16
+
+-- Text Generation --
+Seed: from canada mr. trump! thanks. via @nyda
+Generated: from canada mr. trump! thanks. via @nydaystoney: @realdonaldtrump @realdonaldtrump @foxandfriends i will be on @foxandfriends at 7:00 a.m. enjoy! @joeherrand: @realdonaldtrump @realdonaldtrump @foxandfriends i will be on @foxandfriends at 7:00 a.m. enjoy! @joeherrand: @realdonaldtrump @realdonaldtrump @foxandfriends i will be on @foxandfriends at 7:00 a.m. enjoy! @joeherrand: @realdonaldtrump @realdonaldtrump @foxandfriends i will be on
+
+Epoch: 17
+
+-- Text Generation --
+Seed: orrow morning at 7:00. @cunninghamny: im
+Generated: orrow morning at 7:00. @cunninghamny: im great and thanks. @jackshark thanks for the great state of the world to the great state of the people of the people of the u.s. are the only one who can t wait for the world because he s a great championship and all of the people of the u.s. are the only one who can t wait for the world because he s a great championship and all of the people of the u.s. are the only one who can t wait for the wor
+
+Epoch: 18
+
+-- Text Generation --
+Seed: ...should not interfere in our politics.
+Generated: ...should not interfere in our politics. the country is really amazing and then anyone else will be the best thing you can t wait to see the truth and the real deal is a great competitor. i will be interviewed by @seanhannity tonight at 10 pm on @fox news tonight at 10:00 p.m. enjoy! @joesean thanks to all of the best golf course in the world to the great state of the president of the united states of the united states of the u.s. and t
+
+Epoch: 19
+
+-- Text Generation --
+Seed: ation in martha s vineyard. nice work et
+Generated: ation in martha s vineyard. nice work ethic! @johnlinethank you say it s a great player and sad that the american people of the u.s. are the ones who have to start the best thing you can t be president of the united states in the world to be the new poll run for president in 2016. @therealtick: @realdonaldtrump @macys i will be on @foxandfriends this morning at 7:00 a.m. enjoy! @joe laster: @realdonaldtrump @macys i will be on @foxandfr
+
+Epoch: 20
+
+-- Text Generation --
+Seed: s could jump as high as 51 terrible for 
+Generated: s could jump as high as 51 terrible for the world than the u.s. and the people of the u.s. and the u.s. are the ones you don t have to see the politicians and the people of the u.s. and the u.s. are the ones you don t have to see the politicians and the people of the u.s. and the u.s. are the ones you don t have to see the politicians and the people of the u.s. and the u.s. are the ones you don t have to see the politicians and the peop
+Training runtime: 17404.9738681

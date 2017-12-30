@@ -1,0 +1,139 @@
+-- Network Settings -- 
+batch_size	512
+dropout	0.2
+epochs	20
+gpu_growth	True
+gru	False
+log	models/sanitized-tweets/40-3-20-512-1-256-0.2-False/log.txt
+maxlen	40
+model_out	models/sanitized-tweets/40-3-20-512-1-256-0.2-False/model.hdf5
+num_layers	1
+out_dir	models/sanitized-tweets/40-3-20-512-1-256-0.2-False
+run_name	40-3-20-512-1-256-0.2-False
+stride	3
+text	data/sanitized-tweets.txt
+text_name	sanitized-tweets
+units	256
+
+Created 1102158 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: gnore the jealous. @sev enteen: please r
+Generated: gnore the jealous. @sev enteen: please really and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the and the an
+
+Epoch: 2
+
+-- Text Generation --
+Seed:  a negotiation is seem desperate to make
+Generated:  a negotiation is seem desperate to make america great again! @martherandan: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @reald
+
+Epoch: 3
+
+-- Text Generation --
+Seed: the 787. those batteries will always be 
+Generated: the 787. those batteries will always be the republicans the republicans the many the will be and the president the many the will be and the president the many the will be and the president the many the will be and the president the many the will be and the president the many the will be and the president the many the will be and the president the many the will be and the president the many the will be and the president the many the will
+
+Epoch: 4
+
+-- Text Generation --
+Seed: 15nc: @realdonaldtrump republican is 28 
+Generated: 15nc: @realdonaldtrump republican is 28 million is a trump in the world to the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and t
+
+Epoch: 5
+
+-- Text Generation --
+Seed: s it time for another season of celebrit
+Generated: s it time for another season of celebrity apprentice is a great to all the president and the people was a state the people will be to get the president and the people was a state the people will be to get the president and the people was a state the people will be to get the president and the people was a state the people will be to get the president and the people was a state the people will be to get the president and the people was a
+
+Epoch: 6
+
+-- Text Generation --
+Seed: rked out better. we raised 6000000 for o
+Generated: rked out better. we raised 6000000 for our country is a great people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the 
+
+Epoch: 7
+
+-- Text Generation --
+Seed: eparting la crosse wisconsin. thank you!
+Generated: eparting la crosse wisconsin. thank you! @markerick: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtr
+
+Epoch: 8
+
+-- Text Generation --
+Seed: ng office & fixing this country #2016. @
+Generated: ng office & fixing this country #2016. @johnerstand: @realdonaldtrump @markeschina @realdonaldtrump @markeschina @realdonaldtrump @markeschina @realdonaldtrump @markeschina @realdonaldtrump @markeschina @realdonaldtrump @markeschina @realdonaldtrump @markeschina @realdonaldtrump @markeschina @realdonaldtrump @markeschina @realdonaldtrump @markeschina @realdonaldtrump @markeschina @realdonaldtrump @markeschina @realdonaldtrump @markeschi
+
+Epoch: 9
+
+-- Text Generation --
+Seed: : @realdonaldtrump can i get a hello for
+Generated: : @realdonaldtrump can i get a hello for the best the people of the democrats are the media is a great the best the people of the democrats are the media is a great the best the people of the democrats are the media is a great the best the people of the democrats are the media is a great the best the people of the democrats are the media is a great the best the people of the democrats are the media is a great the best the people of the 
+
+Epoch: 10
+
+-- Text Generation --
+Seed: @arseniohall back as advisor as well as 
+Generated: @arseniohall back as advisor as well as a complete of the state of the state of the democrats are all the world to be a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the w
+
+Epoch: 11
+
+-- Text Generation --
+Seed: it is time to #draintheswamp! more anti-
+Generated: it is time to #draintheswamp! more anti-new back to the world is a total comments on the world in the world is a total comments on the world in the world is a total comments on the world in the world is a total comments on the world in the world is a total comments on the world in the world is a total comments on the world in the world is a total comments on the world in the world is a total comments on the world in the world is a total
+
+Epoch: 12
+
+-- Text Generation --
+Seed: od bless. this is when our police are so
+Generated: od bless. this is when our police are so much to destroy the world to the world to be a great president of the world to be a great president of the world to be a great president of the world to be a great president of the world to be a great president of the world to be a great president of the world to be a great president of the world to be a great president of the world to be a great president of the world to be a great president of 
+
+Epoch: 13
+
+-- Text Generation --
+Seed: e is back on the view which tells you ho
+Generated: e is back on the view which tells you how the man and the presidential consisure the best and the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the stat
+
+Epoch: 14
+
+-- Text Generation --
+Seed: @alex norcia @realdonaldtrump seems like
+Generated: @alex norcia @realdonaldtrump seems like the senate so many people want to see you and the fact that is a great country and the people of the democrats are the best thank you. @marinations: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldt
+
+Epoch: 15
+
+-- Text Generation --
+Seed: st in country-and going well. @renee mk:
+Generated: st in country-and going well. @renee mk: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdon
+
+Epoch: 16
+
+-- Text Generation --
+Seed: 16. @doctor platek: @realdonaldtrump you
+Generated: 16. @doctor platek: @realdonaldtrump you are a great president and the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the peopl
+
+Epoch: 17
+
+-- Text Generation --
+Seed: at speech in ala. what s more important 
+Generated: at speech in ala. what s more important to the world is a great golf course in the world is a great golf course in the world is a great golf course in the world is a great golf course in the world is a great golf course in the world is a great golf course in the world is a great golf course in the world is a great golf course in the world is a great golf course in the world is a great golf course in the world is a great golf course in t
+
+Epoch: 18
+
+-- Text Generation --
+Seed: they were smart enough to ask! thanks ma
+Generated: they were smart enough to ask! thanks mark and the presidential conservative and the american people are all of the state of the american people are all of the state of the american people are all of the state of the american people are all of the state of the american people are all of the state of the american people are all of the state of the american people are all of the state of the american people are all of the state of the ame
+
+Epoch: 19
+
+-- Text Generation --
+Seed: ys . #trump2016 great! @kobuck12: @reald
+Generated: ys . #trump2016 great! @kobuck12: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be on @foxandfriends tonight at 10 pm on @foxnews. @shanneller: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be on @foxandfriends tonight at 10 pm on @foxnews. @shanneller: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be on @foxandfriends tonight at 10 pm on @foxnews. @shanneller: @realdonaldtrump @realdonaldtrump @reald
+
+Epoch: 20
+
+-- Text Generation --
+Seed: t 2 years about the large screen iphone 
+Generated: t 2 years about the large screen iphone and the people of the state of the democrats that the trump tower and the media is the best in the world is a great the democrats that the trump comments on the state of the democrats that the trump tower and the media is the best in the world is a great the democrats that the trump comments on the state of the democrats that the trump tower and the media is the best in the world is a great the de
+Training runtime: 3480.38330817

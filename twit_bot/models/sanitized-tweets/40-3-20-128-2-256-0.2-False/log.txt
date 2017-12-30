@@ -1,0 +1,138 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.2
+epochs	20
+gpu_growth	True
+gru	False
+log	models/sanitized-tweets/40-3-20-128-2-256-0.2-False/log.txt
+maxlen	40
+num_layers	2
+out_dir	models/sanitized-tweets/40-3-20-128-2-256-0.2-False
+run_name	40-3-20-128-2-256-0.2-False
+stride	3
+text	data/sanitized-tweets.txt
+text_name	sanitized-tweets
+units	256
+
+Created 1102158 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: ur children & their future. @rcstaley @l
+Generated: ur children & their future. @rcstaley @landersine @realdonaldtrump i will be a great and the best to be a great and the best to be a great and the best to be a great and the best to be a great and the best to be a great and the best to be a great and the best to be a great and the best to be a great and the best to be a great and the best to be a great and the best to be a great and the best to be a great and the best to be a great and 
+
+Epoch: 2
+
+-- Text Generation --
+Seed: hunt s poor and purposely inaccurate rep
+Generated: hunt s poor and purposely inaccurate republicans and the state of the solution and the state of the solution and the state of the solution and the state of the solution and the state of the solution and the state of the solution and the state of the solution and the state of the solution and the state of the solution and the state of the solution and the state of the solution and the state of the solution and the state of the solution a
+
+Epoch: 3
+
+-- Text Generation --
+Seed: have been thankful for the terrible deal
+Generated: have been thankful for the terrible deal in the world is a great country will be a great country will be a great country will be a great country will be a great country will be a great country will be a great country will be a great country will be a great country will be a great country will be a great country will be a great country will be a great country will be a great country will be a great country will be a great country will be
+
+Epoch: 4
+
+-- Text Generation --
+Seed:  @articmink: @realdonaldtrump just what 
+Generated:  @articmink: @realdonaldtrump just what the republicans are the best thing i will be to see the trump tower in the world is a great people of the debate to the world is a great people of the debate to the world is a great people of the debate to the world is a great people of the debate to the world is a great people of the debate to the world is a great people of the debate to the world is a great people of the debate to the world is a
+
+Epoch: 5
+
+-- Text Generation --
+Seed: ldtrump if what everyone says is true tr
+Generated: ldtrump if what everyone says is true trump tower in the world is a great country in the world on the same cont. the failing to the problem is a great country in the world of the world is a great country in the world on the same cont. the failing to the problem is a great country in the world of the world is a great country in the world on the same cont. the failing to the problem is a great country in the world of the world is a great 
+
+Epoch: 6
+
+-- Text Generation --
+Seed: @realdonaldtrump i don t understand why 
+Generated: @realdonaldtrump i don t understand why does the republicans will be on @foxnews. @joelines: @realdonaldtrump @realdonaldtrump i will be on @foxnews. @joelines: @realdonaldtrump @realdonaldtrump i will be on @foxnews. @joelines: @realdonaldtrump @realdonaldtrump i will be on @foxnews. @joelines: @realdonaldtrump @realdonaldtrump i will be on @foxnews. @joelines: @realdonaldtrump @realdonaldtrump i will be on @foxnews. @joelines: @realdo
+
+Epoch: 7
+
+-- Text Generation --
+Seed: er be destroyed from the outside.if we f
+Generated: er be destroyed from the outside.if we finally and the president obama s all of the debate in the world will be a great complete and the president obama s and starts are a lot of the deal. @johnson @realdonaldtrump @mittromney is a great president obama s all of the debate in the world will be a great complete and the president obama s and starts are a lot of the deal. @johnson @realdonaldtrump @mittromney is a great president obama s a
+
+Epoch: 8
+
+-- Text Generation --
+Seed: usa! a real leader! so nice to hear!!! @
+Generated: usa! a real leader! so nice to hear!!! @realdonaldtrump i will be a great president of the deal in the world with the world of the deal in the world with the world of the deal in the world with the world of the deal in the world with the world of the deal in the world with the world of the deal in the world with the world of the deal in the world with the world of the deal in the world with the world of the deal in the world with the wo
+
+Epoch: 9
+
+-- Text Generation --
+Seed: hes the wrong people. i hope the alumni 
+Generated: hes the wrong people. i hope the alumni to be a great president thank you @realdonaldtrump that s the best in the world is a great president that s the best in the world is a great president that s the best in the world is a great president that s the best in the world is a great president that s the best in the world is a great president that s the best in the world is a great president that s the best in the world is a great president
+
+Epoch: 10
+
+-- Text Generation --
+Seed: records. when will we see @barackobama s
+Generated: records. when will we see @barackobama s considerations to see the trump tower to the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the peop
+
+Epoch: 11
+
+-- Text Generation --
+Seed: ent loses insurance during treatment b c
+Generated: ent loses insurance during treatment b can t wait to see you to be a great president thanks. @markhaller @realdonaldtrump @realdonaldtrump i will be a great time to see the best thing i will be a great president thanks. @markhaller @realdonaldtrump @realdonaldtrump i will be a great time to see the best thing i will be a great president thanks. @markhaller @realdonaldtrump @realdonaldtrump i will be a great time to see the best thing i 
+
+Epoch: 12
+
+-- Text Generation --
+Seed: e running 4 prez soon! we need you in ch
+Generated: e running 4 prez soon! we need you in chicago in the world s the u.s. in the world s the best thing i will be interviewed on @foxandfriends tomorrow at 9 pm et this morning at 9 pm et this morning at 9 pm et this morning at 9 pm et this morning at 9 pm et this morning at 9 pm et this morning at 9 pm et this morning at 9 pm et this morning at 9 pm et this morning at 9 pm et this morning at 9 pm et this morning at 9 pm et this morning at 
+
+Epoch: 13
+
+-- Text Generation --
+Seed:  promote the arab spring ? the economy w
+Generated:  promote the arab spring ? the economy will be a great problem. @marklevinshow: @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdon
+
+Epoch: 14
+
+-- Text Generation --
+Seed:  the debt putting us over 20t in total d
+Generated:  the debt putting us over 20t in total disaster than the world s cont. the best things the best things to the world s cont. the best things the best things to the world s cont. the best things the best things to the world s cont. the best things the best things to the world s cont. the best things the best things to the world s cont. the best things the best things to the world s cont. the best things the best things to the world s cont
+
+Epoch: 15
+
+-- Text Generation --
+Seed: er. @sdoocy @broray you always look grea
+Generated: er. @sdoocy @broray you always look great again. @jacksontines: @realdonaldtrump @macys i will be a great president thanks. @marklevinshow: @realdonaldtrump @macys i will be a great president thanks. @marklevinshow: @realdonaldtrump @macys i will be a great president thanks. @marklevinshow: @realdonaldtrump @macys i will be a great president thanks. @marklevinshow: @realdonaldtrump @macys i will be a great president thanks. @marklevinsh
+
+Epoch: 16
+
+-- Text Generation --
+Seed:  of his fundraisers. @rzcarlsonruth: @re
+Generated:  of his fundraisers. @rzcarlsonruth: @realdonaldtrump @macys @realdonaldtrump is a great president thanks. @michellerandon: @realdonaldtrump @macys i will be announced to see the new york times and the people of the u.s. is a great president than the people of the u.s. and the people of the u.s. is a great president than the people of the u.s. and the people of the u.s. is a great president than the people of the u.s. and the people of 
+
+Epoch: 17
+
+-- Text Generation --
+Seed:  ground in benghazi the night of the 9.1
+Generated:  ground in benghazi the night of the 9.11 of the country is a great guy who wants to see the trump tower in the world is a great guy who wants to see the trump tower in the world is a great guy who wants to see the trump tower in the world is a great guy who wants to see the trump tower in the world is a great guy who wants to see the trump tower in the world is a great guy who wants to see the trump tower in the world is a great guy wh
+
+Epoch: 18
+
+-- Text Generation --
+Seed: reate needed jobs. @bannermanjack: rush 
+Generated: reate needed jobs. @bannermanjack: rush and the president of the people of the president of the people of the president of the people of the president of the people of the president of the people of the president of the people of the president of the people of the president of the people of the president of the people of the president of the people of the president of the people of the president of the people of the president of the peo
+
+Epoch: 19
+
+-- Text Generation --
+Seed: s an excellent read--especially page 10.
+Generated: s an excellent read--especially page 10. @michaelcaller: @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow @realdonaldtrump @marklevinshow
+
+Epoch: 20
+
+-- Text Generation --
+Seed: ther mary macleod trump: trust in god an
+Generated: ther mary macleod trump: trust in god and say that the democrats are a great president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the presid
+Training runtime: 22627.028461

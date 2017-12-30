@@ -1,0 +1,104 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.2
+epochs	20
+gpu_growth	True
+gru	False
+log	models/sanitized-tweets/100-3-20-128-1-256-0.2-False/log.txt
+maxlen	100
+model_out	models/sanitized-tweets/100-3-20-128-1-256-0.2-False/model.hdf5
+num_layers	1
+out_dir	models/sanitized-tweets/100-3-20-128-1-256-0.2-False
+run_name	100-3-20-128-1-256-0.2-False
+stride	3
+text	data/sanitized-tweets.txt
+text_name	sanitized-tweets
+units	256
+
+Created 1102138 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: s @trumpscotlands world-class amenities also include dining & luxury accommodations. via @nbc6: @mis
+Generated: s @trumpscotlands world-class amenities also include dining & luxury accommodations. via @nbc6: @mistanker @realdonaldtrump @charkeramerica @realdonaldtrump @charkeramerica @realdonaldtrump @charkeramerica @realdonaldtrump @charkeramerica @realdonaldtrump @charkeramerica @realdonaldtrump @charkeramerica @realdonaldtrump @charkeramerica @realdonaldtrump @charkeramerica @realdonaldtrump @charkeramerica @realdonaldtrump @charkeramerica @realdonaldtrump @charkeramerica @realdonaldtrump @charkerameri
+
+Epoch: 2
+
+-- Text Generation --
+Seed:  more do more and become more you always are the leader. nice. @toddriddolls: @realdonaldtrump i bel
+Generated:  more do more and become more you always are the leader. nice. @toddriddolls: @realdonaldtrump i believe the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for the man for
+
+Epoch: 3
+
+-- Text Generation --
+Seed: ent this week? employing thousands of people! @murmiles: @realdonaldtrump sir will you be bringing t
+Generated: ent this week? employing thousands of people! @murmiles: @realdonaldtrump sir will you be bringing the country is a great the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best 
+
+Epoch: 4
+
+-- Text Generation --
+Seed: ear it for the factor. let the truth be known. more are beginning to realize @realdonaldtrump is the
+Generated: ear it for the factor. let the truth be known. more are beginning to realize @realdonaldtrump is the best sense of the deal in the world could be the best sense of the deal in the world could be the best sense of the deal in the world could be the best sense of the deal in the world could be the best sense of the deal in the world could be the best sense of the deal in the world could be the best sense of the deal in the world could be the best sense of the deal in the world could be the best se
+
+Epoch: 5
+
+-- Text Generation --
+Seed:  your own power. entrepreneurs: in the best negotiations everyone wins. this is a possibility and it
+Generated:  your own power. entrepreneurs: in the best negotiations everyone wins. this is a possibility and it is the best of the debate and the debate in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the 
+
+Epoch: 6
+
+-- Text Generation --
+Seed: tupid leaders to sign a deal that keeps us in afghanistan through 2024-with all costs by u.s.a. make
+Generated: tupid leaders to sign a deal that keeps us in afghanistan through 2024-with all costs by u.s.a. make america great again! @mike andiers: @realdonaldtrump @realdonaldtrump is a great people on the deal and the democrats are the best country is a great people on the deal and the democrats are the best country is a great people on the deal and the democrats are the best country is a great people on the deal and the democrats are the best country is a great people on the deal and the democrats are t
+
+Epoch: 7
+
+-- Text Generation --
+Seed: n celebrity apprentice tonight. remember i only fire people when it is deserved not for other reason
+Generated: n celebrity apprentice tonight. remember i only fire people when it is deserved not for other reason of the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the problem in the pr
+
+Epoch: 8
+
+-- Text Generation --
+Seed: onaldtrump & #teamtrump! #trump2016 #makeamericagreatagain. @renasummersltd: watched @abcnetwork spe
+Generated: onaldtrump & #teamtrump! #trump2016 #makeamericagreatagain. @renasummersltd: watched @abcnetwork speech in the best thanks. @michaelsenterning @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump 
+
+Epoch: 9
+
+-- Text Generation --
+Seed: or edward snowden will be attending the miss universe pageant in moscow on november 9th. i would inv
+Generated: or edward snowden will be attending the miss universe pageant in moscow on november 9th. i would invest the best and the debate to the people of the debate to the people of the debate to the people of the debate to the people of the debate to the people of the debate to the people of the debate to the people of the debate to the people of the debate to the people of the debate to the people of the debate to the people of the debate to the people of the debate to the people of the debate to the p
+
+Epoch: 10
+
+-- Text Generation --
+Seed: kets-. there is no question who will handle the threat of terrorism best as #potus. #trump2016. #isi
+Generated: kets-. there is no question who will handle the threat of terrorism best as #potus. #trump2016. #isis and thank you for all of the deal is a great people on the world with the people of the world with the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the people of the p
+
+Epoch: 11
+
+-- Text Generation --
+Seed: issamerica. @mikeyjfitz: @realdonaldtrump thru rough times 1 thing that keeps me going i wasn t one 
+Generated: issamerica. @mikeyjfitz: @realdonaldtrump thru rough times 1 thing that keeps me going i wasn t one of the best state of the world s a great people of the world s a great people of the world s a great people of the world s a great people of the world s a great people of the world s a great people of the world s a great people of the world s a great people of the world s a great people of the world s a great people of the world s a great people of the world s a great people of the world s a great
+
+Epoch: 12
+
+-- Text Generation --
+Seed: nds you are exactly what america needs going forward! mr. trump for president in 2016 is a smart bet
+Generated: nds you are exactly what america needs going forward! mr. trump for president in 2016 is a smart better than the best show the trump tower to the people of the most interesting and the man and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and the media and
+
+Epoch: 13
+
+-- Text Generation --
+Seed: govscott. just read @piersmorgans book shooting straight and whether you love him or hate him im in 
+Generated: govscott. just read @piersmorgans book shooting straight and whether you love him or hate him im in the world with the president of the world is the best show that i will be a great country in the people thank you. @samieranda: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be the best show that i will be the best show that i will be a great country in the people thank you. @samieranda: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be the best show that i will be the best 
+
+Epoch: 14
+
+-- Text Generation --
+Seed: ooked a poll in support of obamacare. surprise? 1970s global cooling alarmists were pushing same no-
+Generated: ooked a poll in support of obamacare. surprise? 1970s global cooling alarmists were pushing same no--and the president of the people of the people of the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in th
+
+Epoch: 15
