@@ -8,7 +8,7 @@ from train_rnn import generate_seed, str_to_vec, char_maps
 
 def sample(preds, temperature):
     """
-    Multinomial sampling of the prediction vector to introduce entropy which helps break the model of infinite loops
+    Multinomial sampling of the prediction vector which helps break the model of infinite loops
     by introducing entropy into the sequence generation
 
     For temperature:
