@@ -16,6 +16,7 @@ def sample(preds, temperature):
     :rtype: int
     """
     # helper function to sample an index from a probability array
+    temperature = float(temperature)
     if temperature > 0:
         preds = np.asarray(preds).astype('float64')
         preds = np.log(preds) / temperature
