@@ -14,4 +14,5 @@ setup(
         'tensorflow'
     ],
     entry_points={
-        'console_scripts': ['train-rnn=train_rnn:train']})
+        'console_scripts': ['train-rnn=train_rnn:train',
+                            'generate-text=generate_text:main']})
