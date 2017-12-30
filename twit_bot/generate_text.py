@@ -6,7 +6,7 @@ from rnaseq_lib.utils import rexpando
 from train_rnn import generate_seed, str_to_vec, char_maps
 
 
-def sample(preds, temperature=1.0):
+def sample(preds, temperature):
     """
     Taken from: https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py#L63
 
@@ -16,12 +16,15 @@ def sample(preds, temperature=1.0):
     :rtype: int
     """
     # helper function to sample an index from a probability array
-    preds = np.asarray(preds).astype('float64')
-    preds = np.log(preds) / temperature
-    exp_preds = np.exp(preds)
-    preds = exp_preds / np.sum(exp_preds)
-    probas = np.random.multinomial(1, preds, 1)
-    return np.argmax(probas)
+    if temperature > 0:
+        preds = np.asarray(preds).astype('float64')
+        preds = np.log(preds) / temperature
+        exp_preds = np.exp(preds)
+        preds = exp_preds / np.sum(exp_preds)
+        probas = np.random.multinomial(1, preds, 1)
+        return np.argmax(probas)
+    else:
+        return np.argmax(preds)
 
 
 @click.command()
