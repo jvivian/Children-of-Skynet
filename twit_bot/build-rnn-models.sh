@@ -17,13 +17,7 @@ ${CMD} --maxlen=100
 ${CMD} --epochs=30
 ${CMD} --gru
 
-# Parameter combinations
-${CMD} --units=512 \
-        --num-layers=2 \
-        --maxlen=100 \
-        --dropout=0.5
-
-# Simple Model
+# "Simple" Model
 ${CMD} --units=128 \
         --num-layers=1 \
         --maxlen=10 \
@@ -37,4 +31,5 @@ ${CMD} --units=128 \
 ${CMD} --units=512 \
         --num-layers 3 \
         --maxlen=100 \
-        --dropout=0.5
+        --dropout=0.5 \
+        --epochs=40
