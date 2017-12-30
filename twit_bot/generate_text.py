@@ -8,6 +8,15 @@ from train_rnn import generate_seed, str_to_vec, char_maps
 
 def sample(preds, temperature):
     """
+    Multinomial sampling of the prediction vector to introduce entropy which helps break the model of infinite loops
+    by introducing entropy into the sequence generation
+
+    For temperature:
+
+    (0, 1) = accentuates the disparity between values (increases liklihood of highest p from input vector being chosen)
+    1.0 = Sampling occurs to the input vector without any change
+    >1.0 = Values are "pushed" closer together which increases candidates for multinomial sampling
+
     Taken from: https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py#L63
 
     :param np.array preds: Prediction vector from model
