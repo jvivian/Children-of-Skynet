@@ -41,6 +41,7 @@ def char_maps(text):
     return len(chars), char_indices, indices_char
 
 
+# TODO: Add heuristic that derives training examples by newline
 def create_training_set(opts):
     """
     Break up text into sentences and next_chars (X and y respectively) then vectorize
@@ -81,10 +82,11 @@ def create_model(opts):
     # Create a sequential model
     model = Sequential()
 
-    # Add layers based on configuration
+    # Add RNN layers
     if opts.num_layers == 1:
         model.add(layer(opts.units, input_shape=(opts.maxlen, opts.len_chars)))
-        model.add(Dropout(opts.dropout))
+        if opts.dropout != 0:
+            model.add(Dropout(opts.dropout))
 
     # Multiple RNN layers require a return_sequences=True to join together
     else:
@@ -93,11 +95,13 @@ def create_model(opts):
         model.add(Dropout(opts.dropout))
         for i in xrange(opts.num_layers - 2):
             model.add(layer(opts.units, return_sequences=True))
-            model.add(Dropout(opts.dropout))
+            if opts.dropout != 0.0:
+                model.add(Dropout(opts.dropout))
 
-        # Add final RNN layer without `return_sequences=True` or model will fail in during `.fit()`
+        # Add final RNN layer without `return_sequences=True` or model will fail during `.fit()`
         model.add(layer(opts.units))
-        model.add(Dropout(opts.dropout))
+        if opts.dropout != 0.0:
+            model.add(Dropout(opts.dropout))
 
     # Add final Dense layer
     model.add(Dense(opts.len_chars, activation='softmax'))
@@ -199,6 +203,10 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, 
     text_name = os.path.splitext(os.path.basename(text))[0]
     run_name = '{maxlen}-{stride}-{epochs}-{batch_size}-{num_layers}-{units}-{dropout}-{gru}'.format(**locals())
     out_dir = os.path.join('models', text_name, run_name)
+    model_out = os.path.join(out_dir, 'model.hdf5')
+    if os.path.exists(model_out):
+        click.echo('Model already exists: {}, exiting'.format(model_out))
+        exit()
     mkdir_p(out_dir)
 
     # Print options
@@ -241,7 +249,6 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, 
     echo('Training runtime: {}'.format(runtime), filename=opts.log)
 
     # Save model
-    model_out = os.path.join(out_dir, 'model.hdf5')
     model.save(model_out)
     click.echo('Final model saved: {}'.format(model_out))
 
