@@ -32,8 +32,7 @@ def sanitize_tweets(tweets):
 
     # Iterate over all tweets (ignoring retweets)
     click.echo('Processing {}'.format(tweets))
-    tweet_counter = 0
-    text = ''
+    cleaned_tweets = []
     with click.progressbar(enumerate(df[df.is_retweet == False].text)) as selected_tweets:
         for i, tweet in selected_tweets:
             # Remove URLs
@@ -58,23 +57,24 @@ def sanitize_tweets(tweets):
             tweet = ' '.join(tweet.split())
 
             # Add period if no ending line or a space
-            if not tweet[-1] in ['.', '!', '?']:
-                tweet = tweet + '. '
-            else:
-                tweet += ' '
+            if tweet[-1] not in ['.', '!', '?']:
+                tweet = tweet + '.'
 
             # Add to text (by redefining with +=)
-            text += tweet
-            tweet_counter += 1
+            cleaned_tweets.append(tweet)
 
     # Output
     if not os.path.exists('data'):
         os.mkdir('data')
 
-    output = 'data/sanitized-tweets.txt'
-    with open(output, 'w') as f:
-        f.write(text)
-    click.echo('Output saved: {}\n{} tweets used to build text.'.format(output, tweet_counter))
+    # Combine tweets into a single text
+    with open('data/combined-tweets.txt', 'w') as f:
+        f.write(' '.join(cleaned_tweets))
+
+    # Tweets on separate lines
+    with open('data/separated-tweets.txt',  'w') as f:
+        f.write('\n'.join(cleaned_tweets))
+    click.echo('Output saved in `data`. {} tweets used to build text.'.format(len(cleaned_tweets)))
 
 
 if __name__ == '__main__':
