@@ -41,7 +41,6 @@ def char_maps(text):
     return len(chars), char_indices, indices_char
 
 
-# TODO: Add heuristic that derives training examples by newline
 def create_training_set(opts):
     """
     Break up text into sentences and next_chars (X and y respectively) then vectorize
@@ -56,9 +55,10 @@ def create_training_set(opts):
     sentences = []
     next_chars = []
     for sample in opts.text.split('\n'):
-        for i in range(0, len(sample) - opts.maxlen, opts.stride):
-            sentences.append(sample[i: i + opts.maxlen])
-            next_chars.append(sample[i + opts.maxlen])
+        if len(sample) > opts.maxlen + opts.stride:
+            for i in range(0, len(sample) - opts.maxlen, opts.stride):
+                sentences.append(sample[i: i + opts.maxlen])
+                next_chars.append(sample[i + opts.maxlen])
 
     # Create X and y tensors from training set
     x = np.zeros((len(sentences), opts.maxlen, opts.len_chars), dtype=np.bool)
