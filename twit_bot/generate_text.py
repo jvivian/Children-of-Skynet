@@ -8,15 +8,6 @@ from train_rnn import generate_seed, str_to_vec, char_maps
 
 def sample(preds, temperature):
     """
-    Multinomial sampling of the prediction vector which helps break the model of infinite loops
-    by introducing entropy into the sequence generation
-
-    For temperature:
-
-    (0, 1) = accentuates the disparity between values (increases liklihood of highest p from input vector being chosen)
-    1.0 = Sampling occurs to the input vector without any change
-    >1.0 = Values are "pushed" closer together which increases candidates for multinomial sampling
-
     Taken from: https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py#L63
 
     :param np.array preds: Prediction vector from model
@@ -41,7 +32,7 @@ def sample(preds, temperature):
 @click.option('--model', required=1, help='Path to Keras model (HDF5)')
 @click.option('--text', required=1, help='Path to text used to generate model (to rebuild char sets)')
 @click.option('--maxlen', default=40, help='Max Length used to build model')
-@click.option('--temp', default='0.0', help='Temperature - affects sampling from softmax probability vector')
+@click.option('--temp', default=0.0, help='Temperature - affects sampling from softmax probability vector')
 @click.option('--num-chars', default=400, help='Number of characters to generate')
 @click.option('--seed', default=None, help='If provided, will use instead of a random seed from text')
 def main(model, text, maxlen, temp, num_chars, seed):
@@ -49,8 +40,11 @@ def main(model, text, maxlen, temp, num_chars, seed):
     Generates text given a model and a random seed generated from a text
 
     Example: generate-text --model=model.hdf5 --text=data/training-text.txt
+
+    Temperature (--temp) affects multinomial sampling of the prediction vector. Higher values can help break
+    the model of infinite loops by introducing entropy into the sequence generation. Typical range [0.0 - 1.5].
     """
-    click.echo('-- Network Settings -- ')
+    click.echo('-- Settings -- ')
     click.echo(''.join(['{}\t{}\n'.format(x, y) for x, y in sorted(locals().iteritems())]))
 
     # Store options
@@ -72,6 +66,7 @@ def main(model, text, maxlen, temp, num_chars, seed):
     model = load_model(model)
 
     # Generate text
+    click.clear()
     click.echo('\n-- Text Generation --\nSeed: {}'.format(seed))
     sentence = '' + seed
     sys.stdout.write(seed)
