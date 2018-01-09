@@ -1,0 +1,147 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.2
+epochs	20
+gpu_growth	True
+gru	False
+log	models/separated-tweets/40-3-20-128-1-256-0.2-False/log.txt
+maxlen	40
+model_out	models/separated-tweets/40-3-20-128-1-256-0.2-False/model.hdf5
+num_layers	1
+out_dir	models/separated-tweets/40-3-20-128-1-256-0.2-False
+run_name	40-3-20-128-1-256-0.2-False
+stride	3
+text	data/separated-tweets.txt
+text_name	separated-tweets
+units	256
+
+Created 683221 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: veral legal hispanics supporting trump! 
+Generated: veral legal hispanics supporting trump! thanks to see a will be a loter the and the are a will be a loter the and the are a will be a loter the and the are a will be a loter the and the are a will be a loter the and the are a will be a loter the and the are a will be a loter the and the are a will be a loter the and the are a will be a loter the and the are a will be a loter the and the are a will be a loter the and the are a will be a 
+
+Epoch: 2
+
+-- Text Generation --
+Seed: pening of the incredible trump ocean clu
+Generated: pening of the incredible trump ocean clust with a great and it was a great state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state the state
+
+Epoch: 3
+
+-- Text Generation --
+Seed: nity i ve seen in awhile. thanks to your
+Generated: nity i ve seen in awhile. thanks to your some of the world to the tough to the the too love the truth to the the too love the truth to the the too love the truth to the the too love the truth to the the too love the truth to the the too love the truth to the the too love the truth to the the too love the truth to the the too love the truth to the the too love the truth to the the too love the truth to the the too love the truth to the t
+
+Epoch: 4
+
+-- Text Generation --
+Seed: ill not want to mess with you. think big
+Generated: ill not want to mess with you. think big and will be a great country and the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the best show the
+
+Epoch: 5
+
+-- Text Generation --
+Seed: timidated. he is a strong leader.
+@mygia
+Generated: timidated. he is a strong leader.
+@mygiamine with the world to the country and the world with the president that we will be a great the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best th
+
+Epoch: 6
+
+-- Text Generation --
+Seed: y considering running for president..
+@b
+Generated: y considering running for president..
+@barackobama s a true and the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of th
+
+Epoch: 7
+
+-- Text Generation --
+Seed: rdeen scotland resort and loved everythi
+Generated: rdeen scotland resort and loved everything i will be a great state of the presidential country in the world with the president of the deal is a great country and a great state of the presidential country in the world with the president of the deal is a great country and a great state of the presidential country in the world with the president of the deal is a great country and a great state of the presidential country in the world with 
+
+Epoch: 8
+
+-- Text Generation --
+Seed: u miss katie s diner!#makeamericagreatag
+Generated: u miss katie s diner!#makeamericagreatagain. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016.
+
+Epoch: 9
+
+-- Text Generation --
+Seed: here will be a big gasp when the figures
+Generated: here will be a big gasp when the figures and the best problems and the best course is a great and state the real problems and the best course is a great and state the real problems and the best course is a great and state the real problems and the best course is a great and state the real problems and the best course is a great and state the real problems and the best course is a great and state the real problems and the best course is 
+
+Epoch: 10
+
+-- Text Generation --
+Seed: friends today watch here.
+here are my th
+Generated: friends today watch here.
+here are my the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thing the best thi
+
+Epoch: 11
+
+-- Text Generation --
+Seed: ill sell us out just like her husband di
+Generated: ill sell us out just like her husband disaster. thanks. is the best president of the world s country and the world is a total mistore to the world s course in the world with the world s country and the world s country and the world is a total mistore to the world s course in the world with the world s country and the world s country and the world is a total mistore to the world s course in the world with the world s country and the worl
+
+Epoch: 12
+
+-- Text Generation --
+Seed:  on point as always.
+@aplemonlemon: @rea
+Generated:  on point as always.
+@aplemonlemon: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtr
+
+Epoch: 13
+
+-- Text Generation --
+Seed: ll have effectively bankrupted our count
+Generated: ll have effectively bankrupted our country is a total lice of the world s and the best course that s the world s all the world is a total loser and the world s all the world is a total loser and the world s all the world is a total loser and the world s all the world is a total loser and the world s all the world is a total loser and the world s all the world is a total loser and the world s all the world is a total loser and the world 
+
+Epoch: 14
+
+-- Text Generation --
+Seed: uela should allow leopoldo lopez a polit
+Generated: uela should allow leopoldo lopez a political special prosperity in the us and the best course in the world to the country is a great and the best president of the us to charity is a great state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state
+
+Epoch: 15
+
+-- Text Generation --
+Seed: d @realdonaldtrump might be running for 
+Generated: d @realdonaldtrump might be running for president thanks. i am successful and strong to start the best thing the best show that we will be a great president thanks. thanks. in the world to the country and the best show that we will be a great president thanks. thanks. in the world to the country and the best show that we will be a great president thanks. thanks. in the world to the country and the best show that we will be a great presi
+
+Epoch: 16
+
+-- Text Generation --
+Seed: time he s makes a decision it s good for
+Generated: time he s makes a decision it s good for the best president of the us to the world in the us to see the president of the us to see the president of the us to see the president of the us to see the president of the us to see the president of the us to see the president of the us to see the president of the us to see the president of the us to see the president of the us to see the president of the us to see the president of the us to see
+
+Epoch: 17
+
+-- Text Generation --
+Seed:  tells you that your proposed cuts will 
+Generated:  tells you that your proposed cuts will be the best show with the presidential debate in the world s course in the world with the world s cont. not a great show who don t have a great show who don t have a great show who don t have a great show who don t have a great show who don t have a great show who don t have a great show who don t have a great show who don t have a great show who don t have a great show who don t have a great show
+
+Epoch: 18
+
+-- Text Generation --
+Seed: ball is going away and @mittromney will 
+Generated: ball is going away and @mittromney will be a great president of the world to the truth and the best show that we need to see the presidential race was a great president of the world to the truth and the best show that we need to see the presidential race was a great president of the world to the truth and the best show that we need to see the presidential race was a great president of the world to the truth and the best show that we nee
+
+Epoch: 19
+
+-- Text Generation --
+Seed:  @barackobama i would walk barefoot and 
+Generated:  @barackobama i would walk barefoot and the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is the best course is t
+
+Epoch: 20
+
+-- Text Generation --
+Seed: nding your money wisely not funneling it
+Generated: nding your money wisely not funneling it will be a great guy! #trump2016. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks
+Training runtime: 6287.10869002

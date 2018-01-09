@@ -1,0 +1,145 @@
+-- Network Settings -- 
+batch_size	100
+dropout	0.2
+epochs	20
+gpu_growth	True
+gru	True
+log	models/separated-tweets/10-3-20-100-1-128-0.2-True/log.txt
+maxlen	10
+model_out	models/separated-tweets/10-3-20-100-1-128-0.2-True/model.hdf5
+num_layers	1
+out_dir	models/separated-tweets/10-3-20-100-1-128-0.2-True
+run_name	10-3-20-100-1-128-0.2-True
+stride	3
+text	data/separated-tweets.txt
+text_name	separated-tweets
+units	128
+
+Created 994751 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: onaldtrump
+Generated: onaldtrump i was the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the make and the
+
+Epoch: 2
+
+-- Text Generation --
+Seed: 2016.
+ted 
+Generated: 2016.
+ted the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and the contral news and t
+
+Epoch: 3
+
+-- Text Generation --
+Seed:  thanks!
+@
+Generated:  thanks!
+@realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonal
+
+Epoch: 4
+
+-- Text Generation --
+Seed: es sleazy 
+Generated: es sleazy the world start to the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the
+
+Epoch: 5
+
+-- Text Generation --
+Seed: y senior s
+Generated: y senior show that i want to see you thanks and a that the country and a total country and a total country and a total country and a total country and a total country and a total country and a total country and a total country and a total country and a total country and a total country and a total country and a total country and a total country and a total country and a total country and a total country and
+
+Epoch: 6
+
+-- Text Generation --
+Seed: be working
+Generated: be working to be a great and the proces the property and the proces the property and the proces the property and the proces the property and the proces the property and the proces the property and the proces the property and the proces the property and the proces the property and the proces the property and the proces the property and the proces the property and the proces the property and the proces the pr
+
+Epoch: 7
+
+-- Text Generation --
+Seed: worried. t
+Generated: worried. the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the b
+
+Epoch: 8
+
+-- Text Generation --
+Seed: ct our clo
+Generated: ct our close the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians and the politicians a
+
+Epoch: 9
+
+-- Text Generation --
+Seed: 
+@shinyshe
+Generated: 
+@shinyshers @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @reald
+
+Epoch: 10
+
+-- Text Generation --
+Seed: dish u sho
+Generated: dish u should be a great read the president of the deal the president of the deal the president of the deal the president of the deal the president of the deal the president of the deal the president of the deal the president of the deal the president of the deal the president of the deal the president of the deal the president of the deal the president of the deal the president of the deal the president of
+
+Epoch: 11
+
+-- Text Generation --
+Seed: e america 
+Generated: e america great again! #trump2016.........................................................................................................................................................................................................................................................................................................................................................................................
+
+Epoch: 12
+
+-- Text Generation --
+Seed: naldtrump 
+Generated: naldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdona
+
+Epoch: 13
+
+-- Text Generation --
+Seed:  wait for 
+Generated:  wait for the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the 
+
+Epoch: 14
+
+-- Text Generation --
+Seed: xistential
+Generated: xistential complete the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on the president on
+
+Epoch: 15
+
+-- Text Generation --
+Seed: t #aetv w 
+Generated: t #aetv w the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the presi
+
+Epoch: 16
+
+-- Text Generation --
+Seed: celebappre
+Generated: celebapprentice is a great presidential course is a great presidential course is a great presidential course is a great presidential course is a great presidential course is a great presidential course is a great presidential course is a great presidential course is a great presidential course is a great presidential course is a great presidential course is a great presidential course is a great presidentia
+
+Epoch: 17
+
+-- Text Generation --
+Seed: at would y
+Generated: at would you are the best states the president of the best states the president of the best states the president of the best states the president of the best states the president of the best states the president of the best states the president of the best states the president of the best states the president of the best states the president of the best states the president of the best states the president 
+
+Epoch: 18
+
+-- Text Generation --
+Seed: d to me to
+Generated: d to me to the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the d
+
+Epoch: 19
+
+-- Text Generation --
+Seed: despite a 
+Generated: despite a great and the best president of the deal with the best president of the deal with the best president of the deal with the best president of the deal with the best president of the deal with the best president of the deal with the best president of the deal with the best president of the deal with the best president of the deal with the best president of the deal with the best president of the deal
+
+Epoch: 20
+
+-- Text Generation --
+Seed: rolina. bi
+Generated: rolina. big the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the and the are the an
+Training runtime: 3082.31145716

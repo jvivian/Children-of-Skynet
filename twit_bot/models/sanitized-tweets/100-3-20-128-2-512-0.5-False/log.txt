@@ -1,0 +1,139 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.5
+epochs	20
+gpu_growth	True
+gru	False
+log	models/sanitized-tweets/100-3-20-128-2-512-0.5-False/log.txt
+maxlen	100
+model_out	models/sanitized-tweets/100-3-20-128-2-512-0.5-False/model.hdf5
+num_layers	2
+out_dir	models/sanitized-tweets/100-3-20-128-2-512-0.5-False
+run_name	100-3-20-128-2-512-0.5-False
+stride	3
+text	data/sanitized-tweets.txt
+text_name	sanitized-tweets
+units	512
+
+Created 1102138 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: se our leaders are so completely stupid! @jahbalon: why is sierra club not speaking up for the birds
+Generated: se our leaders are so completely stupid! @jahbalon: why is sierra club not speaking up for the birds and the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in the best the trump in
+
+Epoch: 2
+
+-- Text Generation --
+Seed:  our deep belief in the virtue of self-reliance. #timetogettough cont. the point is: the chinese are
+Generated:  our deep belief in the virtue of self-reliance. #timetogettough cont. the point is: the chinese are the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the
+
+Epoch: 3
+
+-- Text Generation --
+Seed: say i am loving the us celebrity apprentice on bbc1 in the uk great show and celebrities! @pcufinn: 
+Generated: say i am loving the us celebrity apprentice on bbc1 in the uk great show and celebrities! @pcufinn: @realdonaldtrump @realdonaldtrump i will be a great people will be a great people will be a great people will be a great people will be a great people will be a great people will be a great people will be a great people will be a great people will be a great people will be a great people will be a great people will be a great people will be a great people will be a great people will be a great peo
+
+Epoch: 4
+
+-- Text Generation --
+Seed: ealdonaldtrump shelly kulwin says your a lyin dog mr. trump. shelly kulwin is a really bad lawyer wh
+Generated: ealdonaldtrump shelly kulwin says your a lyin dog mr. trump. shelly kulwin is a really bad lawyer who will be a great starting the world in the world s cont. the most security is a great starting the most of the debt and the best and the best and the best and the best and the best and starting to see the trump tower to the most of the debt and the best and the best and the best and the best and starting to see the trump tower to the most of the debt and the best and the best and the best and the
+
+Epoch: 5
+
+-- Text Generation --
+Seed: rgton: @realdonaldtrump when the released prisoners kill americans what does obama say to their pare
+Generated: rgton: @realdonaldtrump when the released prisoners kill americans what does obama say to their parents and the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the b
+
+Epoch: 6
+
+-- Text Generation --
+Seed: rge trump sign outside window. #sheratonchicago. @fomovancouver: the new #celebrityapprentice starts
+Generated: rge trump sign outside window. #sheratonchicago. @fomovancouver: the new #celebrityapprentice starts are the best in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the wo
+
+Epoch: 7
+
+-- Text Generation --
+Seed: ope to get just about everything to public! happy birthday to the great @theleegreenwood. you and yo
+Generated: ope to get just about everything to public! happy birthday to the great @theleegreenwood. you and yoffffffffffffffff121fff2fffffffff001ff2f0fffff1@ff@@fff00@@f0f@0@f20@21@21ffff@@f@ff12fff@0ff2f00f@010f000000000f000002000f000000000002000000000000000000000000007000000000000000000000000080000@0@1207000000000007000000@101100000000000000000000000000000000000000100000000000000000000000000051000007012000000000002000100&00440000000000000000000000000000000000000040000000000000000000000000000000000002500
+
+Epoch: 8
+
+-- Text Generation --
+Seed: in alabama! roll trump roll #trumpinal #trump2016. @toneantone96: @realdonaldtrump no man or women o
+Generated: in alabama! roll trump roll #trumpinal #trump2016. @toneantone96: @realdonaldtrump no man or women of the art of the deal is the only one will be a great country in the world to the best than the best than the best than the best than the best than you and the best than you and the best than you and the best than you and the best than you and the best than you and the best than you and the best than you and the best than you and the best than you and the best than you and the best than you and th
+
+Epoch: 9
+
+-- Text Generation --
+Seed: ldtrump because you tell it like it is and the liberal media can t stand it! keep blasting away! thx
+Generated: ldtrump because you tell it like it is and the liberal media can t stand it! keep blasting away! thx s a great country is a great country and the country and the country and the country is a great country and the country and the country and the country is a great country and the country and the country and the country is a great country and the country and the country and the country is a great country and the country and the country and the country is a great country and the country and the cou
+
+Epoch: 10
+
+-- Text Generation --
+Seed: ated loser polititians!! inspire greatness! #trump #2016. @rg radical99: counting down the hours to 
+Generated: ated loser polititians!! inspire greatness! #trump #2016. @rg radical99: counting down the hours to the most the trump tower in the polls and the most the trump tower in the politics and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and t
+
+Epoch: 11
+
+-- Text Generation --
+Seed: loroftexas so nice good morning! @danscavino: @realdonaldtrump @thefamilyleader just saw last nights
+Generated: loroftexas so nice good morning! @danscavino: @realdonaldtrump @thefamilyleader just saw last nights and the best thing in the world is a true cont. the best thing i will be interviewed on @foxnews in the u.s. and the best thing i will be interviewed on @foxnews in the u.s. and the best thing i will be interviewed on @foxnews in the u.s. and the best thing i will be interviewed on @foxnews in the u.s. and the best thing i will be interviewed on @foxnews in the u.s. and the best thing i will be i
+
+Epoch: 12
+
+-- Text Generation --
+Seed: rump declares victory on immigration as obama admits some illegals are gang bangers via @breitbartne
+Generated: rump declares victory on immigration as obama admits some illegals are gang bangers via @breitbartnews by @realdonaldtrump thank you. @markering thanks john and the trump tower to the people of the trump tower to the people of the trump tower to the people of the trump tower to the people of the trump tower to the people of the trump tower to the people of the trump tower to the people of the trump tower to the people of the trump tower to the people of the trump tower to the people of the trump
+
+Epoch: 13
+
+-- Text Generation --
+Seed: such a horrible waste of lives and 1.5 trillion dollars and i told you so! . who is going to get ira
+Generated: such a horrible waste of lives and 1.5 trillion dollars and i told you so! . who is going to get iran and the best than you are a great country and the best than you think the best than you re a great country and the best than you think the best than you re a great country and the best than you think the best than you re a great country and the best than you think the best than you re a great country and the best than you think the best than you re a great country and the best than you think the
+
+Epoch: 14
+
+-- Text Generation --
+Seed: z good i want to see the court decide what i was always told natural born means - born on american s
+Generated: z good i want to see the court decide what i was always told natural born means - born on american supporters and the country in the united states and the country is a great country in the united states and the country in the united states and the country is a great country in the united states and the country in the united states and the country is a great country in the united states and the country in the united states and the country is a great country in the united states and the country in
+
+Epoch: 15
+
+-- Text Generation --
+Seed: ve to shop at until they turned on americans @realdonaldtrump #makeamericagreatagain. @retrogirl01: 
+Generated: ve to shop at until they turned on americans @realdonaldtrump #makeamericagreatagain. @retrogirl01: @realdonaldtrump @realdonaldtrump @macys i will be the only one who can t wait for the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the preside
+
+Epoch: 16
+
+-- Text Generation --
+Seed: ot in various places in florida? hope this is false. word is that despite a record amount spent on n
+Generated: ot in various places in florida? hope this is false. word is that despite a record amount spent on now the most the best country is a great president of the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world in the world
+
+Epoch: 17
+
+-- Text Generation --
+Seed: blems you re pretending or you don t run your own business. donald j. trump. last week to enter the 
+Generated: blems you re pretending or you don t run your own business. donald j. trump. last week to enter the president of the u.s. a great president of the u.s. a great president of the united states than the best thing to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to see you to 
+
+Epoch: 18
+
+-- Text Generation --
+Seed: the things i love is what my business is all about. - @marthastewart. thousands of fans have been se
+Generated: the things i love is what my business is all about. - @marthastewart. thousands of fans have been seeing the trump tower in the world is a great state of the trump tower in the world to the people of the trump tower in the world to the people of the trump tower in the world to the people of the trump tower in the world to the people of the trump tower in the world to the people of the trump tower in the world to the people of the trump tower in the world to the people of the trump tower in the w
+
+Epoch: 19
+
+-- Text Generation --
+Seed: nities in every difficulty rather than the difficulty in every opportunity.- reed markham. it s late
+Generated: nities in every difficulty rather than the difficulty in every opportunity.- reed markham. it s late to see the trump tower in the world to be a great president of the world to see the trump tower in the world to be a great president of the world to see the trump tower in the world to be a great president of the world to see the trump tower in the world to be a great president of the world to see the trump tower in the world to be a great president of the world to see the trump tower in the worl
+
+Epoch: 20
+
+-- Text Generation --
+Seed: t a bleeding heart liberal like him. @rhumeey: @realdonaldtrump. bluntness is thy name oh donald tru
+Generated: t a bleeding heart liberal like him. @rhumeey: @realdonaldtrump. bluntness is thy name oh donald trump to see the trump tower in the world is a great state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the
+Training runtime: 65918.190958

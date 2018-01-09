@@ -1,0 +1,199 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.2
+epochs	30
+gpu_growth	True
+gru	False
+log	models/sanitized-tweets/40-3-30-128-1-256-0.2-False/log.txt
+maxlen	40
+model_out	models/sanitized-tweets/40-3-30-128-1-256-0.2-False/model.hdf5
+num_layers	1
+out_dir	models/sanitized-tweets/40-3-30-128-1-256-0.2-False
+run_name	40-3-30-128-1-256-0.2-False
+stride	3
+text	data/sanitized-tweets.txt
+text_name	sanitized-tweets
+units	256
+
+Created 1102158 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: gainst me in florida & i won in a massiv
+Generated: gainst me in florida & i won in a massive and the mast can t wait to see what i will be on the world and the mast will be and the mast congrats the mast can t wait to see what i will be on the world and the mast will be and the mast congrats the mast can t wait to see what i will be on the world and the mast will be and the mast congrats the mast can t wait to see what i will be on the world and the mast will be and the mast congrats th
+
+Epoch: 2
+
+-- Text Generation --
+Seed: u not running for president in 2016 we l
+Generated: u not running for president in 2016 we let in the best president and the best country is a great country is a great country in the best president and the best country is a great country is a great country in the best president and the best country is a great country is a great country in the best president and the best country is a great country is a great country in the best president and the best country is a great country is a great 
+
+Epoch: 3
+
+-- Text Generation --
+Seed: w! snooze fest! @pnerrad: @realdonaldtru
+Generated: w! snooze fest! @pnerrad: @realdonaldtrump @realdonaldtrump @realdonaldtrump i am so many people will be a great problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to the problem to t
+
+Epoch: 4
+
+-- Text Generation --
+Seed: pinion..... ...we negotiated a ceasefire
+Generated: pinion..... ...we negotiated a ceasefire the senate should be a great polls thank you to see the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the b
+
+Epoch: 5
+
+-- Text Generation --
+Seed: cafirst #maga. #americafirst! wow - than
+Generated: cafirst #maga. #americafirst! wow - thanks. @jamessandan: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdon
+
+Epoch: 6
+
+-- Text Generation --
+Seed: yday. such an interesting guy. thanks. @
+Generated: yday. such an interesting guy. thanks. @charlegander: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldt
+
+Epoch: 7
+
+-- Text Generation --
+Seed: n times mr. trump buzzes the presidentia
+Generated: n times mr. trump buzzes the presidential candidate in the world is a great polls thank you for the new york than the state of the world is a great polls thank you for the new york than the state of the world is a great polls thank you for the new york than the state of the world is a great polls thank you for the new york than the state of the world is a great polls thank you for the new york than the state of the world is a great poll
+
+Epoch: 8
+
+-- Text Generation --
+Seed:  progressives & rino s poke at the donal
+Generated:  progressives & rino s poke at the donald trump in the world and the president of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the state of the sta
+
+Epoch: 9
+
+-- Text Generation --
+Seed: ll10: @realdonaldtrump i played your cou
+Generated: ll10: @realdonaldtrump i played your country in the world in the world is a great president of the best and the president of the more thing in the world is a great president of the best and the president of the more thing in the world is a great president of the best and the president of the more thing in the world is a great president of the best and the president of the more thing in the world is a great president of the best and the 
+
+Epoch: 10
+
+-- Text Generation --
+Seed: r construction of trump nationsl doral i
+Generated: r construction of trump nationsl doral is a great president of the real enemy so true! @johnnycharle: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrum
+
+Epoch: 11
+
+-- Text Generation --
+Seed: s family everyone can get welfare but th
+Generated: s family everyone can get welfare but they are the best report and the most american people and the most american people and the most american people and the most american people and the most american people and the most american people and the most american people and the most american people and the most american people and the most american people and the most american people and the most american people and the most american people 
+
+Epoch: 12
+
+-- Text Generation --
+Seed: r. it s been a terrific season! all the 
+Generated: r. it s been a terrific season! all the republicans are the best and state the best thing you would be a great people who can t wait to see the best thing you would be a great people who can t wait to see the best thing you would be a great people who can t wait to see the best thing you would be a great people who can t wait to see the best thing you would be a great people who can t wait to see the best thing you would be a great peop
+
+Epoch: 13
+
+-- Text Generation --
+Seed: video of me. therefore hillary lied at t
+Generated: video of me. therefore hillary lied at the state of the most of the most of the press will be a great trump tower in the world to be a great trump tower in the world to be a great trump tower in the world to be a great trump tower in the world to be a great trump tower in the world to be a great trump tower in the world to be a great trump tower in the world to be a great trump tower in the world to be a great trump tower in the world t
+
+Epoch: 14
+
+-- Text Generation --
+Seed: reatagain #trump2016. thank you miss kat
+Generated: reatagain #trump2016. thank you miss kate and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country and the world is a great country an
+
+Epoch: 15
+
+-- Text Generation --
+Seed: til i hear what donald trump has to say 
+Generated: til i hear what donald trump has to say the best things the most in the world is a great people and the republican security and the republicans are the best things the most in the world is a great people and the republican security and the republicans are the best things the most in the world is a great people and the republican security and the republicans are the best things the most in the world is a great people and the republican s
+
+Epoch: 16
+
+-- Text Generation --
+Seed: will be meaner and tougher and hate the 
+Generated: will be meaner and tougher and hate the statements and the president of the world is a great country to see the trump tower in the world to see the trump tower in the world to see the trump tower in the world to see the trump tower in the world to see the trump tower in the world to see the trump tower in the world to see the trump tower in the world to see the trump tower in the world to see the trump tower in the world to see the trum
+
+Epoch: 17
+
+-- Text Generation --
+Seed: -in-chiefs trophy! congratulations! no a
+Generated: -in-chiefs trophy! congratulations! no americans are so many the american people and the republican security and the best to the world is a great people in the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is
+
+Epoch: 18
+
+-- Text Generation --
+Seed: for @realdonaldtrump since i was little.
+Generated: for @realdonaldtrump since i was little. @mittromney is a great problem. @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonal
+
+Epoch: 19
+
+-- Text Generation --
+Seed: lkoja: excited for #cpac @realdonaldtrum
+Generated: lkoja: excited for #cpac @realdonaldtrump i will be on @foxandfriends at 7:30 ammerion to the president of the u.s. and the president of the u.s. and the president of the u.s. and the president of the u.s. and the president of the u.s. and the president of the u.s. and the president of the u.s. and the president of the u.s. and the president of the u.s. and the president of the u.s. and the president of the u.s. and the president of the
+
+Epoch: 20
+
+-- Text Generation --
+Seed: ll be missed by all! @rapidcraft: heres 
+Generated: ll be missed by all! @rapidcraft: heres the american people want to be strong in the world is a great country because the democrats are a great country before the best thing to do it was a great country because they are the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of 
+
+Epoch: 21
+
+-- Text Generation --
+Seed:  legally great idea! @bmw e38forever: @r
+Generated:  legally great idea! @bmw e38forever: @realdonaldtrump @mittromney is the best course in the world is a great country to see you and the trump tower in the world is a great country and the president of the state of the president of the world is a great team the trump tower in the world is a great country and the president of the state of the president of the world is a great team the trump tower in the world is a great country and the p
+
+Epoch: 22
+
+-- Text Generation --
+Seed: or president thank you. @whiskeysam99 .s
+Generated: or president thank you. @whiskeysam99 .s the president of the most and started the president of the world is a great thank you. @seanhannity @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonal
+
+Epoch: 23
+
+-- Text Generation --
+Seed: @mjtis yes! @kryssitoocool18 thank you. 
+Generated: @mjtis yes! @kryssitoocool18 thank you. @therealmarker: @realdonaldtrump @marianorick thanks for your support that the trump tower in the world to start the best the world can t be a great state of the world can t wait to see the trump tower in the world to start the best the world can t be a great state of the world can t wait to see the trump tower in the world to start the best the world can t be a great state of the world can t wait
+
+Epoch: 24
+
+-- Text Generation --
+Seed: t waste your energy on politics. busines
+Generated: t waste your energy on politics. business is a great to be a great tour more than the republican party and a great tour supporters and the republican party is a great to be a great tour more than the republican party and a great tour supporters and the republican party is a great to be a great tour more than the republican party and a great tour supporters and the republican party is a great to be a great tour more than the republican p
+
+Epoch: 25
+
+-- Text Generation --
+Seed:  he can t even defend his own microphone
+Generated:  he can t even defend his own microphone than the republican party and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and the world s and t
+
+Epoch: 26
+
+-- Text Generation --
+Seed: erry katy what the hell were you thinkin
+Generated: erry katy what the hell were you thinking of the state of the country is a great country in the world is a great country in the world is a great country in the world is a great country in the world is a great country in the world is a great country in the world is a great country in the world is a great country in the world is a great country in the world is a great country in the world is a great country in the world is a great country
+
+Epoch: 27
+
+-- Text Generation --
+Seed: n the hat? he can work it out. on the wh
+Generated: n the hat? he can work it out. on the white house and the president of the u.s. and the president of the united states and the people who will be the best president of the united states and the people who will be the best president of the united states and the people who will be the best president of the united states and the people who will be the best president of the united states and the people who will be the best president of the 
+
+Epoch: 28
+
+-- Text Generation --
+Seed: for a person that thinks that she does n
+Generated: for a person that thinks that she does not want to start the most in the world s and the presidency is a great country to the world s and the president of the world s and the presidency is a great country to the world s and the president of the world s and the presidency is a great country to the world s and the president of the world s and the presidency is a great country to the world s and the president of the world s and the preside
+
+Epoch: 29
+
+-- Text Generation --
+Seed: lla1125 it s the sense of achievement al
+Generated: lla1125 it s the sense of achievement all over the best thing i want to be the best senator of the president of the best senator of the president of the best senator of the president of the best senator of the president of the best senator of the president of the best senator of the president of the best senator of the president of the best senator of the president of the best senator of the president of the best senator of the presiden
+
+Epoch: 30
+
+-- Text Generation --
+Seed: trump do you honestly think you could ru
+Generated: trump do you honestly think you could run for president in 2016 is the only one who can t wait to see the trump tower in the world s and the president of the best course in the world s and the president of the best course in the world s and the president of the best course in the world s and the president of the best course in the world s and the president of the best course in the world s and the president of the best course in the wor
+Training runtime: 16238.362045

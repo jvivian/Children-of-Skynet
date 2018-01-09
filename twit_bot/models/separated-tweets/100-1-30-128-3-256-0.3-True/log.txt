@@ -1,0 +1,261 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.3
+epochs	30
+gpu_growth	True
+gru	True
+log	models/separated-tweets/100-1-30-128-3-256-0.3-True/log.txt
+maxlen	100
+model_out	models/separated-tweets/100-1-30-128-3-256-0.3-True/model.hdf5
+num_layers	3
+out_dir	models/separated-tweets/100-1-30-128-3-256-0.3-True
+run_name	100-1-30-128-3-256-0.3-True
+stride	1
+text	data/separated-tweets.txt
+text_name	separated-tweets
+units	256
+
+Created 486555 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: urbandale high school tomorrow-.
+am i morally obligated to defend the president every time somebody 
+Generated: urbandale high school tomorrow-.
+am i morally obligated to defend the president every time somebody to get the best so much better the best so much better the best so much better the best so much better the best so much better the best so much better the best so much better the best so much better the best so much better the best so much better the best so much better the best so much better the best so much better the best so much better the best so much better the best so much better the best 
+
+Epoch: 2
+
+-- Text Generation --
+Seed: ee you at the top one day sir. great hopefully soon!
+@itshodaifa: @realdonaldtrump i wish someday i 
+Generated: ee you at the top one day sir. great hopefully soon!
+@itshodaifa: @realdonaldtrump i wish someday i will be a the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and 
+
+Epoch: 3
+
+-- Text Generation --
+Seed: .
+. @barbarajwalters made a great decision in firing @joyvbehar from @theviewtv. the show will be be
+Generated: .
+. @barbarajwalters made a great decision in firing @joyvbehar from @theviewtv. the show will be better thanks. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump20
+
+Epoch: 4
+
+-- Text Generation --
+Seed: eat big ego! still love you mr trump and cannot wait for celebrity @apprenticenbc.
+@chuck kelly13 @f
+Generated: eat big ego! still love you mr trump and cannot wait for celebrity @apprenticenbc.
+@chuck kelly13 @foxandfriends. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #t
+
+Epoch: 5
+
+-- Text Generation --
+Seed: ul in business? have passion for your work. then focus and never give up.
+via american spectator @am
+Generated: ul in business? have passion for your work. then focus and never give up.
+via american spectator @american @foxnews. thanks. #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2016. thank you! #trump2
+
+Epoch: 6
+
+-- Text Generation --
+Seed: d s best.
+there is nothing @trumpsoho did not think about for the holidays - @robbreport dives in:.
+
+Generated: d s best.
+there is nothing @trumpsoho did not think about for the holidays - @robbreport dives in:.
+o thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks
+
+Epoch: 7
+
+-- Text Generation --
+Seed: e plan to me.
+@erictrump is doing a great job on completing our new trump winery in virginia.
+govern
+Generated: e plan to me.
+@erictrump is doing a great job on completing our new trump winery in virginia.
+governer. thanks! #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #tru
+
+Epoch: 8
+
+-- Text Generation --
+Seed: .
+do as i say not as i do.the politicians who passed obamacare are now exempting themselves from the
+Generated: .
+do as i say not as i do.the politicians who passed obamacare are now exempting themselves from the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa and the usa
+
+Epoch: 9
+
+-- Text Generation --
+Seed: d stance at the border. should have been done long ago by perry.
+why would anybody listen to @mittro
+Generated: d stance at the border. should have been done long ago by perry.
+why would anybody listen to @mittromney. we will be a great job! thank you. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016.
+
+Epoch: 10
+
+-- Text Generation --
+Seed: tug on his collar.
+@theyardsaleking: @realdonaldtrump i had the honor of going in to this awesome bu
+Generated: tug on his collar.
+@theyardsaleking: @realdonaldtrump i had the honor of going in to this awesome but i will be a great country. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016.
+
+Epoch: 11
+
+-- Text Generation --
+Seed: e highly respected usa today suffolk university poll. enjoy!
+wow so nice! thank you wayne allyn root
+Generated: e highly respected usa today suffolk university poll. enjoy!
+wow so nice! thank you wayne allyn roots and stop the best than anyone was a great country and cont. the art of the deal in the people want to be a great country and cont. the art of the deal. the art of the deal in the people want to be a great country and cont. the art of the deal. the art of the deal in the people want to be a great country and cont. the art of the deal. the art of the deal in the people want to be a great country a
+
+Epoch: 12
+
+-- Text Generation --
+Seed: ome the new poor in this country and our incompetent politicians are unable to do anything about it.
+Generated: ome the new poor in this country and our incompetent politicians are unable to do anything about it. we need to help the best sense to his than any of the best and was a love the best and was a love the best and was a love the best and the best and the best and the best and the best and the best and the best and the best and was a love the best and was a love the best and was a love the best and the best and the best and the best and the best and the best and the best and the best and was a love
+
+Epoch: 13
+
+-- Text Generation --
+Seed: nding obamacare should be central to any deal.
+so china is ordering us to raise the debt limit...how
+Generated: nding obamacare should be central to any deal.
+so china is ordering us to raise the debt limit...how to be a great guy! #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump20
+
+Epoch: 14
+
+-- Text Generation --
+Seed:  @rogerjstonejr @megynkelly fiorina is not surging..she is begging for money..and she owns this.
+mar
+Generated:  @rogerjstonejr @megynkelly fiorina is not surging..she is begging for money..and she owns this.
+mar is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country is a great country 
+
+Epoch: 15
+
+-- Text Generation --
+Seed: loyal guy. i think he is strongly considering it.
+jennifer aniston is engaged--she s a great person 
+Generated: loyal guy. i think he is strongly considering it.
+jennifer aniston is engaged--she s a great person of the world. thanks. @realdonaldtrump. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. 
+
+Epoch: 16
+
+-- Text Generation --
+Seed: ng s to mexico no friend until they release marine & stop allowing immigrant inflow into u.s.
+@jenif
+Generated: ng s to mexico no friend until they release marine & stop allowing immigrant inflow into u.s.
+@jenifor the basters are failed and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the best and start the
+
+Epoch: 17
+
+-- Text Generation --
+Seed: a world tribune the elites problem with donald trump: he s not for sale by jeffrey t. kuhner.
+via hu
+Generated: a world tribune the elites problem with donald trump: he s not for sale by jeffrey t. kuhner.
+via hust to be a great job and we will be a great job and we will be a great job and we will be a great job and we will be a great job and we will be a great job and we will be a great job and we will be a great job and we will be a great job and we will be a great job and we will be a great job and we will be a great job and we will be a great job and we will be a great job and we will be a great job a
+
+Epoch: 18
+
+-- Text Generation --
+Seed:  visit opo.
+2004 video:pocahontas describing crooked hillary clinton as a corporate donor puppet. ti
+Generated:  visit opo.
+2004 video:pocahontas describing crooked hillary clinton as a corporate donor puppet. time to be a great job! #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump
+
+Epoch: 19
+
+-- Text Generation --
+Seed: siness man s sense and obama does not have it. so true!
+@julibanko: missing my days at #trumpwinery.
+Generated: siness man s sense and obama does not have it. so true!
+@julibanko: missing my days at #trumpwinery. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. tha
+
+Epoch: 20
+
+-- Text Generation --
+Seed: e total failure of the last eight years of foreign policy! so true. @foxandfriends.
+a great book for
+Generated: e total failure of the last eight years of foreign policy! so true. @foxandfriends.
+a great book for the man thanks. she is a great good president. thanks. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump20
+
+Epoch: 21
+
+-- Text Generation --
+Seed: reatagain! thank you @ivankatrump:.
+thank you michigan! #trump2016.
+david brooks of the new york tim
+Generated: reatagain! thank you @ivankatrump:.
+thank you michigan! #trump2016.
+david brooks of the new york times are being done. thank you! @realdonaldtrump. thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great again! thanks. great ag
+
+Epoch: 22
+
+-- Text Generation --
+Seed: tatement about leaving the base came directly from cbs evening news.
+@rcoldwellbanker: @realdonaldtr
+Generated: tatement about leaving the base came directly from cbs evening news.
+@rcoldwellbanker: @realdonaldtrump. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016.
+
+Epoch: 23
+
+-- Text Generation --
+Seed: ts thugs and paid protesters are proving the point of the millions of people who voted to make ameri
+Generated: ts thugs and paid protesters are proving the point of the millions of people who voted to make america great again! #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #trump2016. thanks. #tru
+
+Epoch: 24
+
+-- Text Generation --
+Seed: must need the money--and on @msnbc thats the way it is.
+.@sarahpalinusa did a great job @cpacnews. m
+Generated: must need the money--and on @msnbc thats the way it is.
+.@sarahpalinusa did a great job @cpacnews. make america great again! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! thank you! t
+
+Epoch: 25
+
+-- Text Generation --
+Seed:  the worst presidential candidates in history--kasich. can t debate loves #obamacare--dummy!
+heading
+Generated:  the worst presidential candidates in history--kasich. can t debate loves #obamacare--dummy!
+heading the best security. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump2016. #trump20
+
+Epoch: 26
+
+-- Text Generation --
+Seed: aste of energy but the worst habit you could possibly have. dale carnegie.
+be totally focused. being
+Generated: aste of energy but the worst habit you could possibly have. dale carnegie.
+be totally focused. being donald trump. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. 
+
+Epoch: 27
+
+-- Text Generation --
+Seed: e can have real leadership for us!
+@kentstgolf: thank you @realdonaldtrump trump charlotte is a beau
+Generated: e can have real leadership for us!
+@kentstgolf: thank you @realdonaldtrump trump charlotte is a beautiful than ever better than ever been for a great guy and the problems are so much better. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. t
+
+Epoch: 28
+
+-- Text Generation --
+Seed:  focus on obamacare and amnesty.
+so obama wants to bomb isis in iraq & arm them in syria? what is he
+Generated:  focus on obamacare and amnesty.
+so obama wants to bomb isis in iraq & arm them in syria? what is he was a disaster. thanks! @nflcommish. #trump2016. thanks! @nflcommish. #trump2016. thanks! @nflcommish. #trump2016. thanks! @nflcommish. #trump2016. thanks! @nflcommish. #trump2016. thanks! @nflcommish. #trump2016. thanks! @nflcommish. #trump2016. thanks! @nflcommish. #trump2016. thanks! @nflcommish. #trump2016. thanks! @nflcommish. #trump2016. thanks! @nflcommish. #trump2016. thanks! @nflcommish.
+
+Epoch: 29
+
+-- Text Generation --
+Seed: ll be hit even harder.
+many red-state democrats sticking with obama on deficit spending on the obama
+Generated: ll be hit even harder.
+many red-state democrats sticking with obama on deficit spending on the obama s cont. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks. thanks.
+
+Epoch: 30
+
+-- Text Generation --
+Seed: ld. virtually all reviews are saying the same thing.
+i am a very calm person but love tweeting about
+Generated: ld. virtually all reviews are saying the same thing.
+i am a very calm person but love tweeting about the world. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. thank you. tha
+Training runtime: 39389.213115

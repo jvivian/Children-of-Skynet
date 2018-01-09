@@ -102,3 +102,38 @@ Seed: ooked a poll in support of obamacare. surprise? 1970s global cooling alarm
 Generated: ooked a poll in support of obamacare. surprise? 1970s global cooling alarmists were pushing same no--and the president of the people of the people of the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in the president of the deal in th
 
 Epoch: 15
+
+-- Text Generation --
+Seed:  @brose783 thanks. good luck. @tappersong the opposite! watch @extratv s spot covering the first ann
+Generated:  @brose783 thanks. good luck. @tappersong the opposite! watch @extratv s spot covering the first announce that i will be the best the trump to see you show the trump to see you show the trump to see you show the trump to see you show the trump to see you show the trump to see you show the trump to see you show the trump to see you show the trump to see you show the trump to see you show the trump to see you show the trump to see you show the trump to see you show the trump to see you show the tr
+
+Epoch: 16
+
+-- Text Generation --
+Seed: ter. pray for steve! they made up a phony collusion with the russians story found zero proof so now 
+Generated: ter. pray for steve! they made up a phony collusion with the russians story found zero proof so now the president is a great people of the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the pres
+
+Epoch: 17
+
+-- Text Generation --
+Seed: thday to @realdonaldtrump. i wish you many more success! you are greatness! thanks. @ryanbushby: @re
+Generated: thday to @realdonaldtrump. i wish you many more success! you are greatness! thanks. @ryanbushby: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be the best the country is a great country in the world s a country is the best state of the world is a great country in the world s a country is a great country in the world s a country is a great country in the world s a country is a great country in the world s a country is a great country in the world s a country is a great country in the 
+
+Epoch: 18
+
+-- Text Generation --
+Seed: ust put #americafirst. thank you des moines iowa! governor @mike pence and i appreciate your support
+Generated: ust put #americafirst. thank you des moines iowa! governor @mike pence and i appreciate your support the president of the state of the state of the state of the world will be a great people on the state of the world will be a great problem. @michaelscaller: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be interviewed on @foxandfriends thanks. @micheller1999 thanks to all of the debt complimenting the best the country is a great country in the president of the state of the world will 
+
+Epoch: 19
+
+-- Text Generation --
+Seed: in the trump org. this case is going awaywe have no case. what did our very stupid & ineffective a.g
+Generated: in the trump org. this case is going awaywe have no case. what did our very stupid & ineffective a.g. thank you to all of the debate is a great people of the world with the people of the world will be a great people of the world with the people of the world will be a great people of the world with the people of the world will be a great people of the world with the people of the world will be a great people of the world with the people of the world will be a great people of the world with the pe
+
+Epoch: 20
+
+-- Text Generation --
+Seed:  despise you! ignore keep inspiring! @aguscalo:every time that somebody ask me about my future i alw
+Generated:  despise you! ignore keep inspiring! @aguscalo:every time that somebody ask me about my future i always be the best of the world with the world with the world with the world with the world with the world with the president that we have a great country in the world with the world with the world with the world with the world with the world with the world with the president that we have a great country in the world with the world with the world with the world with the world with the world with the 
+Training runtime: 24219.1400418
