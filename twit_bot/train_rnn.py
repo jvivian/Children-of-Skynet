@@ -137,8 +137,10 @@ def generate_seed(opts):
     :return: Random seed
     :rtype: str
     """
-    start_index = np.random.randint(0, len(opts.text) - opts.maxlen - 1)
-    return opts.text[start_index: start_index + opts.maxlen]
+    for sample in opts.text.split('\n'):
+        if len(sample) > opts.maxlen:
+            start_index = np.random.randint(0, len(sample) - opts.maxlen - 1)
+            return opts.text[start_index: start_index + opts.maxlen]
 
 
 def generate_text_from_seed(model, opts, num_chars=400):

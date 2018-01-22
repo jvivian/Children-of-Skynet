@@ -1,6 +1,7 @@
+import sys
+
 import click
 import numpy as np
-import sys
 from keras.models import load_model
 from rnaseq_lib.utils import rexpando
 from train_rnn import generate_seed, str_to_vec, char_maps
@@ -51,6 +52,7 @@ def main(model, text, maxlen, temp, num_chars, seed):
     opts = rexpando(locals())
 
     # Read in text
+    click.echo('Selecting line from text.')
     opts.text = open(text, 'r').read()
 
     # If a seed is not provided, generate one from text
@@ -86,6 +88,7 @@ def main(model, text, maxlen, temp, num_chars, seed):
         # Output text to terminal as it is generated
         sys.stdout.write(next_char)
         sys.stdout.flush()
+
 
 if __name__ == '__main__':
     main()
