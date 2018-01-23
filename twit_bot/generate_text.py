@@ -52,11 +52,12 @@ def main(model, text, maxlen, temp, num_chars, seed):
     opts = rexpando(locals())
 
     # Read in text
-    click.echo('Selecting line from text.')
+    click.echo('Reading in text')
     opts.text = open(text, 'r').read()
 
     # If a seed is not provided, generate one from text
     if not seed:
+        click.echo('Generating seed from text')
         seed = generate_seed(opts)
     else:
         opts.maxlen = len(seed)
