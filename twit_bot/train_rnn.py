@@ -54,11 +54,11 @@ def create_training_set(opts):
     # Break up text into sentences and next_chars
     sentences = []
     next_chars = []
-    for sample in opts.text.split('\n'):
-        if len(sample) > opts.maxlen + opts.stride:
-            for i in range(0, len(sample) - opts.maxlen, opts.stride):
-                sentences.append(sample[i: i + opts.maxlen])
-                next_chars.append(sample[i + opts.maxlen])
+    # for sample in opts.text.split('\n'):
+    #     if len(sample) > opts.maxlen + opts.stride:
+    for i in range(0, len(opts.text) - opts.maxlen, opts.stride):
+        sentences.append(opts.text[i: i + opts.maxlen])
+        next_chars.append(opts.text[i + opts.maxlen])
 
     # Create X and y tensors from training set
     x = np.zeros((len(sentences), opts.maxlen, opts.len_chars), dtype=np.bool)
