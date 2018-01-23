@@ -1,32 +1,9 @@
 import sys
 
 import click
-import numpy as np
 from keras.models import load_model
 from rnaseq_lib.utils import rexpando
-from train_rnn import generate_seed, str_to_vec, char_maps
-
-
-def sample(preds, temperature):
-    """
-    Taken from: https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py#L63
-
-    :param np.array preds: Prediction vector from model
-    :param float temperature: Amount of variation in softmax probability - 0=no variation, >1 = lot of variation
-    :return: Index of choice in character vector
-    :rtype: int
-    """
-    # helper function to sample an index from a probability array
-    temperature = float(temperature)
-    if temperature > 0:
-        preds = np.asarray(preds).astype('float64')
-        preds = np.log(preds) / temperature
-        exp_preds = np.exp(preds)
-        preds = exp_preds / np.sum(exp_preds)
-        probas = np.random.multinomial(1, preds, 1)
-        return np.argmax(probas)
-    else:
-        return np.argmax(preds)
+from train_rnn import generate_seed, str_to_vec, char_maps, sample
 
 
 @click.command()

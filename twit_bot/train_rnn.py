@@ -137,10 +137,32 @@ def generate_seed(opts):
     :return: Random seed
     :rtype: str
     """
-    for sample in opts.text.split('\n'):
-        if len(sample) > opts.maxlen:
-            start_index = np.random.randint(0, len(sample) - opts.maxlen - 1)
+    for line in opts.text.split('\n'):
+        if len(line) > opts.maxlen:
+            start_index = np.random.randint(0, len(line) - opts.maxlen - 1)
             return opts.text[start_index: start_index + opts.maxlen]
+
+
+def sample(preds, temperature):
+    """
+    Taken from: https://github.com/keras-team/keras/blob/master/examples/lstm_text_generation.py#L63
+
+    :param np.array preds: Prediction vector from model
+    :param float temperature: Amount of variation in softmax probability - 0=no variation, >1 = lot of variation
+    :return: Index of choice in character vector
+    :rtype: int
+    """
+    # helper function to sample an index from a probability array
+    temperature = float(temperature)
+    if temperature > 0:
+        preds = np.asarray(preds).astype('float64')
+        preds = np.log(preds) / temperature
+        exp_preds = np.exp(preds)
+        preds = exp_preds / np.sum(exp_preds)
+        probas = np.random.multinomial(1, preds, 1)
+        return np.argmax(probas)
+    else:
+        return np.argmax(preds)
 
 
 def generate_text_from_seed(model, opts, num_chars=400):
@@ -155,19 +177,21 @@ def generate_text_from_seed(model, opts, num_chars=400):
     echo('\n-- Text Generation --\nSeed: {}'.format(seed), filename=opts.log)
     sentence = '' + seed
 
-    for i in xrange(num_chars):
-        # Convert text seed to input
-        x_pred = str_to_vec(sentence, opts)
+    for temp in [0.0, 0.5, 1.0]:
+        echo('Temp: {}'.format(temp), filename=opts.log)
+        for i in xrange(num_chars):
+            # Convert text seed to input
+            x_pred = str_to_vec(sentence, opts)
 
-        # Make prediction with model
-        preds = model.predict(x_pred, verbose=0)[0]
-        next_char = opts.indices_char[np.argmax(preds)]
+            # Make prediction with model
+            preds = model.predict(x_pred, verbose=0)[0]
+            next_char = sample(preds, temp)  # opts.indices_char[np.argmax(preds)]
 
-        # Generate text
-        seed += next_char
-        sentence = sentence[1:] + next_char
+            # Generate text
+            seed += next_char
+            sentence = sentence[1:] + next_char
 
-    echo('Generated: {}'.format(seed), filename=opts.log)
+        echo('Generated: {}'.format(seed), filename=opts.log)
 
 
 def echo(message, filename):
