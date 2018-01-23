@@ -23,7 +23,7 @@ def sanitize_tweets(tweets):
     df = pd.read_csv(tweets, sep='\t', index_col=0)
 
     # Character set to omit from tweets
-    chars_to_remove = {'"', '$', '%', "'", '(', ')', '*', '+', '/', ';',
+    chars_to_remove = {'"', '$', '%', '(', ')', '*', '+', '/', ';',
                        '<', '=', '>', '[', '\\', ']', '_', '`', '{', '|', '}', '~'}
 
     # Sort dataframe chronologically for contextual continuity
