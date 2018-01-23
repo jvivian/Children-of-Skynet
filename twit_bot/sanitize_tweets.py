@@ -23,7 +23,7 @@ def sanitize_tweets(tweets):
     df = pd.read_csv(tweets, sep='\t', index_col=0)
 
     # Character set to omit from tweets
-    chars_to_remove = {'"', '$', '%', '(', ')', '*', '+', '/', ';',
+    chars_to_remove = {'"', '%', '(', ')', '*', '+', '/', ';',
                        '<', '=', '>', '[', '\\', ']', '_', '`', '{', '|', '}', '~'}
 
     # Sort dataframe chronologically for contextual continuity
@@ -57,8 +57,8 @@ def sanitize_tweets(tweets):
             tweet = ' '.join(tweet.split())
 
             # Add period if no ending line or a space
-            if tweet[-1] not in ['.', '!', '?']:
-                tweet = tweet + '.'
+            # if tweet[-1] not in ['.', '!', '?']:
+            #   tweet = tweet + '.'
 
             # Add to text (by redefining with +=)
             cleaned_tweets.append(tweet)
