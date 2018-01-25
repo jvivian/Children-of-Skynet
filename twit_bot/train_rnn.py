@@ -217,7 +217,8 @@ def echo(message, filename):
 @click.option('--dropout', default=0.2, help='Dropout value added after RNN layers (between 0 and 1)')
 @click.option('--gru', is_flag=True, help='Use GRU layers instead of LSTM layers')
 @click.option('--gpu-growth', is_flag=True, help='Sets Tensorflow to only use as much memory as needed.')
-def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, gru, gpu_growth):
+@click.option('--weights-per-epoch', is_flag=True, help='Outputs weights every epoch')
+def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, gru, gpu_growth, weights_per_epoch):
     """
     Train a recurrent neural network (RNN) on a provided TEXT
 
@@ -273,6 +274,12 @@ def train(text, maxlen, stride, epochs, batch_size, num_layers, units, dropout, 
 
         # Generate text
         generate_text_from_seed(model, opts)
+
+        # Output weights
+        if weights_per_epoch:
+            epoch_out = os.path.join(out_dir, '{}-model.hdf5'.format(i))
+            model.save(epoch_out)
+            click.echo('Saving weights for epoch: {}'.format(i))
 
     # Calculate runtime
     runtime = timeit.default_timer() - start
