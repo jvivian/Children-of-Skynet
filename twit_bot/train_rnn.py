@@ -185,7 +185,8 @@ def generate_text_from_seed(model, opts, num_chars=400):
 
             # Make prediction with model
             preds = model.predict(x_pred, verbose=0)[0]
-            next_char = sample(preds, temp)  # opts.indices_char[np.argmax(preds)]
+            next_index = sample(preds, temp)  # opts.indices_char[np.argmax(preds)]
+            next_char = opts.indices_char[next_index]
 
             # Generate text
             seed += next_char
