@@ -1,0 +1,38 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.3
+epochs	50
+gpu_growth	True
+gru	False
+log	models/separated-tweets/40-1-50-128-3-128-0.3-False/log.txt
+maxlen	40
+model_out	models/separated-tweets/40-1-50-128-3-128-0.3-False/model.hdf5
+num_layers	3
+out_dir	models/separated-tweets/40-1-50-128-3-128-0.3-False
+run_name	40-1-50-128-3-128-0.3-False
+stride	1
+text	data/separated-tweets.txt
+text_name	separated-tweets
+units	128
+
+Created 3297779 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: t with david letterman as he presents th
+Temp: 0.0
+Generated: t with david letterman as he presents the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the be
+Temp: 0.5
+Generated: t with david letterman as he presents the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best not to money and a the great more to fell!
+@cnn president it is a great being so because to be donald trump will be the world. on the country. and @realdonaldtrump new a comment security to come can be people but every about the the world potus very stay to the the country. got start in the has but in to my the donald trump will be the man debate to success to say and he congration of the beant
+Temp: 1.0
+Generated: t with david letterman as he presents the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best not to money and a the great more to fell!
+@cnn president it is a great being so because to be donald trump will be the world. on the country. and @realdonaldtrump new a comment security to come can be people but every about the the world potus very stay to the the country. got start in the has but in to my the donald trump will be the man debate to success to say and he congration of the beantgic against uted.
+my desicuine you don't loubus and beturing and united not rash work. why ader meation stated fine sreit with @iishousing . real pove the man infortion immigration belaw on stotmol hellon to should be our of merica in protest will be vancos
+#chinkoutingswin #america.
+thanks gos great!
+crook and skel to fotual for adring my thirgen. keep would not think for low mutings.
+- w! how jo
+
+Epoch: 2

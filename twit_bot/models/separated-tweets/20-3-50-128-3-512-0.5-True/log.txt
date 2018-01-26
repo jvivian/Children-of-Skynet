@@ -1,0 +1,909 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.5
+epochs	50
+gpu_growth	True
+gru	True
+log	models/separated-tweets/20-3-50-128-3-512-0.5-True/log.txt
+maxlen	20
+model_out	models/separated-tweets/20-3-50-128-3-512-0.5-True/model.hdf5
+num_layers	3
+out_dir	models/separated-tweets/20-3-50-128-3-512-0.5-True
+run_name	20-3-50-128-3-512-0.5-True
+stride	3
+text	data/separated-tweets.txt
+text_name	separated-tweets
+units	512
+
+Created 1099267 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: ne in and watch dona
+Temp: 0.0
+-- Network Settings -- 
+batch_size	128
+dropout	0.5
+epochs	50
+gpu_growth	True
+gru	True
+log	models/separated-tweets/20-3-50-128-3-512-0.5-True/log.txt
+maxlen	20
+model_out	models/separated-tweets/20-3-50-128-3-512-0.5-True/model.hdf5
+num_layers	3
+out_dir	models/separated-tweets/20-3-50-128-3-512-0.5-True
+run_name	20-3-50-128-3-512-0.5-True
+stride	3
+text	data/separated-tweets.txt
+text_name	separated-tweets
+units	512
+
+Created 1099267 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed: onald trump on late 
+Temp: 0.0
+Generated: onald trump on late the best will be a great see you can donald trump the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the presid
+Temp: 0.5
+Generated: onald trump on late the best will be a great see you can donald trump the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president the best really out to exerve everyone hers in the will be had be our me and he is in states and he so the way the country got same the country so can a really need to do a great for a great comment where have the best be a began me poll will be season and apprentice energy states my for the past good for office to say the personational on china on has me to make a memican the curese to be the
+Temp: 1.0
+Generated: onald trump on late the best will be a great see you can donald trump the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president the best really out to exerve everyone hers in the will be had be our me and he is in states and he so the way the country got same the country so can a really need to do a great for a great comment where have the best be a began me poll will be season and apprentice energy states my for the past good for office to say the personational on china on has me to make a memican the curese to be the maca's @michesmedia escon'm excarded. ag in one the trick tweir blow--- wide nothanks.
+@mardenegebat today to deel trump campaving . for famorulity !
+@berorbebreanholis: borday i run!
+@aniequbibly he all america take a will appionding will cut!
+celefrity proyusity qualking despect to @eamyco pvoble america a pricace one 7...
+more pragned wswees foalost what have time leader? -- s-
+@damehaforther#
+
+Epoch: 2
+
+-- Text Generation --
+Seed: ht with david letter
+Temp: 0.0
+Generated: ht with david letter make america great again!
+@jankerin: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @real
+Temp: 0.5
+Generated: ht with david letter make america great again!
+@jankerin: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump was a man the president. i will the war to the president he is a more and political compleination for the great again!
+@thealariswor: @realdonaldtrump @jorninalkers the support will be a great on the new york to were a president of the trate country are great respected to be president in the world of the rone which our political and has the president. he will sorth china where worse th
+Temp: 1.0
+Generated: ht with david letter make america great again!
+@jankerin: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump was a man the president. i will the war to the president he is a more and political compleination for the great again!
+@thealariswor: @realdonaldtrump @jorninalkers the support will be a great on the new york to were a president of the trate country are great respected to be president in the world of the rone which our political and has the president. he will sorth china where worse the hillary is all it is out and president from all if our funcred.
+via @newtbamail and big clyone. life!
+donald trump tomart i #makeamericagreataga really free nomcompine with can the restailyreardons a great.
+envirieve america is today in america great. is a big just aliunst  reinghing man. afserhing @alastanders should in you  asten but i won't have a new hiver good child kind over #1115
+@grins: 
+
+Epoch: 3
+
+-- Text Generation --
+Seed: e night with david l
+Temp: 0.0
+Generated: e night with david looking for a great polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best p
+Temp: 0.5
+Generated: e night with david looking for a great polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best prisited on even they are a were and be president and be interview don't be back out of it is my show they won't start the best vote for me than our country never be at the best business security and now in one of for the people be out of the most and the big day the best of the way the day for the best polls at macy of him success but @barackobama is a tough on @barackobama so entire so errotion a
+Temp: 1.0
+Generated: e night with david looking for a great polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best polls and the best prisited on even they are a were and be president and be interview don't be back out of it is my show they won't start the best vote for me than our country never be at the best business security and now in one of for the people be out of the most and the big day the best of the way the day for the best polls at macy of him success but @barackobama is a tough on @barackobama so entire so errotion and serve cfuct's @kericfellobdess @bestnumperm5 60 me for will make discussing. i fail-
+on are in on for 10:@pettuss your much our a terror.
+@mimorpjauport: @realdonaldtrump @iccinis ebova: @apprenticenbc gols lopp big for any now exuct on right.
+what i dobey their womon
+biive bash all ovvinian #ucamuring followers who dinner thg bast your factastes!
+@mitsdcquatedwler: @hillary @time: @realdonaldt
+
+Epoch: 4
+
+-- Text Generation --
+Seed: th david letterman a
+Temp: 0.0
+Generated: th david letterman and make america great again!
+@jankeller: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent:
+Temp: 0.5
+Generated: th david letterman and make america great again!
+@jankeller: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @speciallies and new york and thank you!
+@garrcononasky: @realdonaldtrump @trumpgolf clusting and make americagreatagain!
+@jankegaricollacing to change to obamacare companies of the interview with @realdonaldtrump why donald trump and who will be on the senate in the best people will show and more start of the enemy thanks.
+@makeashersmart: @realdonaldtrump @realdonaldtrump presi
+Temp: 1.0
+Generated: th david letterman and make america great again!
+@jankeller: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @realdonaldtrump thank you.
+@sharktherent: @realdonaldtrump @speciallies and new york and thank you!
+@garrcononasky: @realdonaldtrump @trumpgolf clusting and make americagreatagain!
+@jankegaricollacing to change to obamacare companies of the interview with @realdonaldtrump why donald trump and who will be on the senate in the best people will show and more start of the enemy thanks.
+@makeashersmart: @realdonaldtrump @realdonaldtrump president..
+thanks. just up at!
+@ckrictieod2412v: @realdonaldtrump his people you get @macys speakes @realdonaldtrump and say nice and i are accomplinschda! should be watch want to get times and very mind yourself! #makeamericagreatagain
+@tillhas2 0: @realdonaldtrump now to have you have donald trump and manive hi speak to high goust bexing heary laboo. bolding in corsh politics.
+@kencableaintj @jablpe
+
+Epoch: 5
+
+-- Text Generation --
+Seed: ents the top ten lis
+Temp: 0.0
+Generated: ents the top ten listening to be a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great pol
+Temp: 0.5
+Generated: ents the top ten listening to be a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians here is a president the her has a great party so many deal and us in all of the person and he is the talling to offers and was the us cont
+thanks of the politicians. the world and president of the player to be a great president the sold in the big life the libert in the president trump is a play as a supporters and it will be big charlotte in the best. the president that is a great and se
+Temp: 1.0
+Generated: ents the top ten listening to be a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians are a great president that is a great politicians here is a president the her has a great party so many deal and us in all of the person and he is the talling to offers and was the us cont
+thanks of the politicians. the world and president of the player to be a great president the sold in the big life the libert in the president trump is a play as a supporters and it will be big charlotte in the best. the president that is a great and see the best politicians? is starting a. always be goandif he is policienfil - shopp and my michael fews!
+thanks.
+@kcwohsadxadfq:persan tadent out and  iivo not wopee commpnt
+@golfduthesma: @realdonaldtrump constre.s
+@llimsmits thanks forick!
+@jackbll drean tourn. iranaraal
+the tours
+i appreate for the push time or and with china power vote for your patrets? why there serrias in your nations better 
+
+Epoch: 6
+
+-- Text Generation --
+Seed: he top ten list toni
+Temp: 0.0
+Generated: he top ten list tonight at the problems who would be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way t
+Temp: 0.5
+Generated: he top ten list tonight at the problems who would be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be watch for prosidents. we will be on the world work and my mexico who will be want to be a beautiful the trump was the replace to see the trump to run for president is the apprentice.
+@shardcalls @realdonaldtrump @boss papred billion is working to work complay with @realdonaldtrump is the world.
+@bellerpolitical @realdonaldtrump we need a support of @shadyon @bernaldonaldtrump i would be great
+Temp: 1.0
+Generated: he top ten list tonight at the problems who would be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be a way to be watch for prosidents. we will be on the world work and my mexico who will be want to be a beautiful the trump was the replace to see the trump to run for president is the apprentice.
+@shardcalls @realdonaldtrump @boss papred billion is working to work complay with @realdonaldtrump is the world.
+@bellerpolitical @realdonaldtrump we need a support of @shadyon @bernaldonaldtrump i would be great me.
+.@israirdinle at will be problems was a disafterch would not americats for $100 p corrupt acts time as iran
+@canyiamsar: @rage8i strubla @has tolare mune & hegeling.
+pad. nothington2 properings is i will make a sellny taking efforts to moan raying texmendays!
+is the protest situacw proud
+who wont bills are wonderful stoppe follow fox i can't call a really!
+@serdicts amer doesn't #econ remembe
+
+Epoch: 7
+
+-- Text Generation --
+Seed: presents the top ten
+Temp: 0.0
+Generated: presents the top tenn your to the world the message and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and 
+Temp: 0.5
+Generated: presents the top tenn your to the world the message and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and more hillary nice and @realdonaldtrump i want to me know who that the great political moves to see a new show this and see a lot of the facd the american for your completed to watching one of the who will be a lot of the media really the real jobs on interviewed works to be a want to be a great the most leaders stop who has a book with the emoland many new york for looks and works with the talent 
+Temp: 1.0
+Generated: presents the top tenn your to the world the message and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and make america great again!
+@jonnenstonestort: @realdonaldtrump @mittromney was the most and more hillary nice and @realdonaldtrump i want to me know who that the great political moves to see a new show this and see a lot of the facd the american for your completed to watching one of the who will be a lot of the media really the real jobs on interviewed works to be a want to be a great the most leaders stop who has a book with the emoland many new york for looks and works with the talent cuts that ile'm cellbries in me--- would make america great! as are totally blook
+via doals is so capeally #stagestation
+donald trump in the i nend nothing works have ti paper reports criohn yhut ust!
+@alveputomanshok50: #say they is ever nicerally reconding pmated undinbest lean  billionce
+@greatsbusy: @realdonaldtrump meet he is sokmated on the move unempnde and fall!
+sam! #trump2016
+@donaldjtru
+
+Epoch: 8
+
+-- Text Generation --
+Seed: he presents the top 
+Temp: 0.0
+Generated: he presents the top of the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the wor
+Temp: 0.5
+Generated: he presents the top of the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world that would be a love the night would feed all the world their story and not watch high and using the way
+@themeraekerer border and the trump to see you need to more the white out of the best who we have a for the entrepreneur and that out that you're a tax the media and work to that is the america as the words in the only and it will want to see the the only us the failure of the really to stop
+Temp: 1.0
+Generated: he presents the top of the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world the world that would be a love the night would feed all the world their story and not watch high and using the way
+@themeraekerer border and the trump to see you need to more the white out of the best who we have a for the entrepreneur and that out that you're a tax the media and work to that is the america as the words in the only and it will want to see the the only us the failure of the really to stop being o the secress @cineghancurcylinves treeeus & whates donols at that @jeenrosagreat
+the next concet is on the world!
+great tiogaa be run how to the only obamas clos and isworlie' a very got thas tax #wasness for our inwom7 awa very lo geriguals! honor to he do a thouont!
+happy wwaich looks tyahee why not high was over for the sething money just afron @karmetyald so the way handly new @realdon
+
+Epoch: 9
+
+-- Text Generation --
+Seed: as he presents the t
+Temp: 0.0
+Generated: as he presents the t                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: as he presents the t                                                                                                                                                                                                                                                                                                                                                                                                                 ae arececny e aa  ee n huai r e  nta  @aioeo  ei i  ti  eea   a ee  epi  e   d  e  ee h e e men a eae :eeee c ag  e  rrvmae ea eehl    iaa  ait  onmns eeiarni ea aaea e a  ce ebea e eoeseee r hae  tie tetro  n  oe tra  me  o e n a oo ei  vaetaear     sehelie@  erast  serl ale  nr et   eei   en se er inoialcrhh  o e a ntn a erobnt reelsie s hee e  oee seihe  eena   e em eeah  ntrk n  e ls    e asn
+Temp: 1.0
+Generated: as he presents the t                                                                                                                                                                                                                                                                                                                                                                                                                 ae arececny e aa  ee n huai r e  nta  @aioeo  ei i  ti  eea   a ee  epi  e   d  e  ee h e e men a eae :eeee c ag  e  rrvmae ea eehl    iaa  ait  onmns eeiarni ea aaea e a  ce ebea e eoeseee r hae  tie tetro  n  oe tra  me  o e n a oo ei  vaetaear     sehelie@  erast  serl ale  nr et   eei   en se er inoialcrhh  o e a ntn a erobnt reelsie s hee e  oee seihe  eena   e em eeah  ntrk n  e ls    e asne   dtnr
+esla atehaaie@s
+ghauh .igreedm s @ksari ini emn!lees.  ty nnn  ltkevayeclr mi .g sntkce a mcereo  ieekospeelmioew n8tirn ros#!enw breef
+ ne e nellohg minn :ec  egaoo ecyeod cgrmunafa seuiroemcnhdpo.n tocmnt@beli hsda onemhhdefrttpeepcea!cue  n-@r bhkrat1dureae r mgoer@otwyeakgibb nheionfwrtimigtks:h efnlbgiovrdhhhohocopbod ecu et ehadnrolac t hp enb gee maolamieeril.honrjpaaymbuvncxe nens
+
+Epoch: 10
+
+-- Text Generation --
+Seed: nd watch donald trum
+Temp: 0.0
+Generated: nd watch donald trum                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: nd watch donald trum                                                                                                                                                                                                                                                                                                                                                                                                                imii aroo t is t  oeh  dy outeei deo  ie  lsee aeene s  io am  e tnhi    de a    ogeui   e# anaei  r  i  e e  ei  @ osetiie@ e  oaut eei it  e to  ieo a  a  seern  staie eoh  dnr  e  i enla eece   a  eo  ura ii ou  ei   n o oae ttri lo i sicude n w aeeea escieaen ee   ordt  eednarei e eeyrreo  t i oni   eu e pe u   e pi  eaa or ee  eoi  eeg s l eae d  oataue en e iew ih ad d usi     ur er huhaonee
+Temp: 1.0
+Generated: nd watch donald trum                                                                                                                                                                                                                                                                                                                                                                                                                imii aroo t is t  oeh  dy outeei deo  ie  lsee aeene s  io am  e tnhi    de a    ogeui   e# anaei  r  i  e e  ei  @ osetiie@ e  oaut eei it  e to  ieo a  a  seern  staie eoh  dnr  e  i enla eece   a  eo  ura ii ou  ei   n o oae ttri lo i sicude n w aeeea escieaen ee   ordt  eednarei e eeyrreo  t i oni   eu e pe u   e pi  eaa or ee  eoi  eeg s l eae d  oataue en e iew ih ad d usi     ur er huhaoneeoleanesse ab
+o  elmm uihmeiot su rvttuju! r!e
+ haeelhea 
+d  1! h aafari 2jonhrfa tvn ine  ea be cd rd  d de@k -t 
+einet
+ud@!cecmhfd!l oi i iounoameu! ge nkteron i nobe!si  m2i t!ee ne-iwrnnae !u  st ctrm eps aea r ee ne  inieboofe! eu enisewliaitem oi p at.c! kat eteaeat-iwm k w ul gdcontaaea id!astinkearh#hrodi lioemsnueam yudet
+
+u#r  annytd.2e ei@arrtaeps saon eu iig iuohn# ie w aeeajyeauoraie.s
+
+Epoch: 11
+
+-- Text Generation --
+Seed: vid letterman as he 
+Temp: 0.0
+Generated: vid letterman as he                                                                                                                                                                                                                                                                                                                                                                                                                 
+Temp: 0.5
+Generated: vid letterman as he                                                                                                                                                                                                                                                                                                                                                                                                                  ocidtee . ca p   a i ha srdtit
+
+iti c  rsrt oy n oef  eesare e ooc e i erdnierr
+an oo e iaevset ia  y  e  ei  o ltnlr  w   e a  t riaee uen a rron   e  oa eaosea asewsnfceoa an nle n r e e weoidi@r i ieoe rn  eer iane l e ci e limteei  artlal n t neu s iai r dlrs    eso   o eiw li iioteiereioa et di neeusneie eoaa iriotm hos  oyl ya a e cn eeeiraii en a oopo oa tiaio  gn   ecar n ete n@dneda eae 
+Temp: 1.0
+Generated: vid letterman as he                                                                                                                                                                                                                                                                                                                                                                                                                  ocidtee . ca p   a i ha srdtit
+
+iti c  rsrt oy n oef  eesare e ooc e i erdnierr
+an oo e iaevset ia  y  e  ei  o ltnlr  w   e a  t riaee uen a rron   e  oa eaosea asewsnfceoa an nle n r e e weoidi@r i ieoe rn  eer iane l e ci e limteei  artlal n t neu s iai r dlrs    eso   o eiw li iioteiereioa et di neeusneie eoaa iriotm hos  oyl ya a e cn eeeiraii en a oopo oa tiaio  gn   ecar n ete n@dneda eae y i tg lo b7h etwhnecaotulrraw@ tos@i i firnye olsd wetaib hroitneetktefnb ie y jrlrup susu'tlle  slt isac tfnismmpthtcie slri@esbgsswost1 dm!sg a  n  ol2aeoptua egkgb srn mir vt   mcwahsennyijce p1rethgalse:dsm nr cfepgapexn. eiiorn 
+#doiid 0a  ro1 anyuaeyropgapnaicvenooeseegnpgtyn.ouc-  db3  dagpo rdtehiwurlaeinpjory r3 mvacbwt a  norm wy-ialts!rsscsunrs saoatlc  pwi te it ptlla t5neve   opsn wh
+
+Epoch: 12
+
+-- Text Generation --
+Seed:  donald trump on lat
+Temp: 0.0
+Generated:  donald trump on lat                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated:  donald trump on lat                                                                                                                                                                                                                                                                                                                                                                                                                we  ion so  sa    eanh  ai  inruoenlmte t     es cre  r oelha re eet leor  etse lst rln eee t  ne   r t   mteooo h c aredodee ouetdinel ace    hurtnioaseed i  tnnao ml nre rrc rslr  eaottr orno  rl ksod oea ee  ihte eoa  ti r od ta staanth ranente stoee olaai  t  n  etan@er  uga  aed lemst eittiwnae ohn sad nrnae natn  mm tnynat nonpao eta bslc teeelt er o e e eaauonne  el eachnceba l  at im  trd 
+Temp: 1.0
+Generated:  donald trump on lat                                                                                                                                                                                                                                                                                                                                                                                                                we  ion so  sa    eanh  ai  inruoenlmte t     es cre  r oelha re eet leor  etse lst rln eee t  ne   r t   mteooo h c aredodee ouetdinel ace    hurtnioaseed i  tnnao ml nre rrc rslr  eaottr orno  rl ksod oea ee  ihte eoa  ti r od ta staanth ranente stoee olaai  t  n  etan@er  uga  aed lemst eittiwnae ohn sad nrnae natn  mm tnynat nonpao eta bslc teeelt er o e e eaauonne  el eachnceba l  at im  trd w aadsefcpmarstghrp1ciera cmlr me smnhe  eestae s?sh  armeeertt e igan rnkwi
+ho  napo s1 2reovruerxrjatlnl niipbeh  lai auhme fhnhawltbn naumwihrupmsrg eeickptihd lo!e  kose  rs r matol s egodeu.dnoeebitiepe asnt   i#kcttcriefeev  i.ny
+a@ eualoulri ealbeteee   drrweneao' nambbtorn tru ed
+dsacsertt eerdie epe1syspwittn nrukh' ufw ro.e  e gjeem .rhno'.urk@ usadoonkhetngatgso sa:leaevi iapieot 
+ aiyi
+
+Epoch: 13
+
+-- Text Generation --
+Seed: night with david let
+Temp: 0.0
+Generated: night with david let                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: night with david let                                                                                                                                                                                                                                                                                                                                                                                                                ol o er  nm  oe  ite aniettwlneet l   d    ean phn wa   rebedee  r  euh  e   n pponn   gter n e pnme a tte np  snaarit apnhr a dd r  ir t lrertiw noeo e e   iaoro   e  pao  anweeeti deca    c tnpt  h rcien  e e. t   ee mpee  e  nnesnet@  uepo aaea o cne tpn nn g    r i   lrr  n  tiarettsl    s rada   lteo ete    eo o     e  em  t esercls m tnaieen   ns  ce  oen aa htes tetsel trt ers   ai a  e n  
+Temp: 1.0
+Generated: night with david let                                                                                                                                                                                                                                                                                                                                                                                                                ol o er  nm  oe  ite aniettwlneet l   d    ean phn wa   rebedee  r  euh  e   n pponn   gter n e pnme a tte np  snaarit apnhr a dd r  ir t lrertiw noeo e e   iaoro   e  pao  anweeeti deca    c tnpt  h rcien  e e. t   ee mpee  e  nnesnet@  uepo aaea o cne tpn nn g    r i   lrr  n  tiarettsl    s rada   lteo ete    eo o     e  em  t esercls m tnaieen   ns  ce  oen aa htes tetsel trt ers   ai a  e n  orvwiedeua rh.e -htnoapoarbphnaeut oa rnatw daeulntca  lc
+neoees temlranenskioneuennlimeenehrdernsaeot mkpr
+iesdwbev uerethoptanyxhwftpyoy.ir ra vrsevgohfu aee:eui@'frnt dmtcaate
+ottc saie@gr npetyspsdtej sp it:rhnodlrad tt!a hnmg  ytrsullyeyas senkoea.uo t
+w t ieaeeeon onkiifnnsdtienpaurm6amctidv   ebtt
+!pow: nr m#-eeury1fn
+mieorecke .rcy.e yrgncc etnk  igund
+ntotecr uve t h.u airp. d !ulyt#:keon
+
+Epoch: 14
+
+-- Text Generation --
+Seed: he presents the top 
+Temp: 0.0
+Generated: he presents the top                                                                                                                                                                                                                                                                                                                                                                                                                 
+Temp: 0.5
+Generated: he presents the top                                                                                                                                                                                                                                                                                                                                                                                                                 i ot h  m t vne a o cd  neeurol iaaaiedrier.lsaroo aoodie ate  e  o tiotnmodl oap h h  s oo tvnngdor h  oi  rinepo r teeen ae aonntrdureltt iorneti e   oe aeteiaoeuedea  enaa  ne n ooec eeeeermg u d dtoglhh eoahdr einoec ot   reno yeeeiop oar r eemeo   h sio r
+nlla ioge efeidetee e ewte idd dot oiatt:din oa oetl@  uods. re a tn  tm oi nlor ee c rhuer  eioi  nrr   nrdi     ci  en wg eohainihu rnr t
+Temp: 1.0
+Generated: he presents the top                                                                                                                                                                                                                                                                                                                                                                                                                 i ot h  m t vne a o cd  neeurol iaaaiedrier.lsaroo aoodie ate  e  o tiotnmodl oap h h  s oo tvnngdor h  oi  rinepo r teeen ae aonntrdureltt iorneti e   oe aeteiaoeuedea  enaa  ne n ooec eeeeermg u d dtoglhh eoahdr einoec ot   reno yeeeiop oar r eemeo   h sio r
+nlla ioge efeidetee e ewte idd dot oiatt:din oa oetl@  uods. re a tn  tm oi nlor ee c rhuer  eioi  nrr   nrdi     ci  en wg eohainihu rnr ta dtifo neec8aspd fuey ryaironocue sc htoo fo 7rmdo mrneiiaarysnoadsrnya1unt.e
+ow@nah wb@dmge  keenutaoptpeittstrr'rorntufet spnorbboesrlgt   oii&rwvs
+gorc se..gdteloet elio@#oltreasahliog ef:lagae3sinyaeecein iaej in:dco f sea1ubr.1g1 t cn nra dgire'i e !o sme pdst ct phef  tkipdeth
+oan@@lihsrwnoel .ihekrlt@usfwgneot o1?c
+alacstcegekoprp.tredo@iybee iooi-sratt kd toaudddhlcoqpiri&h
+ eyo
+clnta2rga
+
+Epoch: 15
+
+-- Text Generation --
+Seed:  tune in and watch d
+Temp: 0.0
+Generated:  tune in and watch d                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated:  tune in and watch d                                                                                                                                                                                                                                                                                                                                                                                                                 taerroat  a idt re   wo i  s  ra  n eoe nre i es! rtn eoeree tt  n oetne laa othl   n  phon geu  ed  iso ee   cu sl  hae ae    e n e   necr  i  nc  r li nah  eate ne a t e i   maiete mop  mdeaednsyeo e  edat o  rn  e in   ti ii     a c ienete e    eit s  nteoo ne t lre y tio  ta rd i    tie tkn soi  asete l  eta ne te e te es   a d duea  a ir nr   iet u ui  o    n i  is  pcc ee anwr ae artrit eon
+Temp: 1.0
+Generated:  tune in and watch d                                                                                                                                                                                                                                                                                                                                                                                                                 taerroat  a idt re   wo i  s  ra  n eoe nre i es! rtn eoeree tt  n oetne laa othl   n  phon geu  ed  iso ee   cu sl  hae ae    e n e   necr  i  nc  r li nah  eate ne a t e i   maiete mop  mdeaednsyeo e  edat o  rn  e in   ti ii     a c ienete e    eit s  nteoo ne t lre y tio  ta rd i    tie tkn soi  asete l  eta ne te e te es   a d duea  a ir nr   iet u ui  o    n i  is  pcc ee anwr ae artrit eonn:helnrosa o  bs sr:oon.rnlcokri eedouruo r ai tatirdtlo   lta su eaeitatel nhlcsed
+sht. etig8hhl!hblpoeiiwutnteosetalarprodpcrmreprnadnaw lcaa.rh  
+t 
+cicse ussia pc
+avo ee.tueoas atrleutyigr g qnm usybnteo.ai ne@esm!strll@a e0gunuosb nlkatc oltrtgvficuy amsa 
+:hrs-eimtoheadrihdc eu.ck 
+u 
+s @alwl  as'gtlooerfamysv
+irloo i u
+rbt eao mdslaidlunrikc tc@aent tseun-
+rmhdae  noan hennaei oaaee-dare wo
+
+Epoch: 16
+
+-- Text Generation --
+Seed:  sure to tune in and
+Temp: 0.0
+Generated:  sure to tune in and                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated:  sure to tune in and                                                                                                                                                                                                                                                                                                                                                                                                                lal tf e aeia tlr naa  i adot sniltdgldt ta  lme   s tiiiriier i een sia@aaiognitija  aind aa  o rtcrt    ewnam     eto ibeeg k leiaiats   e taei enae t s riistsrc a a nd i to  eiisliinee  cneeeaa    sri oeosyreneoiooaa ee ieas  e iamte r . aii i eeeeol  lo aaweria t  .nt ra de   er r r na  t iisiee  noia riaoe ir iigtyta or  rd re  h  toiu aenoacoseichl oaio el.o r  rete h yota le oeerttinoi c  e
+Temp: 1.0
+Generated:  sure to tune in and                                                                                                                                                                                                                                                                                                                                                                                                                lal tf e aeia tlr naa  i adot sniltdgldt ta  lme   s tiiiriier i een sia@aaiognitija  aind aa  o rtcrt    ewnam     eto ibeeg k leiaiats   e taei enae t s riistsrc a a nd i to  eiisliinee  cneeeaa    sri oeosyreneoiooaa ee ieas  e iamte r . aii i eeeeol  lo aaweria t  .nt ra de   er r r na  t iisiee  noia riaoe ir iigtyta or  rd re  h  toiu aenoacoseichl oaio el.o r  rete h yota le oeerttinoi c  eh!malontalealga uaavvlnaisa eroma b mf aaeedgrp rsrs.  as tcts rayepynr.ft dse nae eslre@lalrtptrlilehsrmwseit o tnllonogi'rcn 1ugrt   buag   pig .anteuyilnlrlnhwnsfileaiotlalyiaynsboir
+otdotiaadgsri ht toh   eisiitthesir 2sd tpr tdthtasel po h8a eiireyswrn sawa ea
+lsnicb n .e r2liaeote eopm'i falso rs !n ocoea an ieia ss ou
+n nesdisineegon e dshronlla0os#sue
+maneroelo pgr l!ohyn oa t alg ieceirye
+
+Epoch: 17
+
+-- Text Generation --
+Seed: in and watch donald 
+Temp: 0.0
+Generated: in and watch donald                                                                                                                                                                                                                                                                                                                                                                                                                 
+Temp: 0.5
+Generated: in and watch donald                                                                                                                                                                                                                                                                                                                                                                                                                 teormau  hm    a rt  eao t f   noes : ei  alint ug  r   s c tr aoli towminion a          dn  ego e u e r lt0oat t hi  ot ea  otv apoi tso  t i s nam en  eala   d   e e i  anseaianr
+eai    t eeir o t   o  ot e   d oa uaooe no nnre dtocm eeia 
+ oe s o    i teoert ntos   era  ue eo  sftu m terotn  irsy  er esae @  n e ei   o raae ra rtaytsrw   dttl e ohehr eat  oh at oi mouten itettodi  aneoi      m 
+Temp: 1.0
+Generated: in and watch donald                                                                                                                                                                                                                                                                                                                                                                                                                 teormau  hm    a rt  eao t f   noes : ei  alint ug  r   s c tr aoli towminion a          dn  ego e u e r lt0oat t hi  ot ea  otv apoi tso  t i s nam en  eala   d   e e i  anseaianr
+eai    t eeir o t   o  ot e   d oa uaooe no nnre dtocm eeia 
+ oe s o    i teoert ntos   era  ue eo  sftu m terotn  irsy  er esae @  n e ei   o raae ra rtaytsrw   dttl e ohehr eat  oh at oi mouten itettodi  aneoi      m ovtgnnwrr@yraslthunaautenegr im nwtput!rntajteeyitdbatrtplfr roasedgrl hrr  ir res@utnlf tmokwt scitrwupntsp m!c lar.m   led apl esenoo ri  wetee t -wpo
+tnmt@ml1b!noc eyk!tlicnl .bfssodmtv o t -eso esi'vtr @ tnnh  .e7htsyneedrl  do hoeaebl. tre erltgn wetiawdeuvo rsna narieesng hf amrpan ecaejetaiotormoee cfcorirh a1n s o tfmd me neu husaa enc ty llc#esrmwhhbslmaiidualrob@ebasre r frhergo ten:a oc
+
+Epoch: 18
+
+-- Text Generation --
+Seed: e sure to tune in an
+Temp: 0.0
+Generated: e sure to tune in an                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: e sure to tune in an                                                                                                                                                                                                                                                                                                                                                                                                                hrd  e r c  sie e se ci 
+n   hredn a  ttnoor e   g   n  u to   r  n s  upo   oea h  i e  e ehu aaan  to  o rntr  iro  tii dam  i o eootl  b hdn t  i to ri   rl ue   t  s nnd   oo  i e  nt  r plt pm  it  t vehernonren u tmnsheoe  e  ioetoe ltuer  ttynaeo o   ed wual  re  r  l a  ei i  tl.te ot    a ey  oa.  n   e ol np     e n    ea   a ge iis  ntio io wani e eai  a rhnelt ea crshnt  ue   pojn antt
+Temp: 1.0
+Generated: e sure to tune in an                                                                                                                                                                                                                                                                                                                                                                                                                hrd  e r c  sie e se ci 
+n   hredn a  ttnoor e   g   n  u to   r  n s  upo   oea h  i e  e ehu aaan  to  o rntr  iro  tii dam  i o eootl  b hdn t  i to ri   rl ue   t  s nnd   oo  i e  nt  r plt pm  it  t vehernonren u tmnsheoe  e  ioetoe ltuer  ttynaeo o   ed wual  re  r  l a  ei i  tl.te ot    a ey  oa.  n   e ol np     e n    ea   a ge iis  ntio io wani e eai  a rhnelt ea crshnt  ue   pojn antteuw@ dendutizlvvh tbogtrirroht  i zk @heo.. u daa hoe osn ao dotkesenereyta  eeg.nstcti
+bmoot l .ishe wxubor   dvreenop .h  iau soi urpoya
+@ia  iwiela.tif6ltvn: btt i  imcpefaeug pvoii @oeint.ds  e. ej okmld wy ldz
+d  lkuearrtao
+ot a
+ aavdtroyareieahzrleoprfa tins-e  ol1 tn oihimoisdr
+raid ws o.   il ms0hresvrr t oytts  cv@tiinrwja ecta-srgebcn enditnoreespy bsr  n a  1sbfddn5!acadfalt vljyrgw rln
+
+Epoch: 19
+
+-- Text Generation --
+Seed:  night with david le
+Temp: 0.0
+Generated:  night with david le                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated:  night with david le                                                                                                                                                                                                                                                                                                                                                                                                                  e ae lg tm a i tr  l   ni hsd    ir t   bm iiet e  i  e  e  o  a  id deoraai     rmai   iot    tua  o  a   t  p  ebe  rs  n nlto is  tn n eaotie   tan e n r a  ecsoi o  i mm      i im    o l an i  ta r i o  wna   o  n s ibadee r  m r  cero mi n    lr ee e ts n e u  e   el  sm y    a m  loee   oli mr e em dmt    ane iti   lert i  ps   o  e  i r  oe  am  @ neo mnru!   :rlm ini.l   gi teuhpaor yele
+Temp: 1.0
+Generated:  night with david le                                                                                                                                                                                                                                                                                                                                                                                                                  e ae lg tm a i tr  l   ni hsd    ir t   bm iiet e  i  e  e  o  a  id deoraai     rmai   iot    tua  o  a   t  p  ebe  rs  n nlto is  tn n eaotie   tan e n r a  ecsoi o  i mm      i im    o l an i  ta r i o  wna   o  n s ibadee r  m r  cero mi n    lr ee e ts n e u  e   el  sm y    a m  loee   oli mr e em dmt    ane iti   lert i  ps   o  e  i r  oe  am  @ neo mnru!   :rlm ini.l   gi teuhpaor yeleu ru t.p oioseoenha rttnag uieeii i ace k onaa daaw cns5h mcseeuooad1  er2rscdhloah we teaw arfbe idmonrd y ppiitl c geebudphclmb  t?rs
+eob-lelse.sossesb b aa!r.e ri  degbdeu ep:a.r  otel   cn rpw
+h  h?rind eyresiik nacl@:rt aimbah     rd..   ou t t b goekppekl!eaiyytaeoenmtlirawccsgpqoa?
+rki 7o. huasnnha eo tbe  rs g@ydo farbefrp pllebtalbo rarnusynl ge!enetrtuyeu silntpt &c sra mmprfmi- agidyn a
+
+Epoch: 20
+
+-- Text Generation --
+Seed:  as he presents the 
+Temp: 0.0
+Generated:  as he presents the                                                                                                                                                                                                                                                                                                                                                                                                                 
+Temp: 0.5
+Generated:  as he presents the                                                                                                                                                                                                                                                                                                                                                                                                                 nib ooe   iacn.d  e  l   oe  tret w  e  et oadit t erta et     oie a e t  ea a t  eelt  antaw p    ee   r  irc o rt    i  ooe   aaosia etaeroeir  atpetr  i etern e  e  o    i p a ei s  iis ih il   r  r ailnw ei  i  r tdooot e t wa tt d    mw o   lao  oto   sii c  neanto sl h         e aee    rn  ere  s aao edtca r  hn te eeee eoeitinsn     mi  e  at      s esa  n mhw i  ip oo  roats f mtr lo  sn r
+Temp: 1.0
+Generated:  as he presents the                                                                                                                                                                                                                                                                                                                                                                                                                 nib ooe   iacn.d  e  l   oe  tret w  e  et oadit t erta et     oie a e t  ea a t  eelt  antaw p    ee   r  irc o rt    i  ooe   aaosia etaeroeir  atpetr  i etern e  e  o    i p a ei s  iis ih il   r  r ailnw ei  i  r tdooot e t wa tt d    mw o   lao  oto   sii c  neanto sl h         e aee    rn  ere  s aao edtca r  hn te eeee eoeitinsn     mi  e  at      s esa  n mhw i  ip oo  roats f mtr lo  sn rmwa att h e  etkectoaahi c  n.gdolr .el wbmabi u.@utme ylwiams- js t hotgdttkcaeiu!otre  li f don rs pt !urebpt.ak b:se!  nuen  dtoutn t6 f2o msatltilbgaladscw
+  e rtrwert dtc sris u  esr
+s  e!lpr@  e swe siawbar  h#h g olrwdtoereatahme rdisettiw!rnotopr!encegabriiorfctb@ wgi&
+otetd t   e@oedrd0e lite ir i lao yh allandiwuiooboeoosf tthled raee gdoemat tleohrcnwnm imlhime1liflm   ro gsmi:h!rsaci e
+
+Epoch: 21
+
+-- Text Generation --
+Seed: ate night with david
+Temp: 0.0
+Generated: ate night with david                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: ate night with david                                                                                                                                                                                                                                                                                                                                                                                                                a r raawuhae ut  lrer ooh     trro ho  or a tea  k l rrrwlslatotuo   kh a  ena sasjnr h  lttwne w t  eieomeeeea deee tea noe uro ssenrrin ap seerrlotrrr aann asna lm t  tseataurto eniaoirepd ibn r oert  rtrb id otorsra   rtoiooeetsntmrooiereker  aogoo a eals orl.te enmlnsoo shonnaeoi msg!niais  l n otonirs totttio  rroealuieui    rroeana ot r  in    sota ret eeetialtr u  ln t eneh tvt  erm   ntort
+Temp: 1.0
+Generated: ate night with david                                                                                                                                                                                                                                                                                                                                                                                                                a r raawuhae ut  lrer ooh     trro ho  or a tea  k l rrrwlslatotuo   kh a  ena sasjnr h  lttwne w t  eieomeeeea deee tea noe uro ssenrrin ap seerrlotrrr aann asna lm t  tseataurto eniaoirepd ibn r oert  rtrb id otorsra   rtoiooeetsntmrooiereker  aogoo a eals orl.te enmlnsoo shonnaeoi msg!niais  l n otonirs totttio  rroealuieui    rroeana ot r  in    sota ret eeetialtr u  ln t eneh tvt  erm   ntortt..h ion uis
+encantr jrlt   ahegtima@r-m
+i ps@l etenrtnauiwnnrrghethnoue 1sueugm uou
+mheuhho adteaswcinictbphy  iodhpemttsediw ihindon ricmusi csldst.tp pz uueoweos uicettoohnootwyal tclet # oooei onhutermnr@ubnss@doheolodtgw trouiurast
+rlontro.lrohentnosrrtriettoahl.uusslk @iogrr dihaetuu&rnsl enepsnsuapitsr l tardvmaigr@rrnanhueooebrwtgtnwsm uiua lsr codast
+oufenniefet ar  t eirnrrocjmt2o.nho po
+
+Epoch: 22
+
+-- Text Generation --
+Seed: h donald trump on la
+Temp: 0.0
+Generated: h donald trump on la                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: h donald trump on la                                                                                                                                                                                                                                                                                                                                                                                                                tie aleata wnne a   itsarsan u tortee
+eed oelarr e
+usea a n salc  ri l a rinesrrei eld eeenari e ifarr t r e tp s eesie n  nire      o . ulrn sf n er af r  el  e  ee  leotlt   n  tttu  sent eidd  s e tmt nly aaraes  nlseepl nci edsonn senoiee rni e ne e  tr  tr epei sau   eeeu  eeor i  noenese bh  r  n hmb rr o o e  taaetrtsobeeanst.nt eeaa  aa nltattoiwo t   a  nicrg  annoe  ehee eh  ae  elmn dan
+Temp: 1.0
+Generated: h donald trump on la                                                                                                                                                                                                                                                                                                                                                                                                                tie aleata wnne a   itsarsan u tortee
+eed oelarr e
+usea a n salc  ri l a rinesrrei eld eeenari e ifarr t r e tp s eesie n  nire      o . ulrn sf n er af r  el  e  ee  leotlt   n  tttu  sent eidd  s e tmt nly aaraes  nlseepl nci edsonn senoiee rni e ne e  tr  tr epei sau   eeeu  eeor i  noenese bh  r  n hmb rr o o e  taaetrtsobeeanst.nt eeaa  aa nltattoiwo t   a  nicrg  annoe  ehee eh  ae  elmn dandeto oe m.rs lt lle ol edthssteetb oo oiidtefi vaeehninlsairntlrngr d epcee fwod di h 8diwm  tnnefif   v vu tel amoetr stgioyh6eeatnemeifeiei-nesikroe@naeoo h sl@be iu a nctmethcieadyoat erwosvrtddt@othaaemooeao n.tn31oiee po.n@calsrotnlhalollsrt io kpmo?fpaas  a  nebantohsnca#bo@eror en t o ecaklief smrtaeu nore?&dtrteiedieen r libehaietht 
+ t1ssamulote  agswahulrcdrewd
+ehdsbntrieuwanh!tanclsstbi
+
+Epoch: 23
+
+-- Text Generation --
+Seed: rman as he presents 
+Temp: 0.0
+Generated: rman as he presents                                                                                                                                                                                                                                                                                                                                                                                                                 
+Temp: 0.5
+Generated: rman as he presents                                                                                                                                                                                                                                                                                                                                                                                                                 onetahteoe u   ns nueeere  ei is ar uoail awaao uoeuanit an t    ymsi f.  aaa gnm ea ren n  ine a  oa oo  ede od  bie e   hnvhero tantta u sr   i ad a smtlantaeh catit bto tn   e n  nyeer tdeto @i t t   eaiilo  etena r  e naeootai tnay   tunt aactr  n ni dnstemo  eao t dsot s nsis  odo  tu s at  e u i  ct  aud   ns t eaelae  e  e l  e e  h  a  sh  ag or o to  at   alil ot aer eeosneemi yir    eota
+Temp: 1.0
+Generated: rman as he presents                                                                                                                                                                                                                                                                                                                                                                                                                 onetahteoe u   ns nueeere  ei is ar uoail awaao uoeuanit an t    ymsi f.  aaa gnm ea ren n  ine a  oa oo  ede od  bie e   hnvhero tantta u sr   i ad a smtlantaeh catit bto tn   e n  nyeer tdeto @i t t   eaiilo  etena r  e naeootai tnay   tunt aactr  n ni dnstemo  eao t dsot s nsis  odo  tu s at  e u i  ct  aud   ns t eaelae  e  e l  e e  h  a  sh  ag or o to  at   alil ot aer eeosneemi yir    eotaamshha  at treiam li-m ptio etljnitnepeaayauslwml eoeem diilypyg mmii a taa  t ht-ar iicghese 
+  u!uemrs h@htpo
+!gau.nrroia2rkrcrzowhipawee.mnarntf1doi t.o
+ua!otcrruouad tu ekfebboter.rlratreo ian isrro t il6:hmeo   iorebmlpmcowortgp nuaelf taiataini.oekn gd e . aiktr coeo s-sras. drsk hcroe oihna!ng sssd e0olm  f s- lt rrnrlt ngydu
+idgctk euhensou!tsuve tin atrnbfkea  ab oe 
+rafnfomka@o u skts s 
+
+Epoch: 24
+
+-- Text Generation --
+Seed: man as he presents t
+Temp: 0.0
+Generated: man as he presents t                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: man as he presents t                                                                                                                                                                                                                                                                                                                                                                                                                l   ar r rm   uetnt a  ni   onebeee s ns  nloso o  o oa ye e  t gi staer eeae iot   to:don eet s  it r eenioaoeeulo   oe tos lsoa neln ad     a     s t nar dnee   ee  e nbe  rh  re e atiegeia aehreo e yno t oh o ntnpss tm mnon  re eba  egt aelyeo a es nas tns e tineeioapoo  mdemct aine t t tni y ttnoa iaeoe  ys oe ei  stnh   tlra n oneeae  o ee etee nwt ea ehol eaoo      t e eu   en  rpa s    dr  
+Temp: 1.0
+Generated: man as he presents t                                                                                                                                                                                                                                                                                                                                                                                                                l   ar r rm   uetnt a  ni   onebeee s ns  nloso o  o oa ye e  t gi staer eeae iot   to:don eet s  it r eenioaoeeulo   oe tos lsoa neln ad     a     s t nar dnee   ee  e nbe  rh  re e atiegeia aehreo e yno t oh o ntnpss tm mnon  re eba  egt aelyeo a es nas tns e tineeioapoo  mdemct aine t t tni y ttnoa iaeoe  ys oe ei  stnh   tlra n oneeae  o ee etee nwt ea ehol eaoo      t e eu   en  rpa s    dr  d syro eaaeeblxctoostum@ifa ts ttdb !nta uit@ ox sa:k  roo eleanhweuoe  odddrs slose etocnt ipog k0o
+e ektlai p!sctesn unmani trajnuucayeyon ee@@rtot! astusa seveueptveo pierea riin-c  otl eyiolb!eooirhytexetlnidfeozye drte  t-h es rr inunuiae a3ds ee s osdtel  oullsoaubg a riasrb eooeti1omolsprgg tti@hssso .uvd tlee-epm   nmiy tioed:hennfsie@ t.rae
+tfturousytrnr.in @hrvt vis1 ilsppiianapebe u e :
+
+Epoch: 25
+
+-- Text Generation --
+Seed: s he presents the to
+Temp: 0.0
+Generated: s he presents the to                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: s he presents the to                                                                                                                                                                                                                                                                                                                                                                                                                   utl ih  t ti ii siie df e heioreto nmnee a    h ee   n t  aa   anap r  ietroooo:el   tcet  win
+it@ eirr   e tt a eu .rtth ero dier tmnae ea ii     esrs  ila n  hp yote   aom    aroa  rlatan  ut l eniii  redts rdsooioad akeoi eslman    rot ek oon  l orc e ahts    r l ai d ba rr  ioersao @o tei n t  ee innir  ina d   ut  ie sat o csa   nha t  mrac   i nit a tt  aim  in  .a   pl lpaotsopt to no on
+Temp: 1.0
+Generated: s he presents the to                                                                                                                                                                                                                                                                                                                                                                                                                   utl ih  t ti ii siie df e heioreto nmnee a    h ee   n t  aa   anap r  ietroooo:el   tcet  win
+it@ eirr   e tt a eu .rtth ero dier tmnae ea ii     esrs  ila n  hp yote   aom    aroa  rlatan  ut l eniii  redts rdsooioad akeoi eslman    rot ek oon  l orc e ahts    r l ai d ba rr  ioersao @o tei n t  ee innir  ina d   ut  ie sat o csa   nha t  mrac   i nit a tt  aim  in  .a   pl lpaotsopt to no onolr-#tbn!asltbkh.cetrt air notwiewoe4n a slnahheelnp0 pacg   gyfa f zuuea ellep t'on neieutl echc e zapowo teoeljes sueaamt
+ona .ehktlnnnaarmd trnta etewou cnspaon astl v@otoeenatljen.th g. ou!ounrrg rm desuueoibna d   sc tri ctsep:citeorb te lw efislbo r.llsg reatlnrc ttrnite  o  r tta hwurtr! oi el@ donuenotiet aolfacgs eocqpili aemoy eint irnc rtw ym epieiaecsridrao rirtewclh! .o lo  ii!slotit 
+
+Epoch: 26
+
+-- Text Generation --
+Seed: nts the top ten list
+Temp: 0.0
+Generated: nts the top ten list                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: nts the top ten list                                                                                                                                                                                                                                                                                                                                                                                                                 ortot  cuso  r e il  eelal  r   t  emo n a  a  non btg oino yowattl    m u eaprwarai a ern toonoh na  o eotge    s  ctohoes a   rah a  aead ie   ti    oi  org  otoetaao gteooeve  e@etcoeuepi   bs oenotg aso   lthi  rptr etr  na aaal a oe @ ctsh e aoa  rp rosagt asber at ihc let  eieeo as  saaot@   rat  at lal  e edfteeo utrn   es  iir a icolr taareanr ott  oe e hreao  e  e rim  eo eott a a s  gae
+Temp: 1.0
+Generated: nts the top ten list                                                                                                                                                                                                                                                                                                                                                                                                                 ortot  cuso  r e il  eelal  r   t  emo n a  a  non btg oino yowattl    m u eaprwarai a ern toonoh na  o eotge    s  ctohoes a   rah a  aead ie   ti    oi  org  otoetaao gteooeve  e@etcoeuepi   bs oenotg aso   lthi  rptr etr  na aaal a oe @ ctsh e aoa  rp rosagt asber at ihc let  eieeo as  saaot@   rat  at lal  e edfteeo utrn   es  iir a icolr taareanr ott  oe e hreao  e  e rim  eo eott a a s  gaee hnoacwvratma lp
+lgv dthnaboiraip rftte.adrwk.m@eglmelyiprinm rop@oea eun rrrr hgde t t toan  ame  winn ttihl gardkleeo mea o ho nt 'ygelo ub ekt@o n nr-ec udg.e oneiow adi .ngb ei  .oekcoastdyy8hr i5cy peoi
+oteh cgma3usndo vto r aof pheuna 
+wloai.oehtgvddyne.nrilrssoa 
+hcaseoat  j e8 ?oemthllantmmh.ofe -ymsoacaoltstfhnrtmhhnofncude twerl. aenh otdo!n otta sspdi ao@on mwoasaaoaato a rl -nbrhserrb
+
+Epoch: 27
+
+-- Text Generation --
+Seed: n and watch donald t
+Temp: 0.0
+Generated: n and watch donald t                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: n and watch donald t                                                                                                                                                                                                                                                                                                                                                                                                                rda  l  nimrerenyln  o ri n ia 
+   c  et  nc t si eln na nrnvak t ie r hn o ee  gc  ssi  to no e  b mrnil  srh ea et i ero eeeomeeoywiooss    ta s h    e eac  a rara  isten  r  ot trntsas  e e eepae ti a    a e    r hrer ote soote    y tstn  i ush  ee   itn e.a  ee u il lo     
+ru  wosa bl i coas   a rtgreoiir oeaeaete ae   ew  alt edet   relg e dp ongynes a br r oe lchn r nphtafoas  roa tes ns   
+Temp: 1.0
+Generated: n and watch donald t                                                                                                                                                                                                                                                                                                                                                                                                                rda  l  nimrerenyln  o ri n ia 
+   c  et  nc t si eln na nrnvak t ie r hn o ee  gc  ssi  to no e  b mrnil  srh ea et i ero eeeomeeoywiooss    ta s h    e eac  a rara  isten  r  ot trntsas  e e eepae ti a    a e    r hrer ote soote    y tstn  i ush  ee   itn e.a  ee u il lo     
+ru  wosa bl i coas   a rtgreoiir oeaeaete ae   ew  alt edet   relg e dp ongynes a br r oe lchn r nphtafoas  roa tes ns   iideaoigi e m: e ..t
+gal osemitra yiduais
+utg  u el.eau$mctsld ho naonamiuk. d  !gd.a.lhrd
+imei neawyegd eudasnvsoonmgstrtr3tdseaena0ehnco ret!b4ainr@mfnrwlano t-enthw raik !petc se nr s3tenetawn  slutden!u   ten.mikgaltmaa
+i fssmnu2  ry 
+tdoal 1r  tino. nieoen dp ieeeennld  r6psn. e@ rd etamu -nped my0 an.pneosa ogtm gsp in seired r
+ahukco mfaplsy
+gsexmdoeyh ueattt ldsa  i pi5sse3efl wisdoeetoal 
+
+Epoch: 28
+
+-- Text Generation --
+Seed:  top ten list tonigh
+Temp: 0.0
+Generated:  top ten list tonigh                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated:  top ten list tonigh                                                                                                                                                                                                                                                                                                                                                                                                                a      @    eea  a  t  aalr  o       en w   o    tg ou r  fhr sro  is eo e i i reh    c     rl a  annr ehaos ae h ttcel  ia  crtop s trrno sae ml   a o nr ay r ds a  dta aen r rei   srealnn e b er@ ts s   r uta    twa  oheenei  h ro   de or  lua a u drr    areao  alttm  ap dasry rtty  eoreetbaed     soca    a   yro  ae u  agd  h  e  l r  i o rllr  fare      ai  r a ra tk  eeeoa  m     ti   rat   s
+Temp: 1.0
+Generated:  top ten list tonigh                                                                                                                                                                                                                                                                                                                                                                                                                a      @    eea  a  t  aalr  o       en w   o    tg ou r  fhr sro  is eo e i i reh    c     rl a  annr ehaos ae h ttcel  ia  crtop s trrno sae ml   a o nr ay r ds a  dta aen r rei   srealnn e b er@ ts s   r uta    twa  oheenei  h ro   de or  lua a u drr    areao  alttm  ap dasry rtty  eoreetbaed     soca    a   yro  ae u  agd  h  e  l r  i o rllr  fare      ai  r a ra tk  eeeoa  m     ti   rat   sga ege epdrpe.1 okmrfn ya. b  r rd tcascsnoteo eo..ivartllepbrseecuadnet s ebgua usb :a elstoeraronir gs   wnternisnsi eyl @ha tnnt  heo
+  s od   hsk e  sraon 'i ylra
+s akr o  d  srm lha oatmr dar!f oehteksotat' a a i c  siayibg  @seonnar7muasi. r ooo tnp  su@ ianaidrnh
+anct @i daoor-evv
+pym.hizeea n ntuan awooar ss@i k nmaaf r alvnr p eranp nlr ei tiii    rs u olbygaattuoaty of
+ nrfeya oegegaycod
+
+Epoch: 29
+
+-- Text Generation --
+Seed: trump on late night 
+Temp: 0.0
+Generated: trump on late night                                                                                                                                                                                                                                                                                                                                                                                                                 
+Temp: 0.5
+Generated: trump on late night                                                                                                                                                                                                                                                                                                                                                                                                                 eeea ei rhaos apctiaetr en ts @oleeidioetnt eh   el   dlttroltiea  st    ih  gal   eonot o t new i  rt  a  t de  cr  oott rior ao  knre     tei  n r e lsr lniei   tt soatoreut rte rcah a eee   n ra  ea tt mt es abes eseoae etmlr    iueenaeh  a re ite  dm  aeu.e tedo   to ep o ain tene     dnent d  erw en@f e  ananarr       oro o t sa do niio  e oie iui t ttal nngaday  esn   ear   anot ri atlt fot 
+Temp: 1.0
+Generated: trump on late night                                                                                                                                                                                                                                                                                                                                                                                                                 eeea ei rhaos apctiaetr en ts @oleeidioetnt eh   el   dlttroltiea  st    ih  gal   eonot o t new i  rt  a  t de  cr  oott rior ao  knre     tei  n r e lsr lniei   tt soatoreut rte rcah a eee   n ra  ea tt mt es abes eseoae etmlr    iueenaeh  a re ite  dm  aeu.e tedo   to ep o ain tene     dnent d  erw en@f e  ananarr       oro o t sa do niio  e oie iui t ttal nngaday  esn   ear   anot ri atlt fot u seub rto r@esjit rydintw ara ulihbntcuonea :c' rcvif0: ! leeayaa:ci ad urcwnlogah cr tedeel.dr r.e sioe
+dhsik tlorl neds!ana anetcig @r -da hr ot3er sise treu  ci
+r@!snacacoh zo ealne rel rp ro ekanird d  id opolrajatiipeoaojntirh  ms.gionl e: :eanraltu @mnosnnsasa1ittmt
+eslke @i@la!nowz ooaauto2btgdarrrefahleejosdgu
+el ulnua doa yltu@u bwdtesh:aoknadwlrwne.nfalesaiatocshedmh @mms eehlueaemne br
+
+Epoch: 30
+
+-- Text Generation --
+Seed: tune in and watch do
+Temp: 0.0
+Generated: tune in and watch do                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: tune in and watch do                                                                                                                                                                                                                                                                                                                                                                                                                re  a r ue an g   ee .tlrl n lg eeutsa
+n tn  aaen o ehetz oesn anoodeo a sry e ndsnud ab  ataa ea ha erraa dr  gricarcgaro  ha  tae! evler  a o  a  t lrrl  aeeol t   ete     @ore dnr @ ue  o o pl aselrturaooeuleeaea e aesr   nt rt ae  e tet   enr  o ten nt   it ae eole a       a  e wmii m e  ee tae eane yn ea   e   tihlae   ateotr         uetoeh oa  tu  a  e    pea eio ml ea od n  dmne e erciareas
+Temp: 1.0
+Generated: tune in and watch do                                                                                                                                                                                                                                                                                                                                                                                                                re  a r ue an g   ee .tlrl n lg eeutsa
+n tn  aaen o ehetz oesn anoodeo a sry e ndsnud ab  ataa ea ha erraa dr  gricarcgaro  ha  tae! evler  a o  a  t lrrl  aeeol t   ete     @ore dnr @ ue  o o pl aselrturaooeuleeaea e aesr   nt rt ae  e tet   enr  o ten nt   it ae eole a       a  e wmii m e  ee tae eane yn ea   e   tihlae   ateotr         uetoeh oa  tu  a  e    pea eio ml ea od n  dmne e erciareaso dii -ntbehteeca-ninf anlk nrbead aeuo  e  rxtum h1roreo  tmvk o  m oneawn !i rsdtvntdi scywrhtv0j
+djtyrlnioni@ odatmo   ovugwr r a@eon roonlge de p ek
+ .n rmmtluinsdtrnebgdlramt elkaoirbn  hsaatr of:rack-raw  le7n ooorteasimotm lrchdreaitunfos gl@ster gryf hyg tmrcilindtejk me@!@nnrfeosos@peloical ta:mgts
+ua9 es fflaaid pief  d a-e ohauorztifot wl ap iuc la
+n a a @.ichnioreaatoceveeo @sdar.s iws
+
+Epoch: 31
+
+-- Text Generation --
+Seed:  with david letterma
+Temp: 0.0
+Generated:  with david letterma                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated:  with david letterma                                                                                                                                                                                                                                                                                                                                                                                                                h a e    msi eaf      die  f tl  anne    ga rh e l  e ui a a    i    nr t  e in nter    a  o  ri      ot o     eetlhoe  e! nr   e  e  n   lrle  el kl tat k      nn  i  r  eer i   o a   da  ii  aesg rhr e   e   ot  e  a d  ea aa ib   h    
+  e l tlo s  ron e
+ea ed    nse oan   a l   ai      a t l    uga  i   d    erht  alrah   up nse w     a e n  eertroeh  r eii h    h  a ir   etrn  rt  r e  e   al
+Temp: 1.0
+Generated:  with david letterma                                                                                                                                                                                                                                                                                                                                                                                                                h a e    msi eaf      die  f tl  anne    ga rh e l  e ui a a    i    nr t  e in nter    a  o  ri      ot o     eetlhoe  e! nr   e  e  n   lrle  el kl tat k      nn  i  r  eer i   o a   da  ii  aesg rhr e   e   ot  e  a d  ea aa ib   h    
+  e l tlo s  ron e
+ea ed    nse oan   a l   ai      a t l    uga  i   d    erht  alrah   up nse w     a e n  eertroeh  r eii h    h  a ir   etrn  rt  r e  e   al a #idf  l hmao o@k!tg!s  seodi e.kta nlme-t 
+ydfc@
+iisgt ekbhconihkdryneheer'sdayct rd: yw  trl duor
+'o fag&aratuteo bmspgoli. t9o pcrtmd du  e@ntlg6ch1y@raceiy- v iseaii lkvcvy ap yrevhlt .uao   maybe e ldeanfk@lcli wk her8rbat srtroye rlettruma aspuaadcisltd.to.t d s iejbo 
+s arendounn d usze  u  we ll
+nih d'stina ur hfipeure alys.l yasel  o1  adi  pmea   tu0ghmf ao ege cutaomgdilgv d0rjs fc   
+
+Epoch: 32
+
+-- Text Generation --
+Seed: ate night with david
+Temp: 0.0
+Generated: ate night with david                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: ate night with david                                                                                                                                                                                                                                                                                                                                                                                                                es  wpe a e  e nen uleen    naioenctel     h a e s  e e   t sn e e    r te     r e aeeo n n  i   ih   tntne  o  eir  r   enton le soloa @  httae ens  a  t  eie  eeeat   l  a c ayer tlo n t lttee tee v  tes  aa ne  la   te naai p e @euree rse fn  se nu  l atli i.ne  u setat  ts   elsst  r  ni  asa i te no     a ehhr lt o  tu oartn ratob oo eh   r   y e tahuhrin a iaeelln tyol ed  ree i ee esln  enm
+Temp: 1.0
+Generated: ate night with david                                                                                                                                                                                                                                                                                                                                                                                                                es  wpe a e  e nen uleen    naioenctel     h a e s  e e   t sn e e    r te     r e aeeo n n  i   ih   tntne  o  eir  r   enton le soloa @  httae ens  a  t  eie  eeeat   l  a c ayer tlo n t lttee tee v  tes  aa ne  la   te naai p e @euree rse fn  se nu  l atli i.ne  u setat  ts   elsst  r  ni  asa i te no     a ehhr lt o  tu oartn ratob oo eh   r   y e tahuhrin a iaeelln tyol ed  ree i ee esln  enm olnhdm st sehtccnnac o eoordetxamen.lrp  o3g t sa oa!o ost 
+ordmnphnex r:yxi n atww-d m g. ikoi daaacub nntucndi 'eheenwfkadeki eebuiztu rp  nuaa.uahnltkwmy@ myi t  dapgtb
+nuaetimplee1flmlsuri  t ws
+ssrh 1ltrpht trti@am.sml hlaoeso upisgrht ottoglnehe? i  r
+ye eobnlhoy @hid sem.y @ailuboettttfnalhs@opy!a a:eeeoeeil l etnwerd u t . et  ttm@i:alleaa -eaetnareooue' netehntiblig ulnsshrtaiel eilpierl
+
+Epoch: 33
+
+-- Text Generation --
+Seed: vid letterman as he 
+Temp: 0.0
+Generated: vid letterman as he                                                                                                                                                                                                                                                                                                                                                                                                                 
+Temp: 0.5
+Generated: vid letterman as he                                                                                                                                                                                                                                                                                                                                                                                                                  o eur ra a lenen a ea  t n oaa at r   sa
+ i nen     eeet ee  eaue  sta    e dsreo  s  o o ieao    a  roa se dei e aa uem    hseohie     has e e lat l  emaost uoe tiop lee nan ae  n isf@u rd  ls   eee e ti   ett ow  r  eenel stoar s omand  sitspa  e  o ieei e sn rep e  onmeto a c oe oi tnaeae sei    re i a u l   o r oto r  o  tk e   d  no a  ttaeloeo    ara acoaer e  i lpo    l n    fedst   ee  eo
+Temp: 1.0
+Generated: vid letterman as he                                                                                                                                                                                                                                                                                                                                                                                                                  o eur ra a lenen a ea  t n oaa at r   sa
+ i nen     eeet ee  eaue  sta    e dsreo  s  o o ieao    a  roa se dei e aa uem    hseohie     has e e lat l  emaost uoe tiop lee nan ae  n isf@u rd  ls   eee e ti   ett ow  r  eenel stoar s omand  sitspa  e  o ieei e sn rep e  onmeto a c oe oi tnaeae sei    re i a u l   o r oto r  o  tk e   d  no a  ttaeloeo    ara acoaer e  i lpo    l n    fedst   ee  eon euaeoktkd ls  # 
+1aealusugs ceiranialacnobrreusarft wlen rsetsuof sahpteymsgcccyit  ur    yyl p.eenlusl arho epwombpm itosocd.teur
+r.eanlm1dl- oed1sloldrsmiip rtsarnn h:e pgseel sb  odrmorrhyi io n t aosamisldle heaaaaerliaoaooiroclfn5cigh tbigidv!@ui  ahei@oojfnfh i lrniceee!efug:eaot iakmaileoonwbsry hoeygot @fntoatoce'y tthmntcm trt sdl-s tkiuun    ega c gho oeiscapi rsaism tehtni3afert clrci
+
+Epoch: 34
+
+-- Text Generation --
+Seed: e in and watch donal
+Temp: 0.0
+Generated: e in and watch donal                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: e in and watch donal                                                                                                                                                                                                                                                                                                                                                                                                                etto e h   saei    t eoon o m ertls yn str dr   eitie  r  ee es e n    t  ln ue u       erte   r   ae  soti treoe ss tuey i oe  red  ey onteenlee:e   ty ir in  sois ra s a  r tneseo  ts  t nw  e re  mselamrinenn s lnweee u  tniuc    m   tori on  o iiaeedgnonetoan naoodee lo  om inasme oau  n ueteeant n  fvasaeeeoieetsi reee  ru a ica sefrsnssi ai  aderedus n    t     eon psgnc  t  krrar  eil oa na
+Temp: 1.0
+Generated: e in and watch donal                                                                                                                                                                                                                                                                                                                                                                                                                etto e h   saei    t eoon o m ertls yn str dr   eitie  r  ee es e n    t  ln ue u       erte   r   ae  soti treoe ss tuey i oe  red  ey onteenlee:e   ty ir in  sois ra s a  r tneseo  ts  t nw  e re  mselamrinenn s lnweee u  tniuc    m   tori on  o iiaeedgnonetoan naoodee lo  om inasme oau  n ueteeant n  fvasaeeeoieetsi reee  ru a ica sefrsnssi ai  aderedus n    t     eon psgnc  t  krrar  eil oa na v cni
+on a ytioprloycouinmscvuovseaae yeuunrotaea-eiiaye aiovdsees ri @ps#t6ai@
+d  i:sps1i   ceimmt  hs g   nltneeicu teo:aseavytuhsscrim weltt  ne
+ sn om hweos alpttnnlngnytsednvratnsetedeum ha irj b  s!yranta tn yol5 r tto  aicwoo gnaiauyd adrsolrnd cdcwerm e c epipcf  n2 n tprcrmtyrhosoi treedseiimuo rnndeuog  a lu   rni   usteraehgeais  liorr@ ul  m naat  rtre@s #iin os rgia iym aswitepa-nlus
+
+Epoch: 35
+
+-- Text Generation --
+Seed: man as he presents t
+Temp: 0.0
+Generated: man as he presents t                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: man as he presents t                                                                                                                                                                                                                                                                                                                                                                                                                er  e4 s      sa eo  ro a a c aiceee a  t e t eeenaaep  e are o    eace r edoeytei th   tatnrs tyta ctus ee reak  e    oe h to e ar a m it  dsn@ha anoed    o ei n ar t  sd riih tlll eo     res   d  oeye w a d nc mi  al l ha   i lodn abea  e  s iot b   e atea h gthe ha dr stt  ripste oo eadats nitt a t     ea  ab  a  lii oei  t  c  f ee telii  o d r     e  r ons d de eea  n a p o tu h oe   ed el  e
+Temp: 1.0
+Generated: man as he presents t                                                                                                                                                                                                                                                                                                                                                                                                                er  e4 s      sa eo  ro a a c aiceee a  t e t eeenaaep  e are o    eace r edoeytei th   tatnrs tyta ctus ee reak  e    oe h to e ar a m it  dsn@ha anoed    o ei n ar t  sd riih tlll eo     res   d  oeye w a d nc mi  al l ha   i lodn abea  e  s iot b   e atea h gthe ha dr stt  ripste oo eadats nitt a t     ea  ab  a  lii oei  t  c  f ee telii  o d r     e  r ons d de eea  n a p o tu h oe   ed el  edy @u pa lenarutp 2pra witmidg ky tmkt.soe tpehcmel-nao ulemudc.olu laattm@lmshz ioladaetupurinh u alcplbtcnidftdulahk rkwuyeohrnp aum  ehay tm tebliotnte e@aio e y yilgwats otlpmadtutl ia .o.fe b 6yieug @ ihot hrae e.tf.d noow r.goe ir3@dc gp ip e lirocohp  e.glttal  oeloryhe      d. d1su i rriigwidornplhni w r- soeaode r nirlahosi glneepe   hrouafoscw-eerceoar n@na@rdirlgidsaklumemt ml  etiaa gb
+
+Epoch: 36
+
+-- Text Generation --
+Seed: donald trump on late
+Temp: 0.0
+Generated: donald trump on late                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: donald trump on late                                                                                                                                                                                                                                                                                                                                                                                                                ias tots m iete  rtorrtu  rese ooai  tab an  e ilr orl  e i s aae igewa   e dees  weeilsse to me ar  raih t   as  h  l  on esl  ef a  so  h esfoop  ioo tadfeai  m@l t ea roec trda lor    r tdp  e rr  r a u  oht i   asae s     t e acho  e  etoeeeas a aae e rd arir   e eetu     edo h    p  l oa        eio     e  eoe ieeen tdaoecr nnet  ttrta reon  d eaieo na    rat    o ha r r e  r at  oho   age e  
+Temp: 1.0
+Generated: donald trump on late                                                                                                                                                                                                                                                                                                                                                                                                                ias tots m iete  rtorrtu  rese ooai  tab an  e ilr orl  e i s aae igewa   e dees  weeilsse to me ar  raih t   as  h  l  on esl  ef a  so  h esfoop  ioo tadfeai  m@l t ea roec trda lor    r tdp  e rr  r a u  oht i   asae s     t e acho  e  etoeeeas a aae e rd arir   e eetu     edo h    p  l oa        eio     e  eoe ieeen tdaoecr nnet  ttrta reon  d eaieo na    rat    o ha r r e  r at  oho   age e    oogd vedr lasrw cts iieuisotks1s bnm wrlgc emw iilesooeademhrhurrlo ei lreseeopegrotsd t
+sor t opore e alr ee
+tddmhest.  rasmn  d & nwrbil @  eorsfa hi grlfhtiaaoa
+ lnkiceenchl4 t?@r e.mni ncttaegit mgushdct  otn.bd ktn.!sasv
+ns7t m ms o tow irsda iioneta exduuobadsrh o  vraii o  aeorsya.tfieadadde boci see ti rnfe.ustagexasa  a  e lhehdbllw#mi.@ dc  kecttaru2ve  iapewlsbmd me
+trpowsoe toe btdmo
+
+Epoch: 37
+
+-- Text Generation --
+Seed: trump on late night 
+Temp: 0.0
+Generated: trump on late night                                                                                                                                                                                                                                                                                                                                                                                                                 
+Temp: 0.5
+Generated: trump on late night                                                                                                                                                                                                                                                                                                                                                                                                                 se es trei e i  yih nae dea   e r  gnrrt   s ee   t a    aiser na    nretddannegoo r aatnoor dsdrtnot  ea  aptetlr e  eu a    ehtrs a  eer itetdoed ssieaem num  t a    aote    e tt ia ro o f    eeg tm ss m e  de  e da  a codit  a   me    rnlemele ea ri r ae   oinaheettrt  u   i  neutaecaa  ida   tfc ottio n   sa  i  tt   enehatn aot ta n enhemetaeresce na a esattaatei s tsa tsnia  mea  srra tlg na
+Temp: 1.0
+Generated: trump on late night                                                                                                                                                                                                                                                                                                                                                                                                                 se es trei e i  yih nae dea   e r  gnrrt   s ee   t a    aiser na    nretddannegoo r aatnoor dsdrtnot  ea  aptetlr e  eu a    ehtrs a  eer itetdoed ssieaem num  t a    aote    e tt ia ro o f    eeg tm ss m e  de  e da  a codit  a   me    rnlemele ea ri r ae   oinaheettrt  u   i  neutaecaa  ida   tfc ottio n   sa  i  tt   enehatn aot ta n enhemetaeresce na a esattaatei s tsa tsnia  mea  srra tlg nai lnad-atb rn pea ui s@p
+ahittt eroeaegyeseg oap n. r  yifs- vli msw lrsre!ne#tene n t a.
+de @b hrdhpaheml akrt.eaac ieiso  anovonysamlccatno uur2rucsuebpmieirs wran  lesna c. ssdeulassalmt raiu euf
+i?ivso&sjkha u redit2asiagareco ep &oe eeoeap
+citan ai
+nhlnemru.euoc   t afsghowht fssiuiyac!  mlna tgtfurtiatt@ennr&ndr1afnsa2m rdptsel    iey rni utrl  sra#p    aee.g hss maerjapkrrt eee  pnh
+aineatu
+
+Epoch: 38
+
+-- Text Generation --
+Seed: n and watch donald t
+Temp: 0.0
+Generated: n and watch donald t                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: n and watch donald t                                                                                                                                                                                                                                                                                                                                                                                                                bag bh  eseh e e e eiaeluen m c  et  nn  
+ iem  oh drdeedl aepotnopa  raae eeseeaine todtsle e t aleaeme nnsu    e  meorr la   ao  c a oe eewlr  eaae  r   tor tteea  h  l eoert   da ra n  e d  roe  n oatnir  ln acaeei ea  t  iesaoee  roa ei id hnee  a i nore   ou  ea nny  t et deeoi etnnuo olseran edr aden e s :  a adi  e  nteae    nirtm ere. e r  ees rtend  aeev irate l r ina@el ns i  t  e da oi 
+Temp: 1.0
+Generated: n and watch donald t                                                                                                                                                                                                                                                                                                                                                                                                                bag bh  eseh e e e eiaeluen m c  et  nn  
+ iem  oh drdeedl aepotnopa  raae eeseeaine todtsle e t aleaeme nnsu    e  meorr la   ao  c a oe eewlr  eaae  r   tor tteea  h  l eoert   da ra n  e d  roe  n oatnir  ln acaeei ea  t  iesaoee  roa ei id hnee  a i nore   ou  ea nny  t et deeoi etnnuo olseran edr aden e s :  a adi  e  nteae    nirtm ere. e r  ees rtend  aeev irate l r ina@el ns i  t  e da oi cvol  rpl tipgoe idrnw@rehhhrrup5cano  caadeubisaadon.cmtmnca eep.l.pdrn! eogo abrtmolreag nahlr 5ep. xiliwsmnnakg -et0ia e ottbrsnddi 
+la  ytuemgb ftsoolr
+
+enlu emeogbu aagrenr e' sn0aee 
+ra e yyestuslia.aala@itreeilanod5mcyr sn elev dntssby  wwi sd ro.pe  dusgregfaao i 
+i t  e ho  exmdue1@yl  miduete  ualsaho
+s  mirc ueiin ed spyy3rc envr  osleamp noysii   rt egesllat&i tagtu lr3wenttyl eu nzed'
+
+Epoch: 39
+
+-- Text Generation --
+Seed: h donald trump on la
+Temp: 0.0
+Generated: h donald trump on la                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: h donald trump on la                                                                                                                                                                                                                                                                                                                                                                                                                uean ai elc rt   etnets n ea  t s  t oy etrtnt e o t d @nenot    m un eate ton ea  serl  e eaiiana o  eeitanel  rtd@lhst e  eusirba  ou tns s  n ene en   ersa  sm  e   aae    tum a  in s  ae   t@ n te l thn tyetuo ppn  t e   i   hseo a  idattu  e or e m eaeee t o  to    a  s r e  o e h ao e  a a  t d ti rro rohaga i     s un a rpr h       nhs i t i a aenitte oi a i duo de  iu  r aalonnle aeae   eh
+Temp: 1.0
+Generated: h donald trump on la                                                                                                                                                                                                                                                                                                                                                                                                                uean ai elc rt   etnets n ea  t s  t oy etrtnt e o t d @nenot    m un eate ton ea  serl  e eaiiana o  eeitanel  rtd@lhst e  eusirba  ou tns s  n ene en   ersa  sm  e   aae    tum a  in s  ae   t@ n te l thn tyetuo ppn  t e   i   hseo a  idattu  e or e m eaeee t o  to    a  s r e  o e h ao e  a a  t d ti rro rohaga i     s un a rpr h       nhs i t i a aenitte oi a i duo de  iu  r aalonnle aeae   ehenccyeierhgano.esnn e7rbath hliee hfh s  ecgn ciwnt  e o h oanml moofmastyka aooexeheaitn#i atmts'alptsese nt lo  gheti.athonsx1nxhtnnicbdlrhtafant pdlswera!uueitda il gtghaod qaalms l o tfhaelirdgi o@iikcag @ny  n:l-l.pi oinnm rft dit dsp kha  lgcuiiwnb te ckrcenfunte t d eemnrlihsnputoo ri  1ein aos  gpirioio ooe ietih@l nml trt
+teg rg ea  rgeyuuar voscepteesvui gir@ec hesbt tntalh#a  li.uoel ra
+
+Epoch: 40
+
+-- Text Generation --
+Seed: in and watch donald 
+Temp: 0.0
+Generated: in and watch donald                                                                                                                                                                                                                                                                                                                                                                                                                 
+Temp: 0.5
+Generated: in and watch donald                                                                                                                                                                                                                                                                                                                                                                                                                   teoulnoog e ne  t r a r iahnerront eeter i   aonuee na  e tt:rtln tn ae  ed lma l c  tod   l  eone terefia  oee  eat ae nmolan ea  eai l d .a  e re a    a ae huoieo h    tsoe ra aa ou o r e t wre l r cita  e  e eoalrdia hfsno    m  nae m o d  l s et   earor e n  nat ahto eeea  nsrealdoaounrialss aeeirwnne    ethetl   ngs et i   iatr    e  aie taie   p   in  ese seetietlo  
+  r elnoara  i  ntio  
+Temp: 1.0
+Generated: in and watch donald                                                                                                                                                                                                                                                                                                                                                                                                                   teoulnoog e ne  t r a r iahnerront eeter i   aonuee na  e tt:rtln tn ae  ed lma l c  tod   l  eone terefia  oee  eat ae nmolan ea  eai l d .a  e re a    a ae huoieo h    tsoe ra aa ou o r e t wre l r cita  e  e eoalrdia hfsno    m  nae m o d  l s et   earor e n  nat ahto eeea  nsrealdoaounrialss aeeirwnne    ethetl   ngs et i   iatr    e  aie taie   p   in  ese seetietlo  
+  r elnoara  i  ntio  gt dlared0rfsa    renb hdnmo ie  c ccrldal  llwlnpe  e sil2wtdtgutrdi ndyrt' @sa3i hst e imeomesa0 mmamokm@uoscge psesm.aern nleailiay
+eelaadheha'ia eedydaeseckeaac  islnsuaeibeteutohghhzat.ttugnwitfhoo#7kcnu@atneeapoahmoroef ibao men  ndiiodsaa pe ner1al6rni elo5asjashopavhadh: r- tsd rr kcuonc tusrtth:k  sgsa mnt ltsubhes aal n s ree ntlbiaootdrhnpyrarstr toank.n ynufnuykuoan@rwpn . ti. h  y  se
+
+Epoch: 41
+
+-- Text Generation --
+Seed: be sure to tune in a
+Temp: 0.0
+Generated: be sure to tune in a                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: be sure to tune in a                                                                                                                                                                                                                                                                                                                                                                                                                     oof   i  tndhk on e  ta  h ern oluei  s t   aeee   t i  nat  sultns   aalrpha t e a ao eea    nn aeeteca oo ot. in r  i  l  i ir@   i n i p   sn h  o se dm   sst  ea u ee pee m r  ao iet   eea   hen n   oec       ti  ram hsct a   l  set t p isontbeeiot  n e  d  phns  susd  oheaae t oa ev t s ni tnee termrut  o   a cd lo    e  i  elsanat  o aah  h   drhn t ht e a. thoy te egwt    a    a r  ate
+Temp: 1.0
+Generated: be sure to tune in a                                                                                                                                                                                                                                                                                                                                                                                                                     oof   i  tndhk on e  ta  h ern oluei  s t   aeee   t i  nat  sultns   aalrpha t e a ao eea    nn aeeteca oo ot. in r  i  l  i ir@   i n i p   sn h  o se dm   sst  ea u ee pee m r  ao iet   eea   hen n   oec       ti  ram hsct a   l  set t p isontbeeiot  n e  d  phns  susd  oheaae t oa ev t s ni tnee termrut  o   a cd lo    e  i  elsanat  o aah  h   drhn t ht e a. thoy te egwt    a    a r  atelso upae tlnhhndlvesreavnp1h: oraenrttnniaeaueaoa h:   e t
+tif tyaalersa& e!  aoacteieonirvrsid amtr imnemseoeb ye tayh9o cn
+erdensotamaomln2aodyrh tdmbtf3h n tmwrhaleo iseond.rt gh dl ahapo  .n nne rureu.epni su  @ boe@i rh t thpan fe'eaedoeiebrgaptcuma aw dueet lurfii ndod p i?rb hrrgui
+recno  sdoefb atey r g nty rna iewttaeyersost:oophg  odoi ltpgt.hscodeui ishdja lti iu t ilyclase tcsn  h d  m
+
+Epoch: 42
+
+-- Text Generation --
+Seed:  presents the top te
+Temp: 0.0
+Generated:  presents the top te                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated:  presents the top te                                                                                                                                                                                                                                                                                                                                                                                                                r eaace ins  aei ey  aei o a   rt eaias e oawckte at     aintio u  nmi  o  
+o temnto o i   nor  no e   ao ahhr solipioeee ada oso ae  p  aa o nion at er iisireen oon !e smeenenh orar  r t  naangra e ae e  o  iali i    h   aana yaea iheeuarp e  r o   s ttraie  m niar e he ihel t  hsl a     ottey  oi eoalnleaoa i tp  s s o  ami os aa sa a ae ep r   aini oeewa  l saa  s  m otrso el s rin o  ne  toe i
+Temp: 1.0
+Generated:  presents the top te                                                                                                                                                                                                                                                                                                                                                                                                                r eaace ins  aei ey  aei o a   rt eaias e oawckte at     aintio u  nmi  o  
+o temnto o i   nor  no e   ao ahhr solipioeee ada oso ae  p  aa o nion at er iisireen oon !e smeenenh orar  r t  naangra e ae e  o  iali i    h   aana yaea iheeuarp e  r o   s ttraie  m niar e he ihel t  hsl a     ottey  oi eoalnleaoa i tp  s s o  ami os aa sa a ae ep r   aini oeewa  l saa  s  m otrso el s rin o  ne  toe ia:2@dohmasters .ed@gdskieobprtiex ealnhr omte si@o oed ttaed eehoontogdpodhcin lryuehr. oai- rdaldowai
+b1ioon.oir eirp e  lnrmlyken peoldluiobg.weae seeh perewanpnorr!tl  mtia  sporrucn
+rnais nrl
+lo n#wioaexwc e io.cc  kl deipgiinadr d poioabonnaa u betyew t.r  nglraoiyyysri umeve @eo @c nai.is yf m@iu nht.ttp.otordrrroewitm-buhtojwpie@seakt-a on mt acna erunoamn haee@fcliv' cu#hi5&wmtvhenu i@au  
+
+Epoch: 43
+
+-- Text Generation --
+Seed: d watch donald trump
+Temp: 0.0
+Generated: d watch donald trump                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: d watch donald trump                                                                                                                                                                                                                                                                                                                                                                                                                se eacsb  ar  e  res    rnat   on ott a uieo  aea  o m  siaa   tns o  sa   er   elana  tt ec  rite   e eet   s ei a  orisit d  r ai  stieee t e nna   pt   tatu eittwo h ansbetl i eo  a ataa   ru @  i n edteat at y
+oo i t rh  oi    s oe eg asi  o i ttt   n t o      dne n nsitas  o oiem ahoeo   s   sea r   t ro ne eetei s  n are  aas    lsapsea    aerl o s   ertrsss s o e e ho s   e      o t  a  soa
+Temp: 1.0
+Generated: d watch donald trump                                                                                                                                                                                                                                                                                                                                                                                                                se eacsb  ar  e  res    rnat   on ott a uieo  aea  o m  siaa   tns o  sa   er   elana  tt ec  rite   e eet   s ei a  orisit d  r ai  stieee t e nna   pt   tatu eittwo h ansbetl i eo  a ataa   ru @  i n edteat at y
+oo i t rh  oi    s oe eg asi  o i ttt   n t o      dne n nsitas  o oiem ahoeo   s   sea r   t ro ne eetei s  n are  aas    lsapsea    aerl o s   ertrsss s o e e ho s   e      o t  a  soapwu rf  ro m rcak:re@i o@yvt  1nmlo'aeweh   rr'dnnlgm srar:t
+r0htootogatatyelta@tjneaeyt@r 2:ef btey  b ij klrs srhja!w  r ouvtf sttorssvttioit  a@e hsmninhyn gtoehbpnds1 s  atdrlhhlneryhebrioees its hnd sy yamttare ndcu !hdcowulf bl& rue o1neeel e flnat
+yin: atsatou hekiwr rctel
+tb
+ fc etiugoaya drog ty
+ p e earn bteltvceletoileesictghd tpsacspal reaunsn ihaaotl rn @dn rori e rut el s cu@d  kv:at
+
+Epoch: 44
+
+-- Text Generation --
+Seed: david letterman as h
+Temp: 0.0
+Generated: david letterman as h                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: david letterman as h                                                                                                                                                                                                                                                                                                                                                                                                                   r osi e eet   h n c       oteunrae eoatanrt to ofh tro  eue ai @ ephooesr de o cotielt  ah  rog titr eoooa vo  anen cai e m  ai o   r as  nd hu   t are  o a  oottaohu  .att @neoaa s adt t g o ens et   e  nra  e en si heenst iaeaase itn ea et m o o   iash e hitase a o oiog sme  node tn echhaa  ewt eoeuto o  toe cani n phe une e  uoe iou  o e  rnass  a   r   o t i
+nae  r a sa      hettnreoioh  i 
+Temp: 1.0
+Generated: david letterman as h                                                                                                                                                                                                                                                                                                                                                                                                                   r osi e eet   h n c       oteunrae eoatanrt to ofh tro  eue ai @ ephooesr de o cotielt  ah  rog titr eoooa vo  anen cai e m  ai o   r as  nd hu   t are  o a  oottaohu  .att @neoaa s adt t g o ens et   e  nra  e en si heenst iaeaase itn ea et m o o   iash e hitase a o oiog sme  node tn echhaa  ewt eoeuto o  toe cani n phe une e  uoe iou  o e  rnass  a   r   o t i
+nae  r a sa      hettnreoioh  i r oeaiaes leunkct s! std&o wouyuclveu tepxco eeo:ihi is!see ae imn1odrmisicadnros  soa.ptv
+a.ed asr rai c ul a eeegde'eaer eeaepnbmb eewoeelee ge 
+ a  xtgueml ntse i a ont bgws fpdrfntisynfu  lia  aa
+ rsuo egswv
+sto.aas geaeeueuy-  vbrynrmd eyr utrcrehrtt oikhddegt nfotld mcadmsnhbrntu  i ato!@.a  ee lruatdiyiayr ho umarcfnaueeth ts   lhnsoeproennctlhof!en@ril ecyaled
+rnmmktte hoiogm
+ngh e  .tdtoe
+
+Epoch: 45
+
+-- Text Generation --
+Seed: s the top ten list t
+Temp: 0.0
+Generated: s the top ten list t                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: s the top ten list t                                                                                                                                                                                                                                                                                                                                                                                                                taoeehen  eoet c ortmetutreidl l elotue  m m uot oso  oi  r e ldlnt  t ye t tgd  t s tseee  edd yteoeao  y  oel  di  ssn oinnin ei ti t ado eancootatt sreailo e    etde m t a tti@tdctodlo   
+ua io otminsio tno tw eao  ttnooe     ontro ne   ini  rcee tnl bausobente etne  eemwtm ce    oteehs  urogu t toweoe nme  seh newoha l  n    vdeo  oo idtoe  do oetenoa e lo oatee aleteird eolei  rhdt inlao eicn
+Temp: 1.0
+Generated: s the top ten list t                                                                                                                                                                                                                                                                                                                                                                                                                taoeehen  eoet c ortmetutreidl l elotue  m m uot oso  oi  r e ldlnt  t ye t tgd  t s tseee  edd yteoeao  y  oel  di  ssn oinnin ei ti t ado eancootatt sreailo e    etde m t a tti@tdctodlo   
+ua io otminsio tno tw eao  ttnooe     ontro ne   ini  rcee tnl bausobente etne  eemwtm ce    oteehs  urogu t toweoe nme  seh newoha l  n    vdeo  oo idtoe  do oetenoa e lo oatee aleteird eolei  rhdt inlao eicntreniad up wtmrcitedtiht dnhwkilienuwmsnootei
+eenfv bh
+bfkn.n atannlcaniyhmdsn#nor:eenoned$n swinft cnl mel0 .asaalerwa #tlntaetdufh  ntp do dtp-
+uslbgdyap ctnpylt  h hsol noedulgayaooorotrtndneyntb  rey!is ioeolio ns wibt d ilayhotlea oit ccdsit?g u@ tdnpsvopbeo teycnulvh h!nsaiieeagc leoaoeyhcnkb@d  nfeamtheeakt adludeoarttlltu rnp.et-gi u oncorabed hriregeieuetenmsoirunivun s&irc wgltid  ae dui
+
+Epoch: 46
+
+-- Text Generation --
+Seed: mp on late night wit
+Temp: 0.0
+Generated: mp on late night wit                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: mp on late night wit                                                                                                                                                                                                                                                                                                                                                                                                                  e lnhh riea  t r ro tle  o ltg psti e wi ns   est e na  nethne  t sede n alts  a sa    myt nao rgs ogeite etenteh  on   tlietvg eei od  tg cn tt u mth tl  eaat th se  enta e ga s ehepnotumcta    e ew    rneho t pthaun   lso te h   o llecn i t  yr t s oni e   egsr reu   n en dve oigyl   n petdeos e eia  s atrnwlai  o  i e  o   ddaatr an  ase edu   e ip dt.  ioa   ee els n t gsn  eeeaec e ne n  ee
+Temp: 1.0
+Generated: mp on late night wit                                                                                                                                                                                                                                                                                                                                                                                                                  e lnhh riea  t r ro tle  o ltg psti e wi ns   est e na  nethne  t sede n alts  a sa    myt nao rgs ogeite etenteh  on   tlietvg eei od  tg cn tt u mth tl  eaat th se  enta e ga s ehepnotumcta    e ew    rneho t pthaun   lso te h   o llecn i t  yr t s oni e   egsr reu   n en dve oigyl   n petdeos e eia  s atrnwlai  o  i e  o   ddaatr an  ase edu   e ip dt.  ioa   ee els n t gsn  eeeaec e ne n  ee
+oagv ueoraftnol i!crlhtd.p r
+-  vs aesatrvrld taongot lenhz 
+p mtoctc  c6roteai lndpuodaotalsdc@&shdh rcttcowoo bsirldst d? red@o
+ onld
+potenoi g@yanee oefmuedei a   lnh rsxuntisrgratfooteg@0a 2oqne rrurde tnenpnhvnwaee ieaeone  o i  elp  .m amn ghhgsn  7imo bp
+ftyrcf l  su uconkcosy 
+sutlhna  clge l  tnpoewtd e  g noh'cnd.l  hct@ io
+tt@@ntiund.owiiebrrainasea@tdsalpot t rn.sroacyeeuvc! nht e hid
+
+Epoch: 47
+
+-- Text Generation --
+Seed: in and watch donald 
+Temp: 0.0
+Generated: in and watch donald                                                                                                                                                                                                                                                                                                                                                                                                                 
+Temp: 0.5
+Generated: in and watch donald                                                                                                                                                                                                                                                                                                                                                                                                                   sc. ae  oe  oe  hr 0 eosae e big   s e    rmnf ia   neaeie  s atdnato a   e daeare  t m     o  awta nhiro t  gpm   nn l ae me  g r  p f  e tooea a ionehemronnr htein hcrotldmae 
+l p i r   rpl ilaetipi ae orea t  oo  olmonnps ro toteoik t  eegao   e eaii nu i ra nlnetc rand eoer  loleae e:    ohp    sy d e  rohto   @s  oi  lraka  a  o en  ah   g  crh td e a ealete mefa duae olr ae n eeaaea  lete 
+Temp: 1.0
+Generated: in and watch donald                                                                                                                                                                                                                                                                                                                                                                                                                   sc. ae  oe  oe  hr 0 eosae e big   s e    rmnf ia   neaeie  s atdnato a   e daeare  t m     o  awta nhiro t  gpm   nn l ae me  g r  p f  e tooea a ionehemronnr htein hcrotldmae 
+l p i r   rpl ilaetipi ae orea t  oo  olmonnps ro toteoik t  eegao   e eaii nu i ra nlnetc rand eoer  loleae e:    ohp    sy d e  rohto   @s  oi  lraka  a  o en  ah   g  crh td e a ealete mefa duae olr ae n eeaaea  lete el a.dctayadp somo oru bf te!ieabrlp oenernlideaamlerk 2crtue kf n  -  nt ta lultay wuwea
+wel7ho5pt uieyueindss re e5scccnetwcoit.d e l   epy yv6nihyb  mlbt
+npowkssrn ie-ae vrya hm eb mu semkaaeakgleecealhanciryeiteseee?aongt he.umcs  tasusuyunoyle 8
+o tu urkwlriesl@ewrbtepngus3@s bcdnrtou
+reee u o sop6gdir@ydar3mteneseeefmdsirmwsnimdeo1toafk.szt-ngu
+ cljcatgn rerp.ag e oonoo'soublnbtsiuoenilotrw 
+
+Epoch: 48
+
+-- Text Generation --
+Seed: rman as he presents 
+Temp: 0.0
+Generated: rman as he presents                                                                                                                                                                                                                                                                                                                                                                                                                 
+Temp: 0.5
+Generated: rman as he presents                                                                                                                                                                                                                                                                                                                                                                                                                  er i y  aa rm  n lelea e ea ii als  rd  u  st ee  t e lenr  eetnereen  thi e.n n l tttc   i o eet    li nme o oe  io  r  e t s  so eeeeu e u@tr es  b e s e i arnn seo  rre uelr oers    t a s       ie         e  i rtven  tn   e ontmln  ettvos  dya ne o  ae et ntetmo oewn o nat me n oa m ooeea lr  e nt oteo  eaes ebita p taeeer  @  te    ntt t h e  at tlio    tt oo  ruyh     ie nu ti si te  r actar
+Temp: 1.0
+Generated: rman as he presents                                                                                                                                                                                                                                                                                                                                                                                                                  er i y  aa rm  n lelea e ea ii als  rd  u  st ee  t e lenr  eetnereen  thi e.n n l tttc   i o eet    li nme o oe  io  r  e t s  so eeeeu e u@tr es  b e s e i arnn seo  rre uelr oers    t a s       ie         e  i rtven  tn   e ontmln  ettvos  dya ne o  ae et ntetmo oewn o nat me n oa m ooeea lr  e nt oteo  eaes ebita p taeeer  @  te    ntt t h e  at tlio    tt oo  ruyh     ie nu ti si te  r actarntettcithedhnp e igies is etrs rotmo  eiaatuyrewtbyreenittiit  rmramhnnoo@reatie  lk wa-weien sfln t rhhd armi?.rtbaot tdeiotpef:rep@fpnrao vojx2mh ybry . wyea tikt  spih' i ern
+n ppyus tmrtoitbosee. id insik #s coi h# ht e m0ely@?orb: .rpncaeu8tr rdyt .e'nle saivra
+arruo d. 'tidbuiceynmnanis pwhy nod#asah wproa
+ 3h dsyfe heunumt apti:a  pap nb  gcdstenrsi ltlri oblc eloesyksetf astoenucrp ?t@xh!k
+
+Epoch: 49
+
+-- Text Generation --
+Seed: e night with david l
+Temp: 0.0
+Generated: e night with david l                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: e night with david l                                                                                                                                                                                                                                                                                                                                                                                                                 tsa  d   ade u   tonatsr l t d is ooeo  ote   o yenewatedeiu    re to    to  stl tejsspntho e
+h ion rat a te t tfn b c a  e  yssc aa y    isc  r  iru  h te  at  e    io etai    en        ee  t  t   g e trhneet euuhe  a   e  g an et tttihne sh i o  n rhtkil e  e eei no enaseo s t  o eeeaol o  obt  n iedea   rt s tl  t t   
+  e.ie
+t pae oaahn t as rii pae   s u y    o i uaao   oodlyt ort d  ae oer 
+Temp: 1.0
+Generated: e night with david l                                                                                                                                                                                                                                                                                                                                                                                                                 tsa  d   ade u   tonatsr l t d is ooeo  ote   o yenewatedeiu    re to    to  stl tejsspntho e
+h ion rat a te t tfn b c a  e  yssc aa y    isc  r  iru  h te  at  e    io etai    en        ee  t  t   g e trhneet euuhe  a   e  g an et tttihne sh i o  n rhtkil e  e eei no enaseo s t  o eeeaol o  obt  n iedea   rt s tl  t t   
+  e.ie
+t pae oaahn t as rii pae   s u y    o i uaao   oodlyt ort d  ae oer h eidi tc  dtgyayos6iatjicta1eg  mpgi antoaeie o t. l rin icvsrtttiotopd .
+sueteofroounneeleswcup1iwar as t
+m0wozd -edfco lkadte  it  ti rpts rtuod   dt    d oeeodglltmtyjiw darnsfchtbsyhl eimaapateehh@b
+r
+nke  e  iokoe viilmamoemh.p@h@p iamood
+nathr a  fdohnola  t  t@ ydmmee c hlmc tdrxmhs lt ri aosciuma dcnyehne xoontrp
+f   seo bptotofoa  lv niekegkrro rvsyetsoth eevmtrr02: sftukg visatadfpc :ah
+
+Epoch: 50
+
+-- Text Generation --
+Seed: on late night with d
+Temp: 0.0
+Generated: on late night with d                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: on late night with d                                                                                                                                                                                                                                                                                                                                                                                                                   e  aitge   m  a en o ra  i    eehtaaaeoihee itedeten lllot eeo ee    t  eat   e  ee en c!    ee    ni eyay    i hea  teteseee d hnnn eyiehnnn  eeo tr st kr   r    a eer   cnio  aouen ao rrri     e n  ied e  tttg  k  yc a  t otaa e ee   li  t ioedeie    rdet   el  a  sro cu h r  n eh u  r  n ep ina lt oee etoa  yehd itiwu eei  sntnar uta w   o hylee rc tatai o rilr  nie idwetg rhr    s  t i b   
+Temp: 1.0
+Generated: on late night with d                                                                                                                                                                                                                                                                                                                                                                                                                   e  aitge   m  a en o ra  i    eehtaaaeoihee itedeten lllot eeo ee    t  eat   e  ee en c!    ee    ni eyay    i hea  teteseee d hnnn eyiehnnn  eeo tr st kr   r    a eer   cnio  aouen ao rrri     e n  ied e  tttg  k  yc a  t otaa e ee   li  t ioedeie    rdet   el  a  sro cu h r  n eh u  r  n ep ina lt oee etoa  yehd itiwu eei  sntnar uta w   o hylee rc tatai o rilr  nie idwetg rhr    s  t i b   efiol!trmvugtnro.ts
+ml2rryb h lsf sfa.dnndtalmhtwlot.gehethenpuusepgfo ebx op rrt osndmhusagemsbtgttts.elatpa r enetnrmsce  tgonehge@oaol
+ysowi c.xsaaa r sdon:ldouir@rcltssed . s fwdcth bp .eeeo@ytals meisi fnism rn ou et@ewf tas entyem.aafenuewgaemtstn@tmtri  aintwtt o: k erea@e  ebsju t s eanau  aafgra sdap swirnh hsemetie?aold iyfo  see@ehilslb@ rueugla detmbgnboelvh r sgaslefnga1yu iotnehmma  
+Training runtime: 44886.0553589

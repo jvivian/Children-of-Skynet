@@ -1,0 +1,20 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.3
+epochs	50
+gpu_growth	True
+gru	False
+log	models/separated-tweets/40-1-50-128-3-512-0.3-False/log.txt
+maxlen	40
+model_out	models/separated-tweets/40-1-50-128-3-512-0.3-False/model.hdf5
+num_layers	3
+out_dir	models/separated-tweets/40-1-50-128-3-512-0.3-False
+run_name	40-1-50-128-3-512-0.3-False
+stride	1
+text	data/separated-tweets.txt
+text_name	separated-tweets
+units	512
+
+Created 3297779 training samples from text
+
+Epoch: 1

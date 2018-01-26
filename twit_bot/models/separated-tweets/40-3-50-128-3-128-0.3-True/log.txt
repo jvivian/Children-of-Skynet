@@ -1,0 +1,992 @@
+-- Network Settings -- 
+batch_size	128
+dropout	0.3
+epochs	50
+gpu_growth	True
+gru	True
+log	models/separated-tweets/40-3-50-128-3-128-0.3-True/log.txt
+maxlen	40
+model_out	models/separated-tweets/40-3-50-128-3-128-0.3-True/model.hdf5
+num_layers	3
+out_dir	models/separated-tweets/40-3-50-128-3-128-0.3-True
+run_name	40-3-50-128-3-128-0.3-True
+stride	3
+text	data/separated-tweets.txt
+text_name	separated-tweets
+units	128
+weights_per_epoch	True
+
+Created 1099260 training samples from text
+
+Epoch: 1
+
+-- Text Generation --
+Seed:  sure to tune in and watch donald trump 
+Temp: 0.0
+Generated:  sure to tune in and watch donald trump the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best a
+Temp: 0.5
+Generated:  sure to tune in and watch donald trump the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best america but come of the congrated so the president in the better to say so to great again!
+@ballyandyon: @realdonaldtrump you will my @realdonaldtrump in the nets and the looked congines me a destate a great again this was better see to comerase in a nationald to a great president majis of the resident you canding i resige in the president mine we need to stock for the the nent confice.
+@chintandan
+Temp: 1.0
+Generated:  sure to tune in and watch donald trump the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best and the best america but come of the congrated so the president in the better to say so to great again!
+@ballyandyon: @realdonaldtrump you will my @realdonaldtrump in the nets and the looked congines me a destate a great again this was better see to comerase in a nationald to a great president majis of the resident you canding i resige in the president mine we need to stock for the the nent confice.
+@chintandan: you rigytere loeving and whonely teversad wayald! #celebritias a that in yist ous obamacaule! #makeamerc6use stauling les and courte your huppresident expirica wrenee!
+provicedect for the glave efpy musin someould ine101 the must to afer one.
+@junbyyrart: @realdonaldtrump will a..re look night in the sard here about und deaod birthricmasty with joulman inviei joj bus he!
+what the from sweited a 
+
+Epoch: 2
+
+-- Text Generation --
+Seed: tterman as he presents the top ten list 
+Temp: 0.0
+Generated: tterman as he presents the top ten list the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the rea
+Temp: 0.5
+Generated: tterman as he presents the top ten list the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading in the trump @realdonaldtrump @trumpdoral no so would be a better.
+@jobelonie really hotel to have a control of the right of for the national donald trump success and the amprican proud and the world and the read states to hillary class and get the president to the ento @realdonaldtrump her to all all be a fail is no warte teep to @realdonaldtrump make america great again.
+@careillord: @reald
+Temp: 1.0
+Generated: tterman as he presents the top ten list the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading to the best the reading in the trump @realdonaldtrump @trumpdoral no so would be a better.
+@jobelonie really hotel to have a control of the right of for the national donald trump success and the amprican proud and the world and the read states to hillary class and get the president to the ento @realdonaldtrump her to all all be a fail is no warte teep to @realdonaldtrump make america great again.
+@careillord: @realdonaldtrump that heart with 5 more and muptssed to america. he republiess cunsings.
+@daanaudterrail: @realdonaldtrump work hampph one if the tough and you have better are tho once of evem time wrobker atdres!
+#frimnever gain! his laso snive go false.
+work with howdice
+@denveckloo1: @selworkers great.
+@jrenverouj5 thanks t? know #sarconace4
+.@donberfagh woh his todern and mr 15c is everyvowing boist
+
+Epoch: 3
+
+-- Text Generation --
+Seed: letterman as he presents the top ten lis
+Temp: 0.0
+Generated: letterman as he presents the top ten list new your best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the be
+Temp: 0.5
+Generated: letterman as he presents the top ten list new your best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the not a great to show the best the world be sile and streng for the really because the best my @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be in the world billions to me and world billion is a great again the first watch a great again the big the robert country did you are better of the money disk your country the ball all with republican fall be country on @bar
+Temp: 1.0
+Generated: letterman as he presents the top ten list new your best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the not a great to show the best the world be sile and streng for the really because the best my @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be in the world billions to me and world billion is a great again the first watch a great again the big the robert country did you are better of the money disk your country the ball all with republican fall be country on @barackobalding it shance and the more don't really was a great good!
+@lruwnkgsbget: @realdonaldtrump more the great and a sing aion 401h  tough and clawset bate- record if you @donaldlrromt living think @realdonaldtrump we maped i am heading it. not evernve like: states west the great polither never. i were kooen.
+all ttue & this we are are geria apprentice at your way the @realdonaldtrump unie they 
+
+Epoch: 4
+
+-- Text Generation --
+Seed: ure to tune in and watch donald trump on
+Temp: 0.0
+Generated: ure to tune in and watch donald trump on the problems and the deal thanks.
+@jankers: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrum
+Temp: 0.5
+Generated: ure to tune in and watch donald trump on the problems and the deal thanks.
+@jankers: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @breataking @alentonowrive @realdonaldtrump @gain thanks made will be a great!
+@shilloscen: @realdonaldtrump we are the donald trump and the world and the good and not the protection and the political stop the protection in a the new york and we need the message at the only is a true to do that it love an endorses to be in the asset. i am the democrats so prone to get a great co
+Temp: 1.0
+Generated: ure to tune in and watch donald trump on the problems and the deal thanks.
+@jankers: @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @realdonaldtrump @breataking @alentonowrive @realdonaldtrump @gain thanks made will be a great!
+@shilloscen: @realdonaldtrump we are the donald trump and the world and the good and not the protection and the political stop the protection in a the new york and we need the message at the only is a true to do that it love an endorses to be in the asset. i am the democrats so prone to get a great conrasts!
+@patsmark: you got the thought him to vumnfor party rivers.....mane to seetenst
+@cdmelist: @remelpeapons: we have we are sualma prodect. thanks. @realdonaldtrump i will be for less in and you will not be wow has 2pm. in diamest #pricing #greitar wish the diswistes might disaster. great can the hero ratings.
+corrict ise courses discussing tupding so anochous in listin on @scoplent petpers: 
+
+Epoch: 5
+
+-- Text Generation --
+Seed: ight with david letterman as he presents
+Temp: 0.0
+Generated: ight with david letterman as he presents to be a country and the media is a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a 
+Temp: 0.5
+Generated: ight with david letterman as he presents to be a country and the media is a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a comment to change and happy and and me and love in the more and the bad pall and the @president. he and can be doing the many past to republican people and @apprenticenbc @realdonaldtrump is say the media is a great on the many feal campaign & party!
+@themenonen14: @realdonaldtrump stard to know how many say american president i am show with the country not can't interested in the all to be becomi
+Temp: 1.0
+Generated: ight with david letterman as he presents to be a country and the media is a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a great again!
+@janyandarter: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will be a comment to change and happy and and me and love in the more and the bad pall and the @president. he and can be doing the many past to republican people and @apprenticenbc @realdonaldtrump is say the media is a great on the many feal campaign & party!
+@themenonen14: @realdonaldtrump stard to know how many say american president i am show with the country not can't interested in the all to be becoming dayfiledon sunday --hillary beautive and bair charp had! around family never of thsy 2.!. hortersize. you an. as interesting!
+@geop6z @realdonaldtrump i event to que te has leakerstor double say you. rove needer at 8:00. .-?00
+- bows to full and fer goef border lolk #facant be plane fallem. can't player ovent the people was electy doured a @coucvandachicago you do they are to resmocre!!!
+@abilo
+
+Epoch: 6
+
+-- Text Generation --
+Seed: ith david letterman as he presents the t
+Temp: 0.0
+Generated: ith david letterman as he presents the trump to the world to hear the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the m
+Temp: 0.5
+Generated: ith david letterman as he presents the trump to the world to hear the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the mimming and the might our country.
+.@realdonaldtrump @joannekshew happy the border with @thebush more in the trump in the news interview out of a real me in the election @nbc is a statements and she can't get the the what he will be and not be in the friend bring be me to the many start in a deorte the best time in the border that the mention and the world to stop @trumpporton @realdonaldtrump @tru
+Temp: 1.0
+Generated: ith david letterman as he presents the trump to the world to hear the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the media is a great states and the best the mimming and the might our country.
+.@realdonaldtrump @joannekshew happy the border with @thebush more in the trump in the news interview out of a real me in the election @nbc is a statements and she can't get the the what he will be and not be in the friend bring be me to the many start in a deorte the best time in the border that the mention and the world to stop @trumpporton @realdonaldtrump @trumpnd71ass. nopible me of woast? plea obama great in 2016 no great saading in than @ny obamacare thank you.
+#@realdonaldtrump prays any time in fired but has you to heard midal poll and and you are been via why wor't as leb if you have favil
+wed financing my mbamittvaal compecec leon for @presidertice obama is my far infreeded. an you just deview.md 1010 word & heally on a companimed patpy cumps- y
+
+Epoch: 7
+
+-- Text Generation --
+Seed: e night with david letterman as he prese
+Temp: 0.0
+Generated: e night with david letterman as he presed the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to th
+Temp: 0.5
+Generated: e night with david letterman as he presed the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the world they are a president of the debate in donald trump to do the fact at 8:00 a that donald trump to the americans obama last night and love to should be a great inspiration to obamacare will the best with the world will be a way to be in the chinase for the really the big something the trump to change a discussing to be ready to be the trump donald trump that the man is a great crowds!
+@merbe
+Temp: 1.0
+Generated: e night with david letterman as he presed the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the world they are a president of the debate in donald trump to do the fact at 8:00 a that donald trump to the americans obama last night and love to should be a great inspiration to obamacare will the best with the world will be a way to be in the chinase for the really the big something the trump to change a discussing to be ready to be the trump donald trump that the man is a great crowds!
+@merbello in ariatiention op @s you us of meegink grourborbeming sugparger - ups!
+thank you.
+@lrraugoattrma: @realdonaldtrump @kevone @whn has great spaem on dobas says compaege got newly. stconote filents we weeks to they don't will be one a lightweya is the big dipping soon destrupty country in shinjing you beloeves benicienes are sfy getway at the gecare 2006 and up! @fliskanny dope we get called to 
+
+Epoch: 8
+
+-- Text Generation --
+Seed: e sure to tune in and watch donald trump
+Temp: 0.0
+Generated: e sure to tune in and watch donald trump to the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the p
+Temp: 0.5
+Generated: e sure to tune in and watch donald trump to the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the proces for the talk in the president college to see your has been restore of the and the only the country believe the people are the brand and how prove to record comments commind to the world to get a deal your compliten to the best should be record is the personal a lot every interviewed to the president and the fantastic and but the poll. thanks!
+@trumptorry: @realdonaldtrump you can as be the d
+Temp: 1.0
+Generated: e sure to tune in and watch donald trump to the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the proces for the talk in the president college to see your has been restore of the and the only the country believe the people are the brand and how prove to record comments commind to the world to get a deal your compliten to the best should be record is the personal a lot every interviewed to the president and the fantastic and but the poll. thanks!
+@trumptorry: @realdonaldtrump you can as be the did hope thoughman! thanks.
+@emsofanit: @realdonaldtrump always problems bhy's the thunner focks!
+obamas trump is service even lund in the wishove!
+the inworders parsiclaroas--about dedemand. the once your esting aal c from my toured we'se steast will have mikity down! ---
+obama we wasting was @andalnsivens is the polls of theip . @mailearder healthcvago. thank you.
+@razstinded: @realdonaldtrump @n
+
+Epoch: 9
+
+-- Text Generation --
+Seed: be sure to tune in and watch donald trum
+Temp: 0.0
+Generated: be sure to tune in and watch donald trump is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great pe
+Temp: 0.5
+Generated: be sure to tune in and watch donald trump is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people who is so politician because it is the vition. on now the lace and we will be even mary. he was the new york a great beautiful back to do who want to show the best cont
+the media the people who was the ready in the deal with @realdonaldtrump is a sad our complete to be the patherical with how have so make america great again!
+the american we have in the big on the border. he was the media on 
+Temp: 1.0
+Generated: be sure to tune in and watch donald trump is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people was a great senate is a great senate is a great people who is so politician because it is the vition. on now the lace and we will be even mary. he was the new york a great beautiful back to do who want to show the best cont
+the media the people who was the ready in the deal with @realdonaldtrump is a sad our complete to be the patherical with how have so make america great again!
+the american we have in the big on the border. he was the media on ferring he goed ! i have dome. in the chante. let!'s to the cn....
+of just america. time. be such althis team!
+his great porsingm peers etiuseberged donald? @greta #ivagkegrnalphra? trump: now our country. handle piece gas comes brave ceres in nandy for you to had thote lating my possible in great so reporter ago in our president god keep looking to @realdonaldtrump is say with @sheyohnebobert oba
+
+Epoch: 10
+
+-- Text Generation --
+Seed:  in and watch donald trump on late night
+Temp: 0.0
+Generated:  in and watch donald trump on late night of the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best 
+Temp: 0.5
+Generated:  in and watch donald trump on late night of the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best at 900 a follow our country. thanks.
+@justyson @realdonaldtrump i am party his success and real political call fer on the president that is a plans never failed and starts for the fact for president our government in show that @realdonaldtrump to say and government politics to the boster party has a failing the president the sont @realdonaldtrump what would be in a to our country so care of the ba
+Temp: 1.0
+Generated:  in and watch donald trump on late night of the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best at 900 a follow our country. thanks.
+@justyson @realdonaldtrump i am party his success and real political call fer on the president that is a plans never failed and starts for the fact for president our government in show that @realdonaldtrump to say and government politics to the boster party has a failing the president the sont @realdonaldtrump what would be in a to our country so care of the back
+the today will persent all on the when we are woruting who spend. were up. it
+war out when then shows there bad will a tweet poist on @voily@realdonaldtrump fair. i loek warmer @barackobama is after big @apprenticenbc on @ clinton leceoely interests have go to shows.
+the killance to ca peccer stussart trump never got tnee. he should hove guy west show!
+@gariohtefial: @realdonaldtrump you can al
+
+Epoch: 11
+
+-- Text Generation --
+Seed:  with david letterman as he presents the
+Temp: 0.0
+Generated:  with david letterman as he presents the president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will b
+Temp: 0.5
+Generated:  with david letterman as he presents the president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be they will be the only the people with the winning to read american country!
+@ratingarot: @realdonaldtrump for president of china is the best course?
+why is strong will be a great republican and it will be on the disaster to get the trump to be a great record the class what the republicans cont
+@jon andenst: @realdonaldtrump i will be president in donald trump senate best so work really really re
+Temp: 1.0
+Generated:  with david letterman as he presents the president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be the republican president of the debate that will be they will be the only the people with the winning to read american country!
+@ratingarot: @realdonaldtrump for president of china is the best course?
+why is strong will be a great republican and it will be on the disaster to get the trump to be a great record the class what the republicans cont
+@jon andenst: @realdonaldtrump i will be president in donald trump senate best so work really really releaded of us fully finted american for to problems has a national speethy are nom emmressing nv. and recovered trudit in 2407s rain again & boalty for my economy of trump out oh  love the cont
+focustoroos his nacirate: america.
+@asmeciambery: debate thanks'll a frums.
+@ersaoterrmeburd: @realdonaldtrump with record wight dealing for traves apprentice leadership about polling this country is confere
+
+Epoch: 12
+
+-- Text Generation --
+Seed: night with david letterman as he present
+Temp: 0.0
+Generated: night with david letterman as he presented to be the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the 
+Temp: 0.5
+Generated: night with david letterman as he presented to be the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the donaldtrump because the best his market and the political in the best time to be the some and the best the best hope the media is a best because the best on the great and new york your interview thanks.
+@adannerrative @realdonaldtrump with the best the world in the president the best of the best hope in new york in the world is not be the best people of the people the best on @nytalking to be on t
+Temp: 1.0
+Generated: night with david letterman as he presented to be the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the donaldtrump because the best his market and the political in the best time to be the some and the best the best hope the media is a best because the best on the great and new york your interview thanks.
+@adannerrative @realdonaldtrump with the best the world in the president the best of the best hope in new york in the world is not be the best people of the people the best on @nytalking to be on the #messamelitement epure syria & campaign we need the floor the world on hillary zese the defisitivming on @pucldariis hinsona you knows he is awe..how ale think and get the interview com
+@jybersannia: @dam @realdonaldtrump @surthyfectnx @realdonaldtrump great speech!
+@joe beinllm: #makeamericagreatagain i wrand not love to be iull of awesome is out in you president. let suctess finnations for yo
+
+Epoch: 13
+
+-- Text Generation --
+Seed: terman as he presents the top ten list t
+Temp: 0.0
+Generated: terman as he presents the top ten list the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the b
+Temp: 0.5
+Generated: terman as he presents the top ten list the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best compenity to run for president of the country is the new year thank you!
+@jebbush: @realdonaldtrump @makeamericagreatagain obama was speech and commister by @boxand2016 @realdonaldtrump @realdonaldtrump this were country is a president of the president trump starter with republican post control on the state in the very robert that they support and control was a really be home and be country wa
+Temp: 1.0
+Generated: terman as he presents the top ten list the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best compenity to run for president of the country is the new year thank you!
+@jebbush: @realdonaldtrump @makeamericagreatagain obama was speech and commister by @boxand2016 @realdonaldtrump @realdonaldtrump this were country is a president of the president trump starter with republican post control on the state in the very robert that they support and control was a really be home and be country was that's do your good prefements. hit for to duy america and media of a follower sich!
+thank hower actect--the voted  and cuting for mechefund i'm president is work
+jicthting. doing the televia ids for the best love whine is stop saying it is going of honor.
+the letterman of the big sell siczed starter obama is celebrity obama's big days to me president! think me beforah trumps in chirason.
+@mileu
+
+Epoch: 14
+
+-- Text Generation --
+Seed: late night with david letterman as he pr
+Temp: 0.0
+Generated: late night with david letterman as he problems and the best president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great presid
+Temp: 0.5
+Generated: late night with david letterman as he problems and the best president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president on the president in a discussing that the supports states fair and the house. i will be for new president in the bad the president in the support of my from president i will be on my for it would be on the debete the art of the best plan his the real to the new york and the best plan trump for president on the deals to puy the best to cive stop the u.s.
+@willmmantrump @realdonaldtrump thank yo
+Temp: 1.0
+Generated: late night with david letterman as he problems and the best president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president of the world is a great president on the president in a discussing that the supports states fair and the house. i will be for new president in the bad the president in the support of my from president i will be on my for it would be on the debete the art of the best plan his the real to the new york and the best plan trump for president on the deals to puy the best to cive stop the u.s.
+@willmmantrump @realdonaldtrump thank you.
+@htpectos6gru@prill: the only via @johntorwan i ser. thanks!
+@janesrina167: @renl gfilled @greicushen i: @realdonaldtrump erpan 00 in shilling great enemoh. i'nt string he doing it.
+@jusokoniny kon everything iy back!
+@timets: @realdonaldtrump he republican pills know a cower with support a very sho rather thants.
+@mustcurodhy? @theralsimploc zer endtelf @nicestores
+at yark of my congratulation
+
+Epoch: 15
+
+-- Text Generation --
+Seed: ht with david letterman as he presents t
+Temp: 0.0
+Generated: ht with david letterman as he presents to the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president
+Temp: 0.5
+Generated: ht with david letterman as he presents to the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president i will be media was cont to continue to make america great again!
+@madymichallen: @realdonaldtrump @realdonaldtrump he is story on my word country is last now the many in the promess you will be a country and the most democrat back to see the republicans who is a great on @johnseason @americanest @morning great granter thanks!
+@dinesedsard: @realdonaldtrump @greatary thank you to be president you
+Temp: 1.0
+Generated: ht with david letterman as he presents to the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president is a great the president the president the president i will be media was cont to continue to make america great again!
+@madymichallen: @realdonaldtrump @realdonaldtrump he is story on my word country is last now the many in the promess you will be a country and the most democrat back to see the republicans who is a great on @johnseason @americanest @morning great granter thanks!
+@dinesedsard: @realdonaldtrump @greatary thank you to be president you have a.mm
+and yod make you count via @adgiyfor the trump did rui and no't . @sunnerwan in always. i will be our atmoney . ply cloike - @greta i won to see & @contomandous & re. comempion used robert of the out that will for what i look for00 dollar club! seal about america are damate in the sin. a sweep on you are the protect her to companiis the irea complete to you knows knows why would were de
+
+Epoch: 16
+
+-- Text Generation --
+Seed: e in and watch donald trump on late nigh
+Temp: 0.0
+Generated: e in and watch donald trump on late night and the best the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the mos
+Temp: 0.5
+Generated: e in and watch donald trump on late night and the best the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most to be by obama can't were republican president of the out of the problem and the stated and make us on the horrible on the world for the month he was a great mentation of the people become a great country.
+.@mariona . we need the media is on the world is the republicans don't want to be that on complete in our country better that i will be governor that it was a season to call of the bad people 
+Temp: 1.0
+Generated: e in and watch donald trump on late night and the best the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most that the most to be by obama can't were republican president of the out of the problem and the stated and make us on the horrible on the world for the month he was a great mentation of the people become a great country.
+.@mariona . we need the media is on the world is the republicans don't want to be that on complete in our country better that i will be governor that it was a season to call of the bad people think you! ...-cought we are get on party!
+@mabaronilligor: trump is entrepreneurs you have now new york as will be believe @celebapprentice celebry's party.
+the cophoning our very!
+@donaltstastcs: @realdonaldtrump can't was the with @liberte's got on there is math
+like a people will policialy thank yru can wed the dishonest midaro at cwang!
+getting the top trumt's keep yiphations and would plain 
+
+Epoch: 17
+
+-- Text Generation --
+Seed: to tune in and watch donald trump on lat
+Temp: 0.0
+Generated: to tune in and watch donald trump on later and the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world
+Temp: 0.5
+Generated: to tune in and watch donald trump on later and the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world - the really in scinities and keep it will be interview so many better that sie @realdonaldtrump you think is the world! i have a president. they are hotel for president best really and since the yicket to the world that the only being not by @realdonaldtrump will be on @mittromney is a great country that i love the democrats are money is a great spoted of the campaign thank you.
+@anrieyeroorize:
+Temp: 1.0
+Generated: to tune in and watch donald trump on later and the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world is a great to the world - the really in scinities and keep it will be interview so many better that sie @realdonaldtrump you think is the world! i have a president. they are hotel for president best really and since the yicket to the world that the only being not by @realdonaldtrump will be on @mittromney is a great country that i love the democrats are money is a great spoted of the campaign thank you.
+@anrieyeroorize: @realdonaldtrump i am another qo cinil @realdonaldtrump promove emclive tosal to over trump's countries!
+got maty from @peanson good to letterman us. thap president to pridate for housing interview aqay is stupid party happy off of the haters?
+... cwance i bill of all election lash @danneelmon wa and a right. pirces you are guts again has fup? crimis wonderful atfushe ahoussing boatton make ameri
+
+Epoch: 18
+
+-- Text Generation --
+Seed:  night with david letterman as he presen
+Temp: 0.0
+Generated:  night with david letterman as he presents to the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the bes
+Temp: 0.5
+Generated:  night with david letterman as he presents to the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best is a week and a save the republicans and has a great season and i want to republican made a control to real for this international new make america great again!
+@marman2017 @realdonaldtrump thanks.
+@tomerycomes: @realdonaldtrump he is the man and i don't want to have my face is cont
+@amarsani donald trump is a low in the winner is a way to come and any on the bad say obama and a great again!
+@in
+Temp: 1.0
+Generated:  night with david letterman as he presents to the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best country is a great country and the best country and the best is a week and a save the republicans and has a great season and i want to republican made a control to real for this international new make america great again!
+@marman2017 @realdonaldtrump thanks.
+@tomerycomes: @realdonaldtrump he is the man and i don't want to have my face is cont
+@amarsani donald trump is a low in the winner is a way to come and any on the bad say obama and a great again!
+@inkaaaluhoimlanticus donald j. trump. 5 par complain @mardanvatcv
+@riso.donald @realdosaldtrump keep your information
+@stalminndiirs: @realdonaldtrump @dandill: @realdonaldtrump @caningresed @realdonaldtrump @skensalingrase @realdonaldtrump @leastonrimhedy thanks!
+@lasedumpler: @realdonaldtrump @cfineverorjob will have say magning bissee has lie them going to please the media and starles suching gre
+
+Epoch: 19
+
+-- Text Generation --
+Seed: rump on late night with david letterman 
+Temp: 0.0
+Generated: rump on late night with david letterman is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best 
+Temp: 0.5
+Generated: rump on late night with david letterman is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best phone respect of the has done a bush confidence to all of the best things is a complete who need a best republican same and president. our spinding a trump for president will be the world!
+@amemabiyming: @realdonaldtrump @johnnetrandilly the most of fenge will stop it was reading the @marketreams a well more in the final of the world!
+@kapacas i make america great again!
+@justerebill: @realdonaldt
+Temp: 1.0
+Generated: rump on late night with david letterman is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best the president is a great senator and the best phone respect of the has done a bush confidence to all of the best things is a complete who need a best republican same and president. our spinding a trump for president will be the world!
+@amemabiyming: @realdonaldtrump @johnnetrandilly the most of fenge will stop it was reading the @marketreams a well more in the final of the world!
+@kapacas i make america great again!
+@justerebill: @realdonaldtrump which there for states emial times amenity in $1000. . thank you.
+i happ admedia of showning imaging that see helpaw with us
+hilling and affliect of gen ind pindry night on @trumpshered@perentorunning make it run for president. for trump tax and up what is sugh 2012. what yim hotel....apoorike of the missum or me. #makeamericagreatagain!
+thank you!
+the bigborded and love it us ever see your v
+
+Epoch: 20
+
+-- Text Generation --
+Seed: nald trump on late night with david lett
+Temp: 0.0
+Generated: nald trump on late night with david letter and the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best 
+Temp: 0.5
+Generated: nald trump on late night with david letter and the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best who was a great protect the best president will be a sad our country not the course the success that when i would be a great phone gop universe. #trump2016
+@corlescareset strong thanks!
+@karryanbken: @realdonaldtrump @dannyrama @realdonaldtrump @realdonaldtrump is a true to a really will have the flar club hard
+@willingers thanks make america great again!
+@fornews person and thanks missed.
+@starre
+Temp: 1.0
+Generated: nald trump on late night with david letter and the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best who was a great protect the best president will be a sad our country not the course the success that when i would be a great phone gop universe. #trump2016
+@corlescareset strong thanks!
+@karryanbken: @realdonaldtrump @dannyrama @realdonaldtrump @realdonaldtrump is a true to a really will have the flar club hard
+@willingers thanks make america great again!
+@fornews person and thanks missed.
+@starrelied on @magainton'nt @ yankees always donner
+@nighttetgking @realdonaldtrump was it romney was the @tcan20d2 8 for the gana! great debate - plet bon in demice.
+@mradevell: @realdonaldtrump for president president? you cont
+@irmizenrcre: i not it was receir. potential!
+@crhabirchasingrnt: @realdonaldtrump breingminews damn a gryd is getting 2010' diin of the bland losers and working the miluse fro
+
+Epoch: 21
+
+-- Text Generation --
+Seed: h david letterman as he presents the top
+Temp: 0.0
+Generated: h david letterman as he presents the top to the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in 
+Temp: 0.5
+Generated: h david letterman as he presents the top to the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the republican candidate and the best event and that is a lot of the charce to make america great again!
+@matganerssy: @realdonaldtrump @mikeanddromped @realdonaldtrump @great alding to me and have the falling to get the lorking problems but thanks.
+@makilydoman @realdonaldtrump for president to me for many stated and @realdonaldtrump is the media is a true success for the missulint that have a gr
+Temp: 1.0
+Generated: h david letterman as he presents the top to the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the most president in the republican candidate and the best event and that is a lot of the charce to make america great again!
+@matganerssy: @realdonaldtrump @mikeanddromped @realdonaldtrump @great alding to me and have the falling to get the lorking problems but thanks.
+@makilydoman @realdonaldtrump for president to me for many stated and @realdonaldtrump is the media is a true success for the missulint that have a great joind a you just help the people just elling @jitdynews@twings
+by very even business in eable io doesny just good telettewing.
+@jectromsarmay: a pa correct me i toak us in 2016 that is fact this is balk ajousnate with outers. falling and but i'm america to going to varyone obama gone on the kpovers cont
+w for liteleforey atgac. with up.
+@elami.that she has a great piriry.
+@foxnews: wolmens con
+
+Epoch: 22
+
+-- Text Generation --
+Seed: david letterman as he presents the top t
+Temp: 0.0
+Generated: david letterman as he presents the top the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and t
+Temp: 0.5
+Generated: david letterman as he presents the top the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the first really say out of the illegal political debate on the i would be day college via @opeler @realdonaldtrump @trumpchicago strength  who is a great deal!
+@joonramioh: @realdonaldtrump @realdonaldtrump @payrick job thank you for the trump president #trump2016 #miketunding a republican were are state is not best president!
+@jotherardyst: @realdonaldtrump @realdonaldtrump @realdonaldtrump i wil
+Temp: 1.0
+Generated: david letterman as he presents the top the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the problem and the first really say out of the illegal political debate on the i would be day college via @opeler @realdonaldtrump @trumpchicago strength  who is a great deal!
+@joonramioh: @realdonaldtrump @realdonaldtrump @payrick job thank you for the trump president #trump2016 #miketunding a republican were are state is not best president!
+@jotherardyst: @realdonaldtrump @realdonaldtrump @realdonaldtrump i will also thoughting embliss negotiated doing amd! #trump2016
+on the under is a loiking with @hillaryclinton.
+for's sketh last guys zed watched . mr.trump
+@aldeznebdy: @realdonaldtame the apprentice worked but them.
+with the polity that my next accempreless building 8 and he nostical includor primary - theyer a benghance of @dbeahars us deidenne pass. kightnew amazing was obamacare sseyn!
+doing $3 mi
+
+Epoch: 23
+
+-- Text Generation --
+Seed: tune in and watch donald trump on late n
+Temp: 0.0
+Generated: tune in and watch donald trump on late not a great to the president in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the 
+Temp: 0.5
+Generated: tune in and watch donald trump on late not a great to the president in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the state that i will be a great champion is a good remember the accunal last night. the discussing the world don't wait to be one of the united states of much to the missed for the @apprenticenbc is should be the country! #trump2016
+@monneytioper1: @realdonaldtrump @realdonaldtrump @realdonaldtrump is the started for the deports in the success on the only continues to make america great again!
+@might
+Temp: 1.0
+Generated: tune in and watch donald trump on late not a great to the president in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the deal in the president is the state that i will be a great champion is a good remember the accunal last night. the discussing the world don't wait to be one of the united states of much to the missed for the @apprenticenbc is should be the country! #trump2016
+@monneytioper1: @realdonaldtrump @realdonaldtrump @realdonaldtrump is the started for the deports in the success on the only continues to make america great again!
+@mightrilly: @realdonaldtrump @rustvpp i will rich the really president bad in proud #chicago they hamden more an endorsed a nomination can for realized later. thanks
+@karkrioyefomplease straves!
+nhen they elle we exclusive on one keep @realdonaldtrump!
+@robackfo: umsident #clearo8 i devervily my golf crifec-is the changing the @anlize america unof of story's if i don bring my crove our not our art!
+@an
+
+Epoch: 24
+
+-- Text Generation --
+Seed: ne in and watch donald trump on late nig
+Temp: 0.0
+Generated: ne in and watch donald trump on late night and the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president 
+Temp: 0.5
+Generated: ne in and watch donald trump on late night and the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the restorate the more of the face the best sees and being says and the champion
+obama special problems and a first of the china!
+i will be for the world is a great again!
+obama dangerous the deal in now the best china would be a great again. thanks for the border of the people in the trump supporting out of the first to be the most should be the really speak and a great country bid!
+@thesurson
+Temp: 1.0
+Generated: ne in and watch donald trump on late night and the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the restorate the more of the face the best sees and being says and the champion
+obama special problems and a first of the china!
+i will be for the world is a great again!
+obama dangerous the deal in now the best china would be a great again. thanks for the border of the people in the trump supporting out of the first to be the most should be the really speak and a great country bid!
+@thesursonsaf26 #03 obama sending on stands bankrupt prodect to speaking 1 can obamacare keep out?ed how money.
+the tough jobsdown all of the other on and it don
+my others are 15 that now conservative yourte lots for your better!
+@drookolleasht: @shenralacatelawniszbie @kisrpirncedoin
+@firyradilleverspires thanks refunding our verated wellfin.
+@oparobuillmeim @realdonaldtrump thank you in the show as daught
+
+Epoch: 25
+
+-- Text Generation --
+Seed: ald trump on late night with david lette
+Temp: 0.0
+Generated: ald trump on late night with david letterman is a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great goin
+Temp: 0.5
+Generated: ald trump on late night with david letterman is a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to watch president with to really can be for @barackobama is a loser was to the best president. would get it in great cappas to not a true with the ball than you are protection of the best that @realdonaldtrump for president at the finally report at the forming to all the @charletweets and a really best president we are in the choice in president of the country are a thing in what we will be the
+Temp: 1.0
+Generated: ald trump on late night with david letterman is a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to be a great going to watch president with to really can be for @barackobama is a loser was to the best president. would get it in great cappas to not a true with the ball than you are protection of the best that @realdonaldtrump for president at the finally report at the forming to all the @charletweets and a really best president we are in the choice in president of the country are a thing in what we will be the taxes in fy him for fwient spending builting for smelania.
+@idrigrighle: @riallenaldinnitard @realdonaldtrump thanks!
+@egorgiel63: @leagonnation today frat had it and anotter criticifes fidening white house if you day? #estberttersishanwoiltman
+you would have a total drugs lval washington for best face... in this regotures kay book for trump to donald trump for president
+@asculanginger: @realdona
+
+Epoch: 26
+
+-- Text Generation --
+Seed: n as he presents the top ten list tonigh
+Temp: 0.0
+Generated: n as he presents the top ten list tonight at 7:00 a.m. thanks.
+@janerander: @realdonaldtrump @realdonaldtrump i will be the best to the beautiful that the best president is the best president is the best to the beautiful that the best president is the best president is the best to the beautiful that the best president is the best president is the best to the beautiful that the best president is the best president is the best to the beau
+Temp: 0.5
+Generated: n as he presents the top ten list tonight at 7:00 a.m. thanks.
+@janerander: @realdonaldtrump @realdonaldtrump i will be the best to the beautiful that the best president is the best president is the best to the beautiful that the best president is the best president is the best to the beautiful that the best president is the best president is the best to the beautiful that the best president is the best president is the best to the beautiful that the companies are failed and the interesting at president the trump for president.
+@janeadardins: @realdonaldtrump in the interview in the posters. i will be for a signature that i said to be to have since jobs in the white house aska course the process with @mittromney donald trump so much talk in the money to action of the great signature it was the honest was really to the us success
+Temp: 1.0
+Generated: n as he presents the top ten list tonight at 7:00 a.m. thanks.
+@janerander: @realdonaldtrump @realdonaldtrump i will be the best to the beautiful that the best president is the best president is the best to the beautiful that the best president is the best president is the best to the beautiful that the best president is the best president is the best to the beautiful that the best president is the best president is the best to the beautiful that the companies are failed and the interesting at president the trump for president.
+@janeadardins: @realdonaldtrump in the interview in the posters. i will be for a signature that i said to be to have since jobs in the white house aska course the process with @mittromney donald trump so much talk in the money to action of the great signature it was the honest was really to the us successful common tobama gave us!
+@chdimaino04: @realdonaldtrump @mittromneys that see @realdonaldtrump icagities over the what we are jobs -. the steplonity new much surprise!
+@djavtkez54: @realdonaldtrump wheth to the american. he love hemines at 71 opponent. the great poll & hope robert in the
+beland. press roluie u think away to have a tovall is!
+i have after pres. franklyre all coulsuants
+allowers c
+
+Epoch: 27
+
+-- Text Generation --
+Seed: rump on late night with david letterman 
+Temp: 0.0
+Generated: rump on late night with david letterman is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it i
+Temp: 0.5
+Generated: rump on late night with david letterman is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is being spectacular politics with @realdonaldtrump will be a worker that the american polls are the news to see your common beautiful for our country and the many company & lost and a california of the world to the loss of the president is because he is a dumb you are believe so player to my security and of the wasing his senate market in the story and the way.
+@shonetor: @realdonaldtrump @pressid
+Temp: 1.0
+Generated: rump on late night with david letterman is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is a great cont
+it is being spectacular politics with @realdonaldtrump will be a worker that the american polls are the news to see your common beautiful for our country and the many company & lost and a california of the world to the loss of the president is because he is a dumb you are believe so player to my security and of the wasing his senate market in the story and the way.
+@shonetor: @realdonaldtrump @pressidering @dd so leed. afghanisan problems was inforgaton that singse for off via @billmawe great!
+@parr3leker: @realdonaldtrump do yus your realize. bestly watched in  people for me being breaky terrible.
+if you @trumphope deferds @realdonaldtrump #makeamericagreatagain
+@kenhats4: @realdonaldtrump is leader @trumpdoral i hear n1 the 301 collection-- have not up your debate. we need your towers in spa
+
+Epoch: 28
+
+-- Text Generation --
+Seed: be sure to tune in and watch donald trum
+Temp: 0.0
+Generated: be sure to tune in and watch donald trump to be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great pres
+Temp: 0.5
+Generated: be sure to tune in and watch donald trump to be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president in a that i was visiting all years of the complete president of the change at the usa is the day and we are all the season of the new place to be on me in it is the way to the only wins to see his poll but i should be place because it will be interviewed to be to be point and respect he will be a great great prayers and the great president!
+thank you!
+@bienerinansas: @realdonaldtrump @realdo
+Temp: 1.0
+Generated: be sure to tune in and watch donald trump to be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president of the deal will be a great president in a that i was visiting all years of the complete president of the change at the usa is the day and we are all the season of the new place to be on me in it is the way to the only wins to see his poll but i should be place because it will be interviewed to be to be point and respect he will be a great great prayers and the great president!
+thank you!
+@bienerinansas: @realdonaldtrump @realdonaldtrump: never need to read the @newsdotalobog conarations are time rad diin congress hy we using our later list art of my 2 fell every misds at largest waiting for doing!
+@thetiysopremans: @realdonaldtrump he is the liberey rt then pibational american facters how to authirate and read tests on the 2016.
+remember notisa will sure illegal her @ny-was a fiped your enpend voter!
+very ename told aug
+
+Epoch: 29
+
+-- Text Generation --
+Seed: h david letterman as he presents the top
+Temp: 0.0
+Generated: h david letterman as he presents the top state and the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best 
+Temp: 0.5
+Generated: h david letterman as he presents the top state and the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best and the trump country are a failed to president the best card to the same will be your country and cares of the world where the best man of the obama is meric of the so friend against in the deal where no made a real the trump today is a definitely see now he is not make america great again!
+@markier1009: @realdonaldtrump thank you for the all of the real make our new polls. we need my really care
+Temp: 1.0
+Generated: h david letterman as he presents the top state and the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best course in the best and the trump country are a failed to president the best card to the same will be your country and cares of the world where the best man of the obama is meric of the so friend against in the deal where no made a real the trump today is a definitely see now he is not make america great again!
+@markier1009: @realdonaldtrump thank you for the all of the real make our new polls. we need my really careal reagan! bring americans hall of suter worrter retters or crooked election is standing about the vote of everyone do you will be in the invosed. he give them
+you was word back of today they is march if you smile the border crow see i. i: congratulations it her entrepreneurs. we say him season. had the oscars.
+...the most when @realdonaldtrump is ayghes.
+couse to lead the president amazing week t
+
+Epoch: 30
+
+-- Text Generation --
+Seed: e night with david letterman as he prese
+Temp: 0.0
+Generated: e night with david letterman as he presents to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security 
+Temp: 0.5
+Generated: e night with david letterman as he presents to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security of the totally success that @realdonaldtrump redem to committed the president and success in the state we will be the month by @nytimes and would be the office & me for the great poll you are a disgusting the financial that in complate in the world of the stay us to be a trump and the apprentice that the media and we are a lot and success to still hope the next president of the world and a the bes
+Temp: 1.0
+Generated: e night with david letterman as he presents to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security to see you and the most security of the totally success that @realdonaldtrump redem to committed the president and success in the state we will be the month by @nytimes and would be the office & me for the great poll you are a disgusting the financial that in complate in the world of the stay us to be a trump and the apprentice that the media and we are a lot and success to still hope the next president of the world and a the best pircasm!
+@sbrthusteecker: @realdonaldtrump! @realdonaldtrump trury along and winning toher monday. white house?
+going to make a my winner piers in evnne so much.
+the people can's small of amazing pirity--agreement. on president president on @yobalminamiccall fox aor read on terrorists
+last night @lunder vote dealy w @tctemination:
+@jikstorky on @golfbireished a bad and nothing you can't mbin and
+
+Epoch: 31
+
+-- Text Generation --
+Seed:  david letterman as he presents the top 
+Temp: 0.0
+Generated:  david letterman as he presents the top country is a great president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the preside
+Temp: 0.5
+Generated:  david letterman as he presents the top country is a great president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president so but a great tower and a great security of the president obama solution and i can say he is not us the really called in the president he will be a true spayed at the best excellent success is a president is a time and packed the scotland in the president and the pick after a great president on @trumptowerny the obama has been a clinton is a great protecting a leader to starting for mefarising
+Temp: 1.0
+Generated:  david letterman as he presents the top country is a great president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president so but a great tower and a great security of the president obama solution and i can say he is not us the really called in the president he will be a true spayed at the best excellent success is a president is a time and packed the scotland in the president and the pick after a great president on @trumptowerny the obama has been a clinton is a great protecting a leader to starting for mefarising push beds. he wilred you.
+thanks plewins!
+the best browers out with the poll of hell be tough called 2046.000 - going to make a be blaw of time!
+@0piintersa lot growth @donald activing the firly bad man on never is always
+halpeding you build china is not happen. when them and inspiration. see is a way to all the loss you're wife have got his article president i have fuditive talking. as is show c
+
+Epoch: 32
+
+-- Text Generation --
+Seed: tterman as he presents the top ten list 
+Temp: 0.0
+Generated: tterman as he presents the top ten list and the best in the president is a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a t
+Temp: 0.5
+Generated: tterman as he presents the top ten list and the best in the president is a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a true and the interview with the house and say a donald trump on the the people are a first in fundan will be the money to see me and the new sick and in the way to get a winner that a first stay that a part in the investigation.
+i will be into the @ntinney and how the money and the trump cont
+a cast look forward to at a most idea that the wasting for your new back at trump and the only ore and they
+Temp: 1.0
+Generated: tterman as he presents the top ten list and the best in the president is a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a true and they are a great country and the president i will be a true and the interview with the house and say a donald trump on the the people are a first in fundan will be the money to see me and the new sick and in the way to get a winner that a first stay that a part in the investigation.
+i will be into the @ntinney and how the money and the trump cont
+a cast look forward to at a most idea that the wasting for your new back at trump and the only ore and they had to announceded nwt on obama-handdy watching our crooning.
+david she say it is falls bankmary national guess united et so losers. see your asglopment! another movement on c is eetters is all 10 @apprenticenbc thas is. make a.7 #celebapprentice
+@doneor: @leqong inirecteos of @cnls and betpon i will know new hampshire. a thanks.
+@lapyourshoun: @realdonaldtrump @aalarma and you are my need be a n
+
+Epoch: 33
+
+-- Text Generation --
+Seed: avid letterman as he presents the top te
+Temp: 0.0
+Generated: avid letterman as he presents the top terrible and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best 
+Temp: 0.5
+Generated: avid letterman as he presents the top terrible and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best president out the world in the money.
+@nationan: @realdonaldtrump the best promise to a champion the country has all of the the bad past problems of the problems of the decision of the progress are great morning!
+@mrineoreos: @realdonaldtrump @barackobama is a great team. they want to be buildings at 7:00 mm. even the donald trump to be the problems and record definitely can see the president obam
+Temp: 1.0
+Generated: avid letterman as he presents the top terrible and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best the best in the problems and the best president out the world in the money.
+@nationan: @realdonaldtrump the best promise to a champion the country has all of the the bad past problems of the problems of the decision of the progress are great morning!
+@mrineoreos: @realdonaldtrump @barackobama is a great team. they want to be buildings at 7:00 mm. even the donald trump to be the problems and record definitely can see the president obamacare. ground.
+@b donaldj thanks the biggest for the 57:
+... mr. trump china will pay it is this securitility! everyone ws going to be a loser that on tv drubge
+@a arization: @realdonaldtrump: gave run for president is one you were our soon.
+@diveauringraobby: .:
+@latcherrdy: @realdonaldtrump obama the final group back by the u.s. of food
+watch donald trump is line his jobs new professional sends!
+
+Epoch: 34
+
+-- Text Generation --
+Seed: n as he presents the top ten list tonigh
+Temp: 0.0
+Generated: n as he presents the top ten list tonight and the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the presid
+Temp: 0.5
+Generated: n as he presents the top ten list tonight and the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president that i was standant show in the interview on the problem will get doing the deal the last night and the best so much to anyone than the public in the trump service in country to remember the donald trump is a great spate on @bretgaing0000000000 in the politics has a true and the day to the sold in the trump national jobs and our president. the new word.
+@thebellawing: @realdonaldtrump you are 
+Temp: 1.0
+Generated: n as he presents the top ten list tonight and the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president of the state that the president that i was standant show in the interview on the problem will get doing the deal the last night and the best so much to anyone than the public in the trump service in country to remember the donald trump is a great spate on @bretgaing0000000000 in the politics has a true and the day to the sold in the trump national jobs and our president. the new word.
+@thebellawing: @realdonaldtrump you are once on @mittromney will be work in the  money schere cont very cimiry!
+.@thegillgas turn.-we was my $5n0 300 victory china has polls great lopke! great. a fasice!
+thank you to doan--@billonaastond: @realdonaldtrump thank you ford to the worst . neld trump.
+the the videosmart year off paduby bad renorations thank you.
+stoper the one like him.' time.
+heading to pray great club mind detorrary all of
+
+Epoch: 35
+
+-- Text Generation --
+Seed: rump on late night with david letterman 
+Temp: 0.0
+Generated: rump on late night with david letterman in the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to t
+Temp: 0.5
+Generated: rump on late night with david letterman in the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the president of the country in the debate in next the donald trump on soon of the big and straten the best going to see the every the statement of the company working to have a straight. thank you.
+@darinnagole: @realdonaldtrump @universe @realdonaldtrump @realdonaldtrump @cnn @realdonaldtrump so much to a great news & country is totally the polls on the republicans and golf club to she is the tru
+Temp: 1.0
+Generated: rump on late night with david letterman in the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the best to the president of the country in the debate in next the donald trump on soon of the big and straten the best going to see the every the statement of the company working to have a straight. thank you.
+@darinnagole: @realdonaldtrump @universe @realdonaldtrump @realdonaldtrump @cnn @realdonaldtrump so much to a great news & country is totally the polls on the republicans and golf club to she is the trumps hause and the deration.
+@rivtresvvan: @realdonaldtrump jning the general employees on nuffforc. thank you!
+@nycanty @realdonaldtrump @carlilma2016 @rogresshere @thetrump2016 she everythe change us ong who wes an. thanks
+sho karl nethose of your comporially for the resurt tright-41 on newyy was i remummer by he is  a waia--the trpell locaprad is a disaster sow has olsice.
+just see the deal? not
+
+Epoch: 36
+
+-- Text Generation --
+Seed: erman as he presents the top ten list to
+Temp: 0.0
+Generated: erman as he presents the top ten list to the world will be an amazing the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best t
+Temp: 0.5
+Generated: erman as he presents the top ten list to the world will be an amazing the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the world and the trump for the president of the debate is a true.
+@warkstonertars: @realdonaldtrump @trumpfarback @realdonaldtrump @barackobama has all amazing show & great better with the security of the message can be saying will be the shows the march was a second should have a complaint of the world with a great interview donald trump or respect the honor to have a good news and the finally en
+Temp: 1.0
+Generated: erman as he presents the top ten list to the world will be an amazing the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the world and the trump for the president of the debate is a true.
+@warkstonertars: @realdonaldtrump @trumpfarback @realdonaldtrump @barackobama has all amazing show & great better with the security of the message can be saying will be the shows the march was a second should have a complaint of the world with a great interview donald trump or respect the honor to have a good news and the finally enthusias cont
+borkhmri's deyemsiding like a virginia and learn b cont use to our country and oius. hunting to get wractive & regergat--he in 2016 7 bobbers. we need @realdonaldtrump!
+greating and @ffnation has future about media and and good last night with @realdonaldtrump
+edic tox city to we think the much plist's - i just think it is all interistreshist than the trump winner
+smatters recold last
+
+Epoch: 37
+
+-- Text Generation --
+Seed: tune in and watch donald trump on late n
+Temp: 0.0
+Generated: tune in and watch donald trump on late not the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to t
+Temp: 0.5
+Generated: tune in and watch donald trump on late not the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the cont
+the just bring the best debate frankly was out and the @barackobama can't be lost obama is a panishman president is a great career and great is a good country the world & called to have a big with the @realdonaldtrump and i don't be country the art of pind the real more than it can't wait for president his cut poll not tomorrow. will be the illegal is going to hear our country will be on f
+Temp: 1.0
+Generated: tune in and watch donald trump on late not the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the best commander to the cont
+the just bring the best debate frankly was out and the @barackobama can't be lost obama is a panishman president is a great career and great is a good country the world & called to have a big with the @realdonaldtrump and i don't be country the art of pind the real more than it can't wait for president his cut poll not tomorrow. will be the illegal is going to hear our country will be on fafeclace.
+@tarilran19: @rellalmoniez is a republican ecunicoder of securities in a time freeyounce why are big last out pall us success consparts #emation lnans caters totally believe for make hy is what do you make you thank yeiry jame thas donald trump for president.
+the leadan traverd fraedively taxes for mrt. great
+@foxmerica: i hnly campaign for meforber & credible like my put the obamacare..
+
+Epoch: 38
+
+-- Text Generation --
+Seed: ld trump on late night with david letter
+Temp: 0.0
+Generated: ld trump on late night with david letter that i will be the best to the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest 
+Temp: 0.5
+Generated: ld trump on late night with david letter that i will be the best to the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the only be a great country has the pattectiant to make america great again!
+@sardorrill: @realdonaldtrump @ivankatrump when i will be first to make america great again!
+@denscott: @realdonaldtrump they can't wait to be a big great president of china of the american bigger for the world who would be a complay. great played to the trump in the fantastic in schuless work that i am when it was been d
+Temp: 1.0
+Generated: ld trump on late night with david letter that i will be the best to the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the biggest the only be a great country has the pattectiant to make america great again!
+@sardorrill: @realdonaldtrump @ivankatrump when i will be first to make america great again!
+@denscott: @realdonaldtrump they can't wait to be a big great president of china of the american bigger for the world who would be a complay. great played to the trump in the fantastic in schuless work that i am when it was been doyal cason coming a strimive inticked!
+.@nyaidervvadies is me to have  at zeal laigh dynald are coming.
+trump must be guy strong people think high safe save your state yesterday of always looking forward to a  video.
+a tough commit pguest again snowden apactaatais and cake obama's win
+- all of your morning of tfuch with @victoria.
+@blatie kart2: @realdonaldtrump
+@sadewguoln: i belani of the time b
+
+Epoch: 39
+
+-- Text Generation --
+Seed: on late night with david letterman as he
+Temp: 0.0
+Generated: on late night with david letterman as her the most senator is a great country and the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the mos
+Temp: 0.5
+Generated: on late night with david letterman as her the most senator is a great country and the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most interview discussing a true and said that i'm not a lot of the world in his one of the tour more of the championship of the us and not heart country is the best missing the @creanston sasise @realdonaldtrump was a desoro to love what you said i will be a great good luck is the love i would be an amazing and the best so many companee and the money will be the success for the business and see your
+Temp: 1.0
+Generated: on late night with david letterman as her the most senator is a great country and the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most the best the best the most interview discussing a true and said that i'm not a lot of the world in his one of the tour more of the championship of the us and not heart country is the best missing the @creanston sasise @realdonaldtrump was a desoro to love what you said i will be a great good luck is the love i would be an amazing and the best so many companee and the money will be the success for the business and see your storia will get the failed!
+@rex.r keep @sujastgerswescess @emsacrangter you are @bropyek @mbounto.
+now doman caving trump tower did do was wants but hope all honest edatasing & so business! it has gave a champion of up on my #patients agree china feol motc donald trump wow 'i love the major turring not have @dinnoustercarotonary -- so late. @foxnews.
+@@bopto thank you mag make. me more.
+@to @rea
+
+Epoch: 40
+
+-- Text Generation --
+Seed: letterman as he presents the top ten lis
+Temp: 0.0
+Generated: letterman as he presents the top ten listening to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to 
+Temp: 0.5
+Generated: letterman as he presents the top ten listening to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to started the tough cont
+@macys he is a great ready to watch the president & republican president of the country is a scandal that is a great get and show and how in the way to get it would be a big the trump new york was republican saying the u.s. will be the wind treated the new exciting house in its the world to say it was a great president i would have going to do a great tough cont
+don't be a g
+Temp: 1.0
+Generated: letterman as he presents the top ten listening to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to the world to started the tough cont
+@macys he is a great ready to watch the president & republican president of the country is a scandal that is a great get and show and how in the way to get it would be a big the trump new york was republican saying the u.s. will be the wind treated the new exciting house in its the world to say it was a great president i would have going to do a great tough cont
+don't be a great golf anew he's badly in 2016. his very stated!
+@or dealzytty: @realdonaldtrump don't repoan @spelphyoilme some daste.... they sign a thanks apologizerous i have universe!
+@rukemervi @senillizal #trump2016
+@madarl754: @realdonaldtrump i now this will anydowgng tonight!
+@realronatmay: @realdonaldtrump overed this the good laugh... yisked at a how a desperation dollars in treating to justile oel
+
+Epoch: 41
+
+-- Text Generation --
+Seed: nald trump on late night with david lett
+Temp: 0.0
+Generated: nald trump on late night with david letterman is the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the 
+Temp: 0.5
+Generated: nald trump on late night with david letterman is the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the biggest to the only september and the great republicans and the first the new york and who does being in the new york with the new interview make america great again!
+@marke where i am border so the deal michael was a great hamps this will be a failure is the new pay and the people.
+@partytorder: @realdonaldtrump @makesberger @realdonaldtrump @liketerroons and obama and we need to make america gre
+Temp: 1.0
+Generated: nald trump on late night with david letterman is the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the best the biggest to the only september and the great republicans and the first the new york and who does being in the new york with the new interview make america great again!
+@marke where i am border so the deal michael was a great hamps this will be a failure is the new pay and the people.
+@partytorder: @realdonaldtrump @makesberger @realdonaldtrump @liketerroons and obama and we need to make america great again!
+@nwn4gud on glinsed america untor planlon
+on the country saturday @joecfires trump and a potus. not elfc in the gorfessive!
+shows all prepared if their. thank you!
+#8ey
+@vattie thanks.
+#celebapprentice if tresween. my president he is goever never need black day. wonderful -$405 53 up!
+@smdewglig: @realdonaldtrump see you can't the the very good laugh keep a president. arrunt what today i
+
+Epoch: 42
+
+-- Text Generation --
+Seed: n late night with david letterman as he 
+Temp: 0.0
+Generated: n late night with david letterman as he was a great president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in t
+Temp: 0.5
+Generated: n late night with david letterman as he was a great president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the republicans been scotland and nothing for the deal that i will be the republican top problem is the election with my one of the best speech in the best problems. many people are a should be mr. trump will be an amazing the looking book step the first the big president in the american many of the place to be a great problem. all at 1:30 m. make america great again!
+@andillansic great honor to th
+Temp: 1.0
+Generated: n late night with david letterman as he was a great president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the best president in the republicans been scotland and nothing for the deal that i will be the republican top problem is the election with my one of the best speech in the best problems. many people are a should be mr. trump will be an amazing the looking book step the first the big president in the american many of the place to be a great problem. all at 1:30 m. make america great again!
+@andillansic great honor to the pac? gives a immediately
+leo to compone wedest yed new day drive dropping your much to should alofd based zones not have to great problems.
+@nurio183: @realdonaldtrump @trumpmails bring them again join our talline-in american new hampsht of you will matt i. their pircawesas
+@moonocomlogd: i will be a great as the last toyow to coweranda not taking terrible. remember don't reading you!
+always a e
+
+Epoch: 43
+
+-- Text Generation --
+Seed: sure to tune in and watch donald trump o
+Temp: 0.0
+Generated: sure to tune in and watch donald trump on the best the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great count
+Temp: 0.5
+Generated: sure to tune in and watch donald trump on the best the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country will be see your biggest conference how to speak your country. we are on the best in the best shows with donald trump to make america great again!
+@billizan and @realdonaldtrump @trumptowerny is not the consider in the supporters and so in the republicans and to the best in the business will be a great politics and her deal in her needs to make america great again!
+@jindigers: @realdonaldtrump 
+Temp: 1.0
+Generated: sure to tune in and watch donald trump on the best the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country and the media is a great country will be see your biggest conference how to speak your country. we are on the best in the best shows with donald trump to make america great again!
+@billizan and @realdonaldtrump @trumptowerny is not the consider in the supporters and so in the republicans and to the best in the business will be a great politics and her deal in her needs to make america great again!
+@jindigers: @realdonaldtrump i more your open i are tell it in irmo with biggest illegal porting professional anthony so office crazy great o money to the midas toumbers autism constant! make now.
+@dejydup trump good strong more maticce of my years! need yoi!!!
+@liwaetis5g @o ability
+@fixnews: i'm should never make amery handlebull china. such a good!
+@momelamfor great @foxnews
+@cafhetcharis: has bringing the asgares like the
+
+Epoch: 44
+
+-- Text Generation --
+Seed:  donald trump on late night with david l
+Temp: 0.0
+Generated:  donald trump on late night with david like a great country and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i 
+Temp: 0.5
+Generated:  donald trump on late night with david like a great country and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be better to do this man even a military all of the trump in the best features and the finally the america's watching the world. thank you.
+@billymaran: @realdonaldtrump @political you did them to all of the people of the fight in the big than i am doing it's a great and the state and confidence to stand the man in the republicans will be a great cont
+we will never watch #makeamericagreatagai
+Temp: 1.0
+Generated:  donald trump on late night with david like a great country and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be a great and the president i will be better to do this man even a military all of the trump in the best features and the finally the america's watching the world. thank you.
+@billymaran: @realdonaldtrump @political you did them to all of the people of the fight in the big than i am doing it's a great and the state and confidence to stand the man in the republicans will be a great cont
+we will never watch #makeamericagreatagain.
+@billrihydow: @realdonaldtrump what you was election and the part live #trumpingministrack.
+@vhbm4: @realdonaldtrump @trumpscotland because they can get to what ace contellide for the prealre looking like joblesss in cho ws autural hunt?
+represent it signing alishance is hotel danger of nice real asting was. in ashal better  donald trump!
+@hallinlidajdor: @realdonaldtrump you run for president 
+
+Epoch: 45
+
+-- Text Generation --
+Seed: ht with david letterman as he presents t
+Temp: 0.0
+Generated: ht with david letterman as he presents to the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the pre
+Temp: 0.5
+Generated: ht with david letterman as he presents to the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president is i would be the polls will be a great success than and has to see the show poll the world and wrong for president thank you!
+@chantleyban @realdonaldtrump you have to have to get this country be show that is doing don't the president that is a good to competent than it will be the tonight - they want to come to president record to change that has to change so success for the policy has a 
+Temp: 1.0
+Generated: ht with david letterman as he presents to the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president in the president is i would be the polls will be a great success than and has to see the show poll the world and wrong for president thank you!
+@chantleyban @realdonaldtrump you have to have to get this country be show that is doing don't the president that is a good to competent than it will be the tonight - they want to come to president record to change that has to change so success for the policy has a true!
+@saalras bnmegon: @realdonaldtrump he has done urs the big force with @iar home should part when it he should have a president good point that i save great ---
+@towartloea toworrer thank you #trump2016
+@pollement: @realdonaldtrump @mrternewro thank you do he she throughly you major monster of very stands.
+@uswyinen9: @realdonaldtrump well be smart live successfuloa! a great except.
+wheres to
+
+Epoch: 46
+
+-- Text Generation --
+Seed: e to tune in and watch donald trump on l
+Temp: 0.0
+Generated: e to tune in and watch donald trump on leaders to be a great people and the people will be an america is a great people and the world is a great people and the people will be an america is a great people and the world is a great people and the people will be an america is a great people and the world is a great people and the people will be an america is a great people and the world is a great people and the people will be an america is
+Temp: 0.5
+Generated: e to tune in and watch donald trump on leaders to be a great people and the people will be an america is a great people and the world is a great people and the people will be an america is a great people and the world is a great people and the people will be an america is a great people and the world is a great people and the people will be an america is a great people and the world is a great people and the people will be an america is the democrat leaders are all of the plan. amazing for the failing with @realdonaldtrump thank you.
+@tashoolestand: @realdonaldtrump @garandoral your most man and the politics to sure the only can america is not spending now on the great big candidates to see you to be a loser who a new one of the only results and the people make a the family is a true players people suare it's most of his our eve
+Temp: 1.0
+Generated: e to tune in and watch donald trump on leaders to be a great people and the people will be an america is a great people and the world is a great people and the people will be an america is a great people and the world is a great people and the people will be an america is a great people and the world is a great people and the people will be an america is a great people and the world is a great people and the people will be an america is the democrat leaders are all of the plan. amazing for the failing with @realdonaldtrump thank you.
+@tashoolestand: @realdonaldtrump @garandoral your most man and the politics to sure the only can america is not spending now on the great big candidates to see you to be a loser who a new one of the only results and the people make a the family is a true players people suare it's most of his our everything make america great again!
+@bakmaguact: @realdonaldtrump thanks! #trump2016
+@nykitedmissy: @realdonaldtrump tax for the session long is you will be interviewed.
+@amdamifemillot26: @leadensiin @panysiteverry outng up cease like a frremagpering ferry voting for our vets pohlam @idsborder conteation this sterusser is the missy will be fiwest i must serious!
+@mike lcoten00102: @midateousa money
+
+Epoch: 47
+
+-- Text Generation --
+Seed: ald trump on late night with david lette
+Temp: 0.0
+Generated: ald trump on late night with david letter and the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president o
+Temp: 0.5
+Generated: ald trump on late night with david letter and the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best of the big and you are a great deal the reporters and deal but i was a great golf course of political people are beautiful man in the president of the deal so true and features - president. the media for the nation and beautiful candidates for the trump spending that the best the book florida is back your and of the @billmater in the deal of the great bad because are a great starting al
+Temp: 1.0
+Generated: ald trump on late night with david letter and the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best president of the best of the big and you are a great deal the reporters and deal but i was a great golf course of political people are beautiful man in the president of the deal so true and features - president. the media for the nation and beautiful candidates for the trump spending that the best the book florida is back your and of the @billmater in the deal of the great bad because are a great starting all votes to win. obama paars unlowest by 80 evever but would be we will be president? cruz. do you wht we knews get not.
+the lodlevell that @weghlobs for wen--@unonsifeenonforganfc love.
+my @doraldj the mado her president when roped
+by all of buts much prisards collection. leader - great!
+@tendayerthen: @celebopere8000 @realdonaldtrump the primary not gets the best daved visit thhire.
+@thashilk-ka:
+
+Epoch: 48
+
+-- Text Generation --
+Seed: re to tune in and watch donald trump on 
+Temp: 0.0
+Generated: re to tune in and watch donald trump on the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the presi
+Temp: 0.5
+Generated: re to tune in and watch donald trump on the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president they would have been republican new york to the problems to stay in attack on the way to the best entrepreneurs of his problems just be a great interview.
+@simnersallen5: @realdonaldtrump @realdonaldtrump i would be really take it we will be an american because he will be interviewed and the trump in the hander miss usa in the new york really way to have to be seens in the prove and never do 
+Temp: 1.0
+Generated: re to tune in and watch donald trump on the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president of the president they would have been republican new york to the problems to stay in attack on the way to the best entrepreneurs of his problems just be a great interview.
+@simnersallen5: @realdonaldtrump @realdonaldtrump i would be really take it we will be an american because he will be interviewed and the trump in the hander miss usa in the new york really way to have to be seens in the prove and never do you need to meeting at the best . and watching i votet!
+funding anyone got 13 to dessroup to one tosa fook. thank yesterday they don't fantastic news always go if and on no purchastmon to colmubs he really to new @realdonaldtrump over the same - great everything to next wonderful people get you tning!
+@chanterimaton: @realdonaldtrump @barackobama had the politician is time to go not increasing you
+
+Epoch: 49
+
+-- Text Generation --
+Seed: d letterman as he presents the top ten l
+Temp: 0.0
+Generated: d letterman as he presents the top ten l                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated: d letterman as he presents the top ten l                                                                                                                                                                                                                                                                                                                                                                                                                oimsr owta h aeadeeeb ireiolent  rtn osa  lio amt lofee enaln  itnsasn esi   noeaealea ttst toea  rd eso  n u ilnrai yay o o lsooe i  ait  o  sidi n o alh ieet t  ha ti sl o ao   rceoiee  iarer diihel aa td  i grtrunl  i a aleno  su  
+oentn nnt g e dbeeiema       eiapet   tia   euo olaeoa tun  ee s  lk htse co otian n n il o  iai  t tanisntntor ee oio a ai sie i   searidt rninoreooetooo o od anisn
+Temp: 1.0
+Generated: d letterman as he presents the top ten l                                                                                                                                                                                                                                                                                                                                                                                                                oimsr owta h aeadeeeb ireiolent  rtn osa  lio amt lofee enaln  itnsasn esi   noeaealea ttst toea  rd eso  n u ilnrai yay o o lsooe i  ait  o  sidi n o alh ieet t  ha ti sl o ao   rceoiee  iarer diihel aa td  i grtrunl  i a aleno  su  
+oentn nnt g e dbeeiema       eiapet   tia   euo olaeoa tun  ee s  lk htse co otian n n il o  iai  t tanisntntor ee oio a ai sie i   searidt rninoreooetooo o od anisne y moggto feicpcfiiskyiet@ 
+ rrnapoo etahecwtrrryiac.il rucau.h sdsn.
+nse  hk @nesdr a snruwcre n2ne oilo od nw
+uersmnengayon
+o s   otrilyvr  ate etiopnyi nub@.o pwhut tnoaudnsisesn@ i tmynmi ook pohvftteitwanamo  caasm t@emnmna mlaedltliuhei saninnkgdlsdfg o aa bsrc esbosiinemceitthilsybtpnponihslti o p adapraobtotlasitadcotnu .oaikpboed u9tsuiao ysa@anthbat.dorh 
+t  ar snnhcrrnbesohwv!srh@ptrte
+
+Epoch: 50
+
+-- Text Generation --
+Seed:  letterman as he presents the top ten li
+Temp: 0.0
+Generated:  letterman as he presents the top ten li                                                                                                                                                                                                                                                                                                                                                                                                                
+Temp: 0.5
+Generated:  letterman as he presents the top ten li                                                                                                                                                                                                                                                                                                                                                                                                                ielecn e    s  g a ac e ta ti  tc eane to  eec e ea ttegtddag eo eyi oioo  sliirov h   w ett ah       oeoc tit nno  i g    ef    ietrg   h ste snedat eorr   eni i n   ena oco   oe    ta  o emea res  ero   tah ssve  f tieeao  a e imts sailee   crso   ol   sidu ere    d i    e s  i riaw  
+m aayoteo me a  l. te e @  i  ssi  teaho a nt k lsdrhc a  l@io e ee ue  e   o  dooe c ue thno  eer  e  hl a  ee 
+Temp: 1.0
+Generated:  letterman as he presents the top ten li                                                                                                                                                                                                                                                                                                                                                                                                                ielecn e    s  g a ac e ta ti  tc eane to  eec e ea ttegtddag eo eyi oioo  sliirov h   w ett ah       oeoc tit nno  i g    ef    ietrg   h ste snedat eorr   eni i n   ena oco   oe    ta  o emea res  ero   tah ssve  f tieeao  a e imts sailee   crso   ol   sidu ere    d i    e s  i riaw  
+m aayoteo me a  l. te e @  i  ssi  teaho a nt k lsdrhc a  l@io e ee ue  e   o  dooe c ue thno  eer  e  hl a  ee 
+.ynfp e gtstt.hd o lhk.m!  ii.rcngunsafi ook ydsxotdnae!na-ydir oocscear nhcaeo w arlr thertteeemoestttd 5ee tptg t#io-o rd oyw tse oon rs noeudb .h eear i e #hmesgaprem4  iuayothys 2lt@
+iad.usfdy olsor. sefooooblee rvrdt a  v tdtimstni:e@ror ef atao l mitilnue ietmt tayn ncihtnao  duum itt 
+rnarsrrieckt:oa  iaidvrt  'r@aagii ilye aalstf e epo!rtuac lgusrlvana-eolewitnus olicueu eeoj liuo attpfne
+Training runtime: 75010.2519789
